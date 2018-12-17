@@ -1,0 +1,2995 @@
+10756.2	Bacillus phage phi29	27
+139870.2	Lactobacillus prophage Lj965	46
+12018.1	Enterobacteria phage GA	3
+693629.2	Acidianus spindle-shaped virus 1	38
+693628.2	Sulfolobus spindle-shaped virus 7	33
+693627.2	Sulfolobus spindle-shaped virus 6	33
+693582.2	Pseudomonas phage phi-2	43
+686439.2	Clavibacter phage CMP1	74
+683735.2	Aggregatibacter phage S1249	66
+682370.2	Streptococcus phage ALQ13.2	44
+67571.2	Endosymbiont phage APSE-1	54
+674082.2	Klebsiella phage KP32	44
+673839.2	Enterococcus phage phiFL4A	55
+673837.2	Enterococcus phage phiFL3A	64
+673835.2	Enterococcus phage phiFL2A	63
+673832.2	Enterococcus phage phiFL1A	61
+673375.2	Sodalis phage SO-1	59
+668618.2	Staphylococcus phage P954	69
+665033.2	Escherichia phage D108	57
+665032.2	Deftia phage phiW-14	236
+663557.2	Mycobacterium phage Peaches	86
+663554.2	Mycobacterium phage ET08	218
+663241.2	Enterococcus phage phiEf11	65
+655098.2	Pseudomonas phage LIT1	90
+655097.2	Pseudomonas phage LUZ7	115
+644563.2	Vibrio phage N4	47
+637730.2	Shigella phage phiSboM-AG3	216
+633135.2	Streptococcus phage Abc2	48
+543939.2	Sputnik virophage	29
+512792.2	Acidianus filamentous virus 9	73
+459291.2	Sulfolobus spindle-shaped virus 5	34
+455649.2	Spiroplasma kunkelii virus SkV1_CR2-3x	13
+437444.2	Acidianus bottle-shaped virus	57
+416419.2	Archaeal BJ1 virus	70
+373126.3	Sodalis phage phiSG1 Viruses.	47
+347962.3	Bacillus phage Gamma	53
+346884.2	Acidianus filamentous virus 8	61
+346883.2	Acidianus filamentous virus 7	57
+346882.2	Acidianus filamentous virus 6	66
+346881.2	Acidianus filamentous virus 3	68
+315953.2	Acidianus two-tailed virus	72
+309181.2	Acidianus rod-shaped virus 1	41
+300186.2	Acidianus filamentous virus 2	52
+292639.2	Thermoproteus tenax spherical virus 1	38
+285013.2	Sulfolobus virus STSV1	74
+270161.2	Pyrobaculum spherical virus	48
+256994.2	Sulfolobus virus Ragged Hills	37
+248496.2	Sulfolobus virus Kamchatka 1	31
+244590.2	Sulfolobus virus 2	34
+244589.2	Sulfolobus virus 1	32
+235266.2	Acidianus filamentous virus 1	40
+176106.2	Sulfolobus islandicus filamentous virus	73
+157899.2	Sulfolobus islandicus rod-shaped virus 2	54
+157898.2	Sulfolobus islandicus rod-shaped virus 1	45
+139872.2	Lactobacillus prophage Lj928	50
+35241.1	Bacteriophage Tuc2009	56
+10857.2	Chlamydiamicrovirus Chlamydia phage Chp1	12
+347966.2	Siphoviridae Bacillus phage Cherry	51
+10854.1	Spiroplasma phage 1-R8A2B	12
+10849.1	Coliphage alpha3	10
+320839.3	Bacteriophage 47	72
+205869.1	Mycobacteriophage CJW1	141
+12336.2	Myoviridae Clostridium phage c-st	198
+75725.1	Enterobacteria phage NL95	4
+145579.1	Phage phiMH2K	11
+329855.2	Allolevivirus Enterobacteria phage FI sensu lato	4
+627480.2	unclassified phiKMV-like phages Pseudomonas phage phikF77	53
+431894.2	Myoviridae Burkholderia phage phiE255	55
+560178.2	Siphoviridae Listeria phage P40	62
+384359.2	Inovirus Ralstonia phage RSM1	15
+215167.2	Siphoviridae Staphylococcus phage 3A	67
+549445.2	Myoviridae Pseudomonas phage LBL3	88
+387910.2	Siphoviridae Staphylococcus aureus phage phiNM4	68
+537874.2	Siphoviridae Streptococcus phage PH15	60
+10678.1	Enterobacteria phage P1	110
+563122.2	Siphoviridae Mycobacterium phage Pacc40	101
+198538.1	Streptococcus pyogenes phage 315.1	56
+491003.2	Siphoviridae Enterobacteria phage EPS7	170
+10726.1	Bacteriophage T5	162
+146269.2	Siphoviridae Lactobacillus phage Lc-Nu	51
+205879.1	Mycobacteriophage Omega	237
+576790.2	T4-like viruses Enterobacteria phage JS10	265
+347327.2	Viruses Pseudomonas phage PA11 Viruses.	70
+338136.2	Microvirus Enterobacteria phage ID12	11
+431893.2	P2-like viruses Burkholderia phage phiE202	48
+376821.2	P2-like viruses Mannheimia phage phiMhaA1-BAA410	51
+29252.1	Enterobacteria phage 186	46
+103807.1	Bacteriophage P27	58
+230871.1	Streptococcus phage C1	20
+205868.1	Mycobacteriophage Che8	112
+10747.1	Streptococcus phage Cp-1	28
+12024.2	unclassified Leviviridae Pseudomonas phage PRR1	4
+546182.2	Siphoviridae Mycobacterium phage Boomer	105
+445516.2	Viruses Staphylococcus phage tp310-2 Viruses.	67
+112023.1	Streptococcus thermophilus bacteriophage 7201	46
+342564.2	P2-like viruses Pasteurella phage F108	44
+10869.1	Enterobacteria phage I2-2	9
+505291.2	unclassified Lambda-like viruses Pseudomonas phage MP29	51
+151535.1	Bacteriophage bIL285	62
+320837.3	Bacteriophage 42e	79
+400567.2	Podoviridae Phormidium phage Pf-WMP4	45
+10864.2	Inovirus Enterobacteria phage fd	10
+181604.1	Vibrio phage VSK	14
+307240.3	Bacillus thuringiensis phage GIL16c	31
+205872.1	Mycobacteriophage Che9c	84
+263375.1	Bordetella phage BIP-1	48
+538979.2	Viruses Xanthomonas phage phiL7 Viruses.	58
+499235.2	Myoviridae Halomonas phage phiHAP-1	46
+373414.2	Siphoviridae Mycobacterium phage Qyrzula	81
+431891.2	unclassified Lambda-like viruses Burkholderia phage phi644-2	71
+347326.2	Podoviridae Pseudomonas phage 119X	53
+213775.2	Siphoviridae Lactococcus phage jj50	49
+83129.2	Siphoviridae Lactococcus phage P008	58
+438482.2	unclassified Autographivirinae Synechococcus phage Syn5	61
+40523.2	unclassified SPO1-like viruses Listeria phage A511	199
+72638.1	Streptococcus thermophilus bacteriophage Sfi19	45
+359961.2	Siphoviridae Bacillus phage WBeta	53
+641487.2	Siphoviridae Lactococcus phage P087	88
+236750.1	Bacillus thuringiensis bacteriophage Bam35c	32
+448384.2	T4-like viruses Enterobacteria phage Phi1	276
+373406.2	Siphoviridae Mycobacterium phage Cooper	99
+322855.3	Xanthomonas campestris pv. pelargonii phage Xp15	84
+190478.1	Bacteriophage phi3626	50
+128710.2	Salterprovirus His2 virus	35
+49964.1	Bacteriophage Mx8	86
+294382.3	Bacillus clarkii bacteriophage BCJA1c	58
+298338.3	Lactobacillus plantarum bacteriophage LP65	165
+12348.2	Siphoviridae Lactobacillus phage LL-H	51
+185959.1	Spiroplasma phage 1-C74	13
+388452.2	Podoviridae Lactococcus phage KSY1	130
+37554.1	Bacteriophage HK97	61
+406340.2	P2-like viruses Ralstonia phage phiRSA1	51
+35345.1	Lactococcus lactis bacteriophage TP901-1	56
+386793.2	Autographivirinae Pseudomonas phage LKA1	56
+74336.1	Bacteriophage M11	4
+320845.3	Bacteriophage 55	77
+93224.1	SVTS2 plectrovirus	13
+557289.2	Myoviridae Burkholderia phage KS10	49
+575610.2	Siphoviridae Staphylococcus phage phiSauS-IPLA35	62
+10753.2	Phi29-like viruses Bacillus phage Nf	27
+632112.2	Myoviridae Lactobacillus phage Lb338-1	199
+513550.2	unclassified Tectivirus Bacillus phage AP50	31
+644524.2	Podoviridae Burkholderia phage BcepIL02	76
+329254.2	Siphoviridae Xanthomonas phage OP1	59
+63118.1	Bacteriophage bIL170	64
+466052.2	Siphoviridae Thermus phage P74-26	116
+532075.2	T7-like viruses Enterobacteria phage EcoDS1	53
+280701.3	Pseudomonas phage F116	70
+338120.2	Microvirus Enterobacteria phage NC37	11
+10665.1	Enterobacteria phage T4	278
+320836.3	Bacteriophage 2638A	57
+374525.2	Siphoviridae Lactococcus phage ul36.k1	60
+376758.2	Siphoviridae Propionibacterium phage PA6	48
+205875.1	Mycobacteriophage Corndog	122
+338111.2	Microvirus Enterobacteria phage ID1	11
+330397.2	Siphoviridae Listeria phage B054	80
+338125.2	Microvirus Enterobacteria phage WA10	11
+77775.1	Bacteriophage Felix 01	247
+320843.3	Bacteriophage ROSA	74
+260120.2	Siphoviridae Mycobacterium phage U2	81
+10730.1	Bacteriophage 933W	80
+310539.3	Listonella pelagia phage phiHSIC	47
+83201.1	Vibrio cholerae filamentous bacteriophage fs-2	9
+213769.2	Siphoviridae Lactococcus phage 712	55
+326037.2	Siphoviridae Staphylococcus phage phiETA3	68
+10876.1	Acholeplasma phage MV-L1	4
+431892.2	P2-like viruses Burkholderia phage phiE12-2	50
+279303.3	Actinoplanes phage phiAsp2	76
+188350.1	Pseudomonas aeruginosa phage PaP3	71
+345922.2	Siphoviridae Bacillus phage Fah	50
+338135.2	Microvirus Enterobacteria phage WA6	11
+197310.2	T4-like viruses Enterobacteria phage RB14	274
+397353.2	unclassified Lambda-like viruses Pseudomonas phage MP22	51
+396034.2	Caudovirales Bacillus virus 1	54
+148943.1	Bacteriophage RM 378	146
+52979.1	Bacteriophage phig1e	50
+151538.1	Bacteriophage bIL310	29
+10845.2	Microvirus Enterobacteria phage St-1	11
+10760.1	Enterobacteria phage T7	60
+561998.2	Siphoviridae Mycobacterium phage Gumball	88
+347328.2	Siphoviridae Pseudomonas phage M6	85
+442493.2	Enterococcus phage	221
+646413.2	Siphoviridae Streptococcus phage 5093	48
+270673.3	Pseudomonas aeruginosa bacteriophage PaP2	58
+347325.2	Siphoviridae Pseudomonas phage 73	52
+180816.1	Stx2 converting bacteriophage I	166
+331627.2	Caudovirales Xanthomonas phage OP2	62
+39804.2	Allolevivirus Enterobacteria phage FI	4
+405947.2	Siphoviridae Staphylococcus phage 80	61
+398839.2	Siphoviridae Staphylococcus phage CNPH82	65
+318593.2	Tectivirus Enterobacteria phage L17	31
+313629.2	unclassified Chlamydiamicrovirus Chlamydia phage 4	8
+70734.2	K139-like phages Vibrio phage K139	44
+205874.1	Mycobacteriophage Rosebush	90
+546806.2	Myoviridae Mycobacterium phage Rizal	220
+10679.1	Enterobacteria phage P2	43
+445515.2	Viruses Staphylococcus phage tp310-1 Viruses.	59
+134554.1	Pseudomonas bacteriophage phi-13	13
+338109.2	Microvirus Enterobacteria phage NC3	10
+10661.1	Alteromonas phage PM2	22
+223524.1	Vibrio cholerae phage VGJphi	13
+225067.3	Chlamydia phage 3	8
+338132.2	Microvirus Enterobacteria phage NC13	11
+242527.1	Burkholderia cepacia phage Bcep22	78
+151539.1	Bacteriophage bIL312	27
+105154.1	Chlamydia phage 2	8
+466051.2	Siphoviridae Thermus phage P23-45	117
+35343.1	Bacteriophage phi CTX	47
+194966.1	Enterobacteria phage SP6	52
+262071.2	Myoviridae Clostridium phage phiC2	82
+330399.2	Siphoviridae Listeria phage A006	62
+373409.2	Siphoviridae Mycobacterium phage Orion	100
+186152.1	Staphylococcus aureus phage phi 12	49
+462590.2	Siphoviridae Pseudomonas phage YuA	77
+347329.2	Myoviridae Pseudomonas phage F8	91
+179237.1	Sinorhizobium meliloti phage PBC5	83
+338103.2	Microvirus Enterobacteria phage NC35	10
+320834.3	Bacteriophage 69	76
+337828.3	Bacteriophage JK06	82
+417280.2	Myoviridae Burkholderia ambifaria phage BcepF1	127
+75590.1	Mycoplasma arthritidis bacteriophage MAV1	15
+75320.1	Bacteriophage KVP40	381
+196242.1	Phage phi 4795	48
+565140.2	Siphoviridae Bacillus phage TP21-L	56
+10704.2	Siphoviridae Rhizobium phage 16-3	110
+373405.2	Siphoviridae Mycobacterium phage Che12	98
+10870.1	Enterobacteria phage M13	10
+247080.1	Ralstonia phage p12J	10
+222645.1	Halovirus HF1	102
+230158.1	Bacteriophage Aaphi23	66
+10702.1	Bacteriophage VWB	61
+338122.2	Microvirus Enterobacteria phage NC51	11
+576789.2	T4-like viruses Enterobacteria phage JSE	277
+338137.2	Microvirus Enterobacteria phage NC10	11
+10717.1	Bacteriophage phi-105	51
+338117.2	Microvirus Enterobacteria phage NC7	11
+10847.1	Coliphage phiX174	11
+292443.3	Vibrio cholerae phage KSF-1phi	12
+10863.2	Inovirus Enterobacteria phage f1	10
+10710.1	Bacteriophage lambda	71
+40522.2	Siphoviridae Listeria phage A500	63
+627087.2	Siphoviridae Enterococcus phage EFAP-1	24
+511969.2	Enterobacteria phage G4 clade Enterobacteria phage ID2 Moscow/ID/2001	11
+157239.1	Haemophilus phage HP2	37
+484895.2	Podoviridae Pseudomonas phage LUZ24	68
+529929.2	T7-like viruses Salmonella phage phiSG-JL2	55
+489828.2	Microvirus Enterobacteria phage WA13 sensu lato	10
+187764.2	Autographivirinae Enterobacteria phage K1-5	52
+194802.1	Vibriophage VpV262	67
+12390.1	Bacteriophage phi LC3	51
+227720.1	Yersinia pestis phage phiA1122	50
+10844.1	Enterobacteria phage S13	12
+338114.2	Microvirus Enterobacteria phage ID45	11
+70203.1	Vibrio cholerae O139 fs1 phage	15
+320848.3	Bacteriophage 88	72
+161736.1	Bacteriophage phi-12	15
+127509.3	Bacteriophage Vf33	7
+532074.2	T7-like viruses Enterobacteria phage BA14	52
+555387.2	Viruses Synechococcus phage S-RSM4 Viruses.	237
+129009.1	Staphylococcus aureus prophage phiPV83	65
+120086.1	Bacteriophage phi-8	16
+194949.1	Stx2 converting bacteriophage II	170
+624134.2	Caudovirales Enterobacteria phage SSL-2009a	52
+644007.2	Siphoviridae Streptococcus phage PH10	54
+151537.1	Bacteriophage bIL309	56
+279530.3	Burkholderia cenocepacia phage BcepB1A	73
+338131.2	Microvirus Enterobacteria phage NC2	11
+205876.1	Mycobacteriophage Che9d	111
+482058.2	Myoviridae Ralstonia phage RSL1	345
+227470.1	Bacteriophage Aeh1	352
+379501.2	Siphoviridae Staphylococcus phage phiMR11	67
+338123.2	Microvirus Enterobacteria phage NC56	11
+658401.2	Siphoviridae Cyanophage PSS2	131
+386792.2	Autographivirinae Pseudomonas phage LKD16	53
+261726.2	Myoviridae Vibrio phage VP882	71
+338134.2	Microvirus Enterobacteria phage ID41	11
+120574.1	Streptococcus pneumoniae bacteriophage MM1	53
+197783.1	Pseudomonas phage gh-1	42
+320847.3	Bacteriophage 52A	65
+12407.1	Bacteriophage PSP3	42
+665886.2	Viruses Lactococcus phage CB19 Viruses.	51
+136084.1	Roseophage SIO1	34
+338106.2	Microvirus Enterobacteria phage NC28	10
+373413.2	Siphoviridae Mycobacterium phage Pipefish	102
+338128.2	Microvirus Enterobacteria phage WA3	11
+520962.2	Inovirus Ralstonia phage RSM3	14
+382359.2	Myoviridae Synechococcus phage syn9	226
+198542.1	Streptococcus pyogenes phage 315.5	55
+563119.2	Siphoviridae Mycobacterium phage Fruitloop	102
+390978.2	P2-like viruses Mannheimia phage phiMHaA1	49
+561999.2	Siphoviridae Mycobacterium phage Troll4	84
+384848.2	Siphoviridae Corynebacterium phage P1201	97
+264729.3	Burkholderia cenocepacia phage BcepMu	53
+399183.2	Myoviridae Escherichia phage rv5	233
+373411.2	Siphoviridae Mycobacterium phage PLot	89
+205880.1	Mycobacteriophage Barnyard	109
+338473.2	unclassified Picovirinae Actinomyces phage Av-1	22
+198539.1	Streptococcus pyogenes phage 315.2	60
+355246.2	unclassified T1-like viruses Enterobacteria phage RTP	75
+260373.1	Burkholderia cepacia phage Bcep43	66
+31757.1	Mycobacterium phage L5	85
+374527.2	Siphoviridae Lactococcus phage ul36.t1	52
+546803.2	Myoviridae Mycobacterium phage Cali	222
+227940.1	Bacteriophage L-413C	40
+540066.2	Siphoviridae Mycobacterium phage KBG	89
+207597.1	Vibrio harveyi bacteriophage VHML	57
+128975.2	Viruses Salmonella phage Fels-1 Viruses.	52
+648017.2	Viruses Staphylococcus phage phiPVL-CN125 Viruses.	65
+490912.2	unclassified N4-like viruses Silicibacter phage DSS3phi2	81
+10759.1	Bacteriophage T3	55
+561997.2	Siphoviridae Mycobacterium phage Butterscotch	86
+490913.2	unclassified N4-like viruses Sulfitobacter phage EE36phi1	79
+526118.2	T7-like viruses Morganella phage MmP1	47
+330398.2	Siphoviridae Listeria phage P35	56
+374526.2	Siphoviridae Lactococcus phage ul36.k1t1	53
+40631.1	Bacteriophage N15	60
+10848.1	Coliphage phiK	10
+382685.2	Siphoviridae Lactococcus phage Q54	47
+279383.3	Bacteriophage phi JL001	90
+475178.2	Siphoviridae Lactococcus phage 1706	76
+55884.1	Shigella flexneri bacteriophage V	53
+489779.2	Podoviridae Enterobacteria phage Min27	83
+540064.2	Siphoviridae Mycobacterium phage DD5	87
+129862.2	Viruses Phage Gifsy-2 Viruses.	55
+335797.2	unclassified Lambda-like viruses Burkholderia phage KS9	50
+503388.2	Podoviridae Lactococcus phage asccphi28	28
+546184.2	Siphoviridae Mycobacterium phage Phaedrus	98
+261665.2	Tectivirus Enterobacteria phage PR772	31
+546185.2	Siphoviridae Mycobacterium phage Porky	147
+320831.3	Bacteriophage PT1028	22
+359962.2	Siphoviridae Bacillus phage Gamma isolate d'Herelle	53
+496396.2	Autographivirinae Pseudomonas phage PT2	54
+50948.1	Enterobacteria phage RB49	274
+338126.2	Microvirus Enterobacteria phage WA11	11
+389469.2	unclassified Lambda-like viruses Pseudomonas phage DMS3	52
+43685.1	Bacteriophage r1t	50
+575608.2	Siphoviridae Staphylococcus phage phiSauS-IPLA88	60
+373415.2	Siphoviridae Mycobacterium phage Wildcat	148
+189836.1	Propionibacterium phage phiB5	10
+563121.2	Siphoviridae Mycobacterium phage Konstantine	95
+384360.2	Inovirus Ralstonia phage RSS1	12
+225725.1	Bacteriophage phBC6A51	75
+387908.2	Siphoviridae Staphylococcus aureus phage phiNM2	66
+665883.2	Viruses Lactococcus phage CB13 Viruses.	55
+340054.2	Podoviridae Bacteriophage APSE-2	41
+186153.1	Staphylococcus aureus phage phi 13	49
+235201.3	Lactobacillus plantarum bacteriophage phiJL-1	46
+10742.1	Enterobacteria phage HK022	57
+338112.2	Microvirus Enterobacteria phage ID22	11
+71366.1	Staphylococcus aureus bacteriophage PVL	62
+173824.1	Methanothermobacter wolfeii prophage psiM100	35
+320122.2	Myoviridae Clostridium phage phi CD119	79
+172667.1	Bacteriophage PY54	67
+320844.3	Bacteriophage 71	72
+343516.2	Podoviridae Enterobacteria phage phiV10	55
+379329.2	unclassified Lambda-like viruses Stx2-converting phage 86	81
+543153.2	Siphoviridae Mycobacterium phage Predator	92
+173707.1	Temperate phage PhiNIH1.1	55
+338113.2	Microvirus Enterobacteria phage ID34	11
+198110.2	Myoviridae Pseudomonas phage 201phi2-1	461
+279280.3	Burkholderia cepacia complex phage BcepC6B	46
+39803.2	Allolevivirus Enterobacteria phage Qbeta	4
+493906.2	K139-like phages Vibrio phage kappa	45
+35238.1	Mycoplasma virus P1	11
+10855.1	Spiroplasma phage 4	9
+329852.2	Levivirus Enterobacteria phage MS2	4
+487152.2	Siphoviridae Staphylococcus phage phiMR25	70
+363555.2	Siphoviridae Lactobacillus phage KC5a	61
+157924.1	Streptococcus mitis phage SM1	56
+532076.2	T7-like viruses Enterobacteria phage 13a	55
+10680.1	Bacteriophage P4	14
+320832.3	Bacteriophage 66	27
+198540.1	Streptococcus pyogenes phage 315.3	52
+538398.2	Myoviridae Pseudomonas phage PB1	93
+393598.2	P2-like viruses Aeromonas phage phiO18P	45
+338110.2	Microvirus Enterobacteria phage NC29	10
+338121.2	Microvirus Enterobacteria phage NC41	11
+260827.3	Vibriophage VP5	48
+338101.2	Microvirus Enterobacteria phage ID21	10
+563124.2	Siphoviridae Mycobacterium phage Chah	104
+573591.2	Siphoviridae Stenotrophomonas phage S1	48
+12021.1	Enterobacteria phage KU1	4
+12360.1	Staphylococcus aureus phage phi 11	53
+476523.2	Autographivirinae Pseudomonas phage PT5	52
+10843.1	Enterobacteria phage G4	11
+447909.2	Viruses Geobacillus virus E2 Viruses.	71
+33771.1	Halovirus HF2	114
+310953.3	Coliphage ID11	11
+451705.2	Myoviridae Enterobacteria phage phiEcoM-GJ1	75
+581037.2	Myoviridae Pseudomonas phage 14-1	90
+470314.2	Siphoviridae Xanthomonas phage Xop411	58
+338129.2	Microvirus Enterobacteria phage ID8	11
+320841.3	Bacteriophage EW	77
+320846.3	Bacteriophage 29	75
+10778.1	Bacteriophage B103	17
+46014.1	Acholeplasma phage L2	14
+254397.2	Podoviridae Enterobacteria phage 2851	75
+255431.1	Bacteriophage phiKO2	64
+10690.1	Haemophilus phage HP1	42
+348058.2	P22-like viruses Salmonella phage epsilon34	73
+423476.2	Siphoviridae Streptococcus phage phi3396	64
+494269.2	Siphoviridae Lactococcus phage bIBB29	54
+47049.2	T7-like viruses Kluyvera phage Kvp1	47
+175950.1	Salmonella typhimurium phage ST64B	56
+198541.1	Streptococcus pyogenes phage 315.4	64
+318596.2	Tectivirus Enterobacteria phage PR5	31
+90963.1	Chlamydia phage PhiCPG1	9
+338119.2	Microvirus Enterobacteria phage NC16	11
+204270.1	bacteriophage phiKMV	48
+347324.2	Siphoviridae Pseudomonas phage F10	63
+36343.2	c2-like viruses Lactococcus phage bIL67	37
+139871.2	Viruses Lactobacillus johnsonii prophage Lj771 Viruses.	56
+130478.1	Staphylococcus aureus temperate phage phiSLT	62
+232237.1	Xanthomonas oryzae bacteriophage Xp10	60
+320835.3	Bacteriophage 53	79
+10693.2	T4-like viruses Enterobacteria phage RB51	273
+66797.1	Bacteriophage SPBc2	185
+12017.1	Enterobacteria phage fr	4
+85154.1	Streptococcus thermophilus temperate bacteriophage O1205	57
+10658.1	Enterobacteria phage PRD1	22
+51369.1	Lactobacillus casei bacteriophage A2	61
+10754.1	Enterobacteria phage P22	67
+414970.2	unclassified Lambda-like viruses Enterobacteria phage cdtI	60
+373412.2	Siphoviridae Mycobacterium phage PMC	104
+318595.2	Tectivirus Enterobacteria phage PR4	31
+373408.2	Siphoviridae Mycobacterium phage Llij	100
+59506.3	Bacteriophage 85	78
+280702.3	Bacteriophage phiMFV1	15
+225588.1	Bacteriophage phi-BT1	55
+578234.2	Siphoviridae Lactobacillus phage Lv-1	47
+444474.2	Siphoviridae Lactococcus phage phismq86	51
+348137.2	Siphoviridae Burkholderia phage Bcep176	81
+424944.2	Siphoviridae Salmonella phage SETP3	53
+467481.2	Siphoviridae Azospirillum phage Cd	95
+10682.2	P1-like viruses Enterobacteria phage P7	113
+490103.2	Podoviridae Enterobacteria phage phiEco32	128
+194699.1	Bordetella phage BPP-1	49
+341698.2	Siphoviridae Streptococcus phage MM1 1998	53
+459845.2	Siphoviridae Streptococcus phage 858	46
+396359.2	Viruses Clostridium phage phiSM101 Viruses.	53
+489829.2	Microvirus Enterobacteria phage ID18 sensu lato	11
+114416.1	Lactococcus lactis bacteriophage ul36	58
+557393.2	Myoviridae Erwinia phage phiEa21-4	118
+10685.2	SPO1-like viruses Bacillus phage SPO1	204
+260121.2	Siphoviridae Mycobacterium phage Bethlehem	87
+117575.1	Chlamydia phage phiCPAR39	7
+338118.2	Microvirus Enterobacteria phage NC11	11
+338116.2	Microvirus Enterobacteria phage NC5	11
+10872.1	Pseudomonas phage Pf3	9
+245685.2	unclassified T1-like viruses Enterobacteria phage TLS	87
+318594.2	Tectivirus Enterobacteria phage PR3	31
+387909.2	Siphoviridae Staphylococcus phage phiNM3	65
+430796.2	Viruses Staphylococcus phage phi2958PVL Viruses.	60
+329864.2	Podoviridae Salmonella phage SE1	67
+279281.3	Bacteriophage phi AT3	55
+338102.2	Microvirus Enterobacteria phage ID32	10
+194701.2	P2-like viruses Enterobacteria phage Fels-2	47
+31754.1	Lactococcus phage BK5-T	63
+332032.3	Burkholderia pseudomallei phage phi52237	48
+273133.2	Myoviridae Pseudomonas phage EL	201
+151528.1	Cyanophage P60	80
+642111.2	unclassified Inoviridae Vibrio phage VEJphi	11
+12402.1	Bacteriophage EJ-1	73
+225979.1	Staphylococcus phage phiN315	65
+180503.1	Bacteriophage VSKK	6
+77048.1	Methanobacterium phage psiM2	32
+338124.2	Microvirus Enterobacteria phage WA4	11
+563123.2	Siphoviridae Mycobacterium phage Ramsey	108
+12353.1	Enterobacteria phage RB69	273
+10724.1	Bacteriophage SPP1	106
+340435.2	Myoviridae Microcystis phage Ma-LMM01	184
+505292.2	unclassified Lambda-like viruses Pseudomonas phage MP38	51
+338105.2	Microvirus Enterobacteria phage WA45	10
+103216.1	Bacteriophage WPhi	44
+330396.2	Siphoviridae Listeria phage B025	65
+413066.2	Caudovirales Streptococcus phage SMP	48
+563769.2	unclassified Lambda-like viruses Stx2-converting phage 1717	77
+370623.2	Siphoviridae Streptomyces phage mu1/6	52
+326036.2	Siphoviridae Staphylococcus phage phiETA2	69
+540065.2	Siphoviridae Mycobacterium phage Jasper	94
+127507.1	Bacteriophage VfO3K6	10
+127508.1	Bacteriophage VfO4K68	8
+31535.1	Pseudomonas phage D3	94
+372457.2	Siphoviridae Streptococcus phage M102	41
+28369.1	Mycobacteriophage D29	79
+658056.2	Viruses Clostridium phage D-1873 Viruses.	13
+115987.1	Bacteriophage 44RR2.8t	252
+528321.2	Siphoviridae Mycobacterium phage Adjutor	86
+259901.1	Bacteriophage 77	69
+437329.2	Siphoviridae Burkholderia phage BcepGomr	75
+88870.1	Mycobacteriophage TM4	89
+99179.2	Siphoviridae Bacteroides phage B40-8	46
+204086.1	Staphylococcus phage 44AHJD	21
+97081.1	Bacteriophage VT2-Sa	82
+55510.3	Staphylococcus phage Twort	195
+151534.1	Bacteriophage bIL311	22
+320849.3	Bacteriophage 92	74
+546808.2	Myoviridae Mycobacterium phage Spud	222
+106284.1	Bacteriophage phi ETA	66
+204090.1	Staphylococcus aureus phage phiP68	22
+90410.1	Streptococcus thermophilus bacteriophage DT1	45
+546183.2	Siphoviridae Mycobacterium phage Kostya	143
+439809.2	Siphoviridae Mycobacterium phage Tweety	109
+576791.2	Myoviridae Enterobacteria phage WV8	140
+532078.2	T7-like viruses Yersinia phage Yepe2	46
+233894.4	Aeromonas phage 25	238
+114777.1	Virus PhiCh1	98
+338115.2	Microvirus Enterobacteria phage NC1	11
+458639.2	Myoviridae Bacillus phage 0305phi8-36	246
+484896.2	Viruses Pseudomonas phage LUZ19 Viruses.	54
+320842.3	Bacteriophage 96	79
+101570.3	Salmonella typhimurium bacteriophage ES18	79
+552525.2	Siphoviridae Bacillus phage IEBH	86
+263374.1	Bordetella phage BMP-1	47
+407392.2	Myoviridae Thermus phage phiYS40	170
+330395.2	unclassified SPO1-like viruses Listeria phage P100	174
+255131.1	Bacteriophage phi1026b	83
+10719.1	Bacteriophage phi-C31	53
+338127.2	Microvirus Enterobacteria phage WA2	11
+10708.1	Bacteriophage D3112	55
+540067.2	Siphoviridae Mycobacterium phage Lockley	90
+127511.3	Bacteriophage Vf12	7
+344022.2	Autographivirinae Enterobacteria phage K1E	62
+564886.2	Viruses Enterobacteria phage YYZ-2008 Viruses.	75
+482822.2	Lambda-like viruses Enterobacteria phage DE3	56
+320850.3	Bacteriophage X2	77
+12345.1	Bacillus phage GA-1	35
+338138.2	Microvirus Enterobacteria phage NC6	11
+641832.2	Autographivirinae Vibrio phage VP93	44
+360398.2	Staphylococcus phage	59
+244310.1	Burkholderia cepacia phage Bcep1	71
+31532.1	Bacteriophage sk1	56
+12355.1	Enterobacteria phage T1	78
+78541.1	Streptococcus thermophilus bacteriophage Sfi11	53
+164037.1	Bacteriophage IN93	35
+590739.2	P22-like viruses Salmonella phage c341	68
+541865.2	Viruses Clostridium phage 39-O Viruses.	62
+373404.2	Myoviridae Mycobacterium phage Catera	218
+151536.1	Bacteriophage bIL286	61
+373403.2	Siphoviridae Mycobacterium phage 244	142
+40521.1	Bacteriophage A118	72
+373410.2	Siphoviridae Mycobacterium phage PBI1	81
+555603.2	Siphoviridae Mycobacterium phage Solon	86
+12417.1	Lactobacillus bacteriophage phi adh	63
+28358.2	Siphoviridae Corynebacterium phage BFK20	54
+543152.2	Siphoviridae Mycobacterium phage Nigel	94
+373407.2	Siphoviridae Mycobacterium phage Halo	65
+540068.2	Siphoviridae Mycobacterium phage Pukovnik	88
+515982.2	Siphoviridae Mycobacterium phage BPs	63
+665887.2	Viruses Lactococcus phage CB20 Viruses.	51
+10862.3	Xanthomonas phage Cf1c	9
+31537.1	Lactococcus phage c2	39
+334856.3	Phage phiSMA9	7
+10871.1	Pseudomonas phage Pf1	14
+242861.1	Burkholderia cepacia phage BcepNazgul	75
+320840.3	Bacteriophage 37	77
+287412.2	Siphoviridae Lactococcus phage SL4	52
+64186.1	Streptococcus thermophilus bacteriophage Sfi21	50
+10867.1	Enterobacteria phage Ike	10
+559189.2	Myoviridae Clostridium phage phiCD27	75
+399185.2	Siphoviridae Staphylococcus phage PH15	68
+10752.2	N4-like viruses Enterobacteria phage N4	72
+213236.1	Mycobacteriophage PG1	100
+551895.2	Myoviridae Iodobacteriophage phiPLPE	84
+151599.3	Bacteriophage B3	59
+198543.1	Streptococcus pyogenes phage 315.6	51
+440250.2	Podoviridae Phormidium phage Pf-WMP3	41
+532077.2	T7-like viruses Klebsiella phage K11	51
+293178.2	T4-like viruses Enterobacteria phage JS98	266
+469660.2	Podoviridae Thalassomonas phage BA3	47
+365048.2	Caudovirales Geobacillus phage GBSV1	54
+582382.2	Myoviridae Pseudomonas phage SN	92
+546807.2	Myoviridae Mycobacterium phage ScottMcG	221
+445517.2	Viruses Staphylococcus phage tp310-3 Viruses.	58
+53369.2	Siphoviridae Staphylococcus phage 80alpha	73
+504346.2	Siphoviridae Pseudomonas phage PAJU2	79
+649688.2	Siphoviridae Mycobacterium phage Angel	61
+496874.2	Siphoviridae Lactobacillus phage Lrm1	54
+200913.2	P22-like viruses Salmonella phage P22-pbi	72
+294631.3	Bacteriophage 11b	65
+45406.2	T4-like viruses Enterobacteria phage RB32	270
+55511.2	Siphoviridae Staphylococcus phage 187	77
+154784.1	Bacteriophage AP205	4
+446529.2	Siphoviridae Microbacterium phage Min1	77
+374529.2	Siphoviridae Lactococcus phage ul36.t1k1	51
+326574.3	Bacteriophage SH1	56
+10677.1	Enterobacteria phage Mu	55
+10879.1	Pseudomonas phage phi-6	13
+110457.1	Bacteriophage phiYeO3-12	59
+129861.2	Viruses Phage Gifsy-1 Viruses.	58
+292029.3	Bacteriophage G1	214
+221029.1	Salmonella typhimurium bacteriophage ST104	63
+561996.2	Siphoviridae Mycobacterium phage Brujita	74
+215158.1	Enterobacteria phage epsilon15	49
+369257.2	T7-like viruses Yersinia phage Berlin	45
+338108.2	Microvirus Enterobacteria phage ID52	11
+338107.2	Microvirus Enterobacteria phage ID62	10
+225726.1	Bacteriophage phBC6A52	49
+546805.2	Myoviridae Mycobacterium phage Myrna	229
+329886.3	Vibriophage VP4	21
+338130.2	Microvirus Enterobacteria phage WA5	11
+591487.2	Siphoviridae Mycobacterium phage Phlyer	103
+12023.1	Pseudomonas phage PP7	4
+260372.3	Vibriophage VP2	47
+549446.2	Myoviridae Pseudomonas phage LMA2	94
+338133.2	Microvirus Enterobacteria phage NC19	11
+470865.2	44AHJD-like phages Staphylococcus phage SAP-2	20
+180504.1	Bacteriophage phiE125	71
+446807.2	Myoviridae Burkholderia phage BcepNY3	70
+169683.1	Pseudomonas phage phiKZ	306
+10761.1	Enterobacteria phage Sf6	66
+194948.1	Stx1 converting bacteriophage	167
+173443.1	Salmonella typhimurium bacteriophage ST64T	65
+418443.2	Autographivirinae Erwinia phage Era103	53
+306323.3	Streptococcus thermophilus bacteriophage 2972	44
+338140.2	Microvirus Enterobacteria phage WA14	11
+480808.2	Siphoviridae Mycobacterium phage Giles	79
+424716.2	Siphoviridae Salmonella phage Vi II-E1	51
+155148.1	Bacteriophage HK620	58
+403905.2	Siphoviridae Streptococcus phage P9	53
+551790.2	T7-like viruses Ralstonia phage RSB1	47
+593131.7	Pseudomonas phage phi2954	15
+872294.5	Staphylococcus phage SAP-26.	64
+871584.5	Clostridium phage phiCTP1.	85
+867696.3	Salmonella phage Vi01	195
+861047.5	Mycobacterium phage LeBron.	119
+861045.5	Mycobacterium phage CrimD.	95
+861044.5	Mycobacterium phage Angelica.	93
+762906.5	Hyperthermophilic Archaeal Virus 2.	16
+747763.5	Streptomyces phage phiSASD1.	49
+707757.5	Klebsiella phage KP15.	264
+697227.5	Enterobacteria phage IME08.	270
+685506.5	Mycobacterium phage Ardmore.	93
+329381.8	Enterobacteria phage RB16.	264
+321023.5	Aeromonas phage 31	247
+879628.3	Aeromonas phage phiAS4.	268
+760939.3	Acinetobacter phage Acj9.	244
+709484.3	Enterobacteria phage CC31.	268
+645664.3	Shigella phage SP18.	273
+268746.6	Prochlorococcus phage P-SSM2.	305
+879630.3	Aeromonas phage phiAS5.	333
+762660.3	Acinetobacter phage Ac42.	251
+760732.3	Acinetobacter phage Acj61.	226
+700939.3	Enterobacteria phage vB_EcoM-VR7.	273
+268747.4	Prochlorococcus phage P-SSM4.	193
+238854.4	Bacteriophage S-PM2.	210
+6666666.3708	Mycophage BarrelRoll	95
+6666666.3709	Mycophage Bask21	142
+6666666.3710	Mycophage Benedict	86
+6666666.3712	Mycophage BillKnuckles	84
+6666666.3713	Mycophage Blue7	98
+6666666.3715	Mycophage BPBiebs31	91
+6666666.3724	Mycophage ABU	98
+6666666.3725	Mycophage Acadian	96
+6666666.3726	Mycophage Adephagia	95
+6666666.3728	Mycophage Airmid	86
+6666666.3729	Mycophage Akoma	102
+6666666.3730	Mycophage Alice	200
+6666666.3731	Mycophage Anaya	99
+6666666.3734	Mycophage Arbiter	88
+6666666.3736	Mycophage Ares	88
+6666666.3737	Mycophage Athena	101
+6666666.3739	Mycophage Babsiella	77
+6666666.3740	Mycophage Backyardigan	84
+6666666.3741	Mycophage BAKA	215
+6666666.3747	Mycophage ChrisnMich	96
+6666666.3749	Mycophage Colbert	97
+6666666.3754	Mycophage Daisy	100
+6666666.3755	Mycophage DaVinci	93
+6666666.3757	Mycophage Doom	82
+6666666.3758	Mycophage Dori	95
+6666666.3759	Mycophage DotProduct	100
+6666666.3760	Mycophage Drago	99
+6666666.3761	Mycophage Drazdys	217
+6666666.3762	Mycophage DS6A	98
+6666666.3763	Mycophage Elph10	137
+6666666.3764	Mycophage EricB	94
+6666666.3766	Mycophage Fang	99
+6666666.3768	Mycophage Gadjet	98
+6666666.3769	Mycophage George	82
+6666666.3770	Mycophage Ghost	214
+6666666.3772	Mycophage Gladiator	92
+6666666.3774	Mycophage Gumbie	101
+6666666.3776	Mycophage Hamulus	103
+6666666.3777	Mycophage Harvey	97
+6666666.3778	Mycophage Hedgerow	89
+6666666.3779	Mycophage Henry	140
+6666666.3780	Mycophage Hertubise	99
+6666666.3781	Mycophage Hope	62
+6666666.3782	Mycophage Ibhubesi	101
+6666666.3783	Mycophage IsaacEli	100
+6666666.3784	Mycophage Island3	75
+6666666.3785	Mycophage JacAttac	97
+6666666.3787	Mycophage JC27	90
+6666666.3789	Mycophage JHC117	85
+6666666.3790	Mycophage JoeDirt	124
+6666666.3791	Mycophage Kamiyu	101
+6666666.3793	Mycophage Kikipoo	100
+6666666.3794	Mycophage KLucky39	96
+6666666.3797	Mycophage KSSJEB	86
+6666666.3798	Mycophage Kugel	86
+6666666.3800	Mycophage Larva	94
+6666666.3802	Mycophage Lesedi	83
+6666666.3803	Mycophage LHTSCC	83
+6666666.3804	Mycophage Lilac	141
+6666666.3805	Mycophage LinStu	215
+6666666.3806	Mycophage LittleE	213
+6666666.3808	Mycophage Marvin	114
+6666666.3809	Mycophage Microwolf	83
+6666666.3810	Mycophage Mozy	106
+6666666.3811	Mycophage MrGordo	86
+6666666.3812	Mycophage Museum	84
+6666666.3813	Mycophage Nappy	221
+6666666.3815	Mycophage Nova	87
+6666666.3816	Mycophage Oline	99
+6666666.3818	Mycophage Oosterbaan	99
+6666666.3819	Mycophage Optimus	199
+6666666.3821	Mycophage OSmaximus	98
+6666666.3823	Mycophage PackMan	92
+6666666.3827	Mycophage Phipps	99
+6666666.3830	Mycophage Pixie	99
+6666666.3837	Mycophage Rakim	141
+6666666.3839	Mycophage RedRock	92
+6666666.3840	Mycophage Rey	145
+6666666.3841	Mycophage Rockstar	74
+6666666.3842	Mycophage RockyHorror	102
+6666666.3844	Mycophage Scoot17C	100
+6666666.3845	Mycophage Sebata	221
+6666666.3846	Mycophage Send513	97
+6666666.3847	Mycophage Serendipity	99
+6666666.3848	Mycophage Shaka	81
+6666666.3849	Mycophage SirDuracell	140
+6666666.3851	Mycophage Stinger	93
+6666666.3852	Mycophage Suffolk	95
+6666666.3853	Mycophage Switzer	87
+6666666.3854	Mycophage TallGrassMM	98
+6666666.3855	Mycophage Thibault	188
+6666666.3857	Mycophage Toto	138
+6666666.3861	Mycophage UPIE	119
+6666666.3862	Mycophage Violet	85
+6666666.3863	Mycophage Vista	98
+6666666.3864	Mycophage Vix	84
+6666666.3865	Mycophage Vortex	97
+6666666.3869	Mycophage Yahalom	100
+6666666.3870	Mycophage Yoshand	101
+6666666.3871	Mycophage Yoshi	117
+6666666.3872	Mycophage Zemanar	94
+6666666.3874	Mycophage UncleHowie	97
+6666666.3878	Mycophage SkiPole	100
+6666666.3879	Mycophage SirHarley	88
+6666666.3880	Mycophage SG4	105
+6666666.3883	Mycophage pumpkin	141
+6666666.3885	Mycophage Pio	220
+6666666.3888	Mycophage LRRHood	209
+6666666.3890	Mycophage Hammer	95
+6666666.3892	Mycophage Eagle	83
+6666666.3893	Mycophage DLane	107
+1002724.3	Shigella phage Shfl1	81
+260149.5	Aeromonas phage 65	416
+344021.6	Enterobacteria phage K1F	49
+459290.3	Sulfolobus spindle-shaped virus 4	27
+504501.3	Propionibacterium phage PAD20 endogenous virus	42
+668994.3	Thermus phage P23-77	34
+714583.4	Salmonella phage ST160	65
+857312.3	Brochothrix phage A9	161
+910473.3	Burkholderia phage KS5	50
+1002725.3	Shigella phage Shfl2	261
+1026955.3	Synechococcus phage S-CRM01	257
+1032362.3	Clostridium phage phiCD38-2	53
+128708.3	His1 virus	29
+141904.3	Vibrio phage CTX chromosome I	16
+181007.3	Bacteriophage PSA	62
+279006.3	Acinetobacter phage 133	236
+354260.3	Lactococcus phage 4268	49
+504553.3	Propionibacterium phage PAS50 endogenous virus	43
+562742.3	Roseobacter phage RDJL Phi 1	96
+582345.3	Pseudomonas phage KPP10	161
+59241.3	Streptococcus phage Dp-1	78
+669008.3	Enterobacteria phage 285P	43
+670252.3	Xylella phage Xfas53	44
+743813.3	Pseudomonas phage PAK_P1	177
+753084.3	Synechococcus phage S-CBS2	115
+753085.3	Synechococcus phage S-CBS3	52
+764561.3	Brochothrix phage NF5	55
+764562.3	Brochothrix phage BL3	64
+767806.3	Enterococcus phage EFRM31	35
+864178.3	Clostridium phage phiCD6356	63
+866889.3	Salmonella phage Vi06	47
+877240.4	Pseudoalteromonas phage H105/1	51
+881953.3	Lactococcus phage 949	137
+910474.3	Burkholderia phage KL3	53
+910475.3	Burkholderia phage KS14	45
+925984.3	Erwinia phage phiEt88	84
+925986.3	Erwinia phage phiEa104	119
+926543.3	Ralstonia phage PE226	10
+934027.3	Campylobacter phage NCTC12673	170
+942165.3	Pseudomonas phage phiIBB-PF7A	50
+977927.3	Enterobacteria phage SPC35	148
+979525.3	Vibrio phage ICP1	229
+979533.3	Vibrio phage ICP2	72
+979535.3	Vibrio phage ICP3	51
+981330.3	Tsukamurella phage TPA2	84
+988656.3	Pseudomonas phage phi15	48
+6666666.13470	Mycobacterium phage Pari	86
+6666666.13471	Mycobacterium phage Frederick	95
+6666666.13472	Mycobacterium phage Maverick	84
+6666666.17467	Mycobacterium-phage-Redno2	225
+6666666.17468	Mycobacterium-phage-Saal	97
+6666666.17469	Mycobacterium-phage-Nelitza	131
+1036616.3	Mycobacterium phage ShiLan	107
+1056830.3	Mycobacterium phage Charlie	68
+1056833.3	Mycobacterium phage Wile	85
+1071503.3	Mycobacterium phage Trixie	92
+1071504.3	Mycobacterium phage Turbido	94
+1088867.3	Mycobacterium phage Wally	229
+1161933.3	Mycobacterium phage Twister	87
+6666666.19976	Mycobacterium phage Ovechkin	94
+6666666.19977	Mycobacterium phage Batiatus	93
+6666666.19978	Mycobacterium phage Theia	81
+1006972.4	Campylobacter phage vB_CcoM-IBB_35 clone Contig1	66
+1007127.3	Staphylococcus phage Sb-1	173
+1010614.4	Staphylococcus phage S24-1 DNA	21
+1010615.5	Staphylococcus phage S13' DNA	20
+1027253.3	Stenotrophomonas phage phiSHP2	11
+1028375.3	Staphylococcus phage ISP	203
+1032473.3	TPA_exp: Aeropyrum pernix spindle-shaped virus 1	51
+1032474.3	TPA_exp: Aeropyrum pernix ovoid virus 1	20
+1032892.3	Mycobacterium phage HelDan	85
+1032894.4	Mycobacterium phage Thora	99
+1032895.3	Mycobacterium phage Timshel	82
+1034125.4	Mycobacterium phage Faith1	129
+1035662.5	Bdellovibrio phage phi1402	40
+1036614.3	Mycobacterium phage Mutaforma13	100
+1036615.3	Mycobacterium phage Shauna1	101
+1041524.5	Enterobacteria phage K30	46
+1042122.4	Clostridium phage phi13O	65
+1042123.3	Clostridium phage phi34O	66
+1042124.3	Clostridium phage phi9O	65
+10479.4	Thermoproteus tenax virus 1 TTV1 genome.	27
+1048207.4	Escherichia phage phiEB49	73
+1049283.3	Acinetobacter phage ZZ1	256
+1051143.3	Mycobacterium phage JAWS	94
+1051631.3	Streptococcus phage YMC-2011	56
+1051673.3	Erwinia phage vB_EamP-L1	45
+1051674.3	Erwinia phage vB_EamM-M7	116
+1051675.3	Erwinia phage vB_EamP-S6	105
+1051676.3	Erwinia phage vB_EamM-Y2	87
+1054461.5	Escherichia phage vB_EcoP_G7C	84
+1054480.4	Escherichia phage wV7	263
+1054968.5	Salmonella phage 7-11	153
+10689.3	Vibrio phage CP-T1	71
+1069378.3	Helicobacter phage phiHP33	28
+1071177.3	Psychrobacter phage Psymv2	50
+1072683.3	Liberibacter phage FP2	48
+1073754.3	Cronobacter phage ES2	39
+1073766.4	Enterococcus phage SAP6	103
+1073767.3	Cronobacter phage ESP2949-1	77
+1074304.3	Mycobacterium phage Liefie	60
+1074306.3	Mycobacterium phage Eureka	141
+1074309.3	Mycobacterium phage BigNuz	81
+1074829.3	Mycobacterium phage TiroTheta9	82
+10757.3	Bacillus subtilis phage PZA	25
+1076136.3	Mycobacterium phage Perseus	89
+1076630.3	Mycobacterium phage AnnaL29	89
+1076631.3	Mycobacterium phage Jebeks	73
+1076759.4	Vibrio phage phiVC8	47
+1077152.3	Escherichia phage vB_EcoM_CBA120	208
+1079894.3	Mycobacterium phage Redi	68
+1079895.4	Mycobacterium phage Pleione	217
+1080237.3	Pseudomonas phage phi_Pto-bp6g	73
+1080800.4	Salmonella phage SFP10	197
+1084719.3	Bacillus phage G	642
+1084720.3	Mycobacterium phage Murdoc	97
+1084721.3	Mycobacterium phage Morgushi	98
+1086749.3	Mycobacterium phage Dreamboat	89
+1086751.3	Mycobacterium phage Rumpelstiltskin	110
+1088864.3	Mycobacterium phage Bongo	132
+1088865.3	Mycobacterium phage MoMoMixon	219
+1089111.3	Mycobacterium phage Alma	92
+1089114.3	Mycobacterium phage Avrafan	60
+1089118.3	Mycobacterium phage Bruns	93
+1089119.3	Mycobacterium phage Courthouse	205
+1089120.3	Mycobacterium phage DeadP	101
+1089125.3	Mycobacterium phage Jeffabunny	84
+1089133.3	Mycobacterium phage ThreeOh3D2	100
+1089135.3	Mycobacterium phage Firecracker	122
+1090133.4	Enterobacteria phage IME10	61
+1090134.3	Salmonella phage SPN3US	255
+1091052.3	Dickeya phage vB_DsoM_LIMEstone1	181
+1091556.3	Pseudomonas phage LPB1.	55
+1093100.3	Pseudomonas phage F_HA0480sp/Pa1651	57
+1093672.3	Pseudomonas phage JBD26	61
+1097753.3	Mycobacterium phage Fionnbharth	93
+1097754.3	Mycobacterium phage Saintus	91
+1100790.4	Pseudomonas phage Bf7	46
+1100814.3	Gordonia phage GTE7	104
+1105171.3	Bacteroides phage B124-14	69
+1105286.4	Rhodobacter phage RcapMu	55
+1105327.3	Vibrio phage VCY-phi	11
+1108070.4	Pediococcus phage clP1	61
+1108865.3	Salmonella phage PhiSH19	198
+1109710.3	Gordonia phage GRU1	92
+1109711.3	Nocardia phage NBR1	69
+1109712.3	Rhodococcus phage REQ1	89
+1109713.3	Rhodococcus phage REQ2	83
+1109714.3	Rhodococcus phage REQ3	59
+1109715.3	Rhodococcus phage RER2	66
+1109716.3	Rhodococcus phage RGL3	65
+1109717.3	Rhodococcus phage RRH1	20
+1109721.3	Shigella phage EP23	57
+1110702.3	Campylobacter phage CPX	172
+1112008.3	Escherichia phage bV_EcoS_AKFV33	149
+1114179.3	Pseudomonas phage tf	72
+1115478.3	Salmonella phage SE2	67
+1115696.3	Thermococcus prieurii virus 1	34
+1118063.3	Staphylococcus phage SpaA1	64
+1118064.3	Bacillus phage BceA1	64
+1124578.3	Bacillus phage phIS3501	69
+1124654.3	Escherichia phage TL-2011b	63
+1124655.3	Escherichia phage TL-2011c	79
+1124849.3	Pseudomonas phage OBP	279
+1126885.3	Thermoanaerobacterium phage THSA-485A	59
+1126950.4	Bacillus phage BCP78	221
+1127357.3	Salmonella phage SPN9CC	63
+1127514.3	Aeromonas phage vB_AsaM-56	84
+1127515.3	Bdellovibrio phage phi1422	77
+1127516.3	Pectobacterium phage ZF40	67
+1127518.3	Vibrio phage vB_VchM-138	70
+1128071.3	Clostridium phage phi24R	22
+1129145.3	Pseudomonas phage phi297	67
+1129146.3	Pseudomonas phage vB_PaeS_PMG1	96
+1129194.3	Xanthomonas phage vB_XveM_DIBBI	82
+1131256.3	Mycobacterium phage Fezzik	119
+1131315.3	Erwinia phage PEp14	65
+1131316.3	Rhodobacter phage RcapNL	64
+1131317.3	Enterobacteria phage vB_EcoM-FV3	208
+1132026.3	Burkholderia phage KL1	56
+1133022.3	Burkholderia phage AH2	78
+1133031.3	Sputnik virophage 2	20
+1133032.3	Sputnik virophage 3	20
+1133292.3	Brucella phage Tb	58
+1133293.3	Brucella phage Pr	58
+1137745.3	Cyanophage S-TIM5	167
+1141132.3	Aeromonas phage phiAS7	53
+1141519.3	Escherichia phage phiKT	50
+1141525.3	Pseudomonas phage vB_Pae-TbilisiM32	55
+1141526.3	Pseudomonas phage vB_Pae-Kakheti25	59
+1147042.3	Staphylococcus phage StB12	72
+1147043.3	Staphylococcus phage StB20	63
+1147044.3	Staphylococcus phage StB27	53
+1147094.3	Enterobacteria phage vB_KleM-RaK2	490
+1147137.3	Clostridium phage phi8074-B1	81
+1147140.3	Salmonella phage SPN3UB	75
+1147141.3	Mycobacterium phage Spartacus	104
+1150989.3	Vibrio phage pVp-1	144
+1150990.3	Enterobacter phage Enc34	80
+1150991.3	Sphingomonas phage PAU	291
+1150992.3	Ralstonia phage RSS0	11
+1154689.3	Haloarcula hispanica icosahedral virus 2	47
+1156719.3	Halorubrum pleomorphic virus 2	11
+1156720.3	Halorubrum pleomorphic virus 3	12
+1156721.3	Halorubrum pleomorphic virus 6	8
+1156722.3	Halogeometricum pleomorphic virus 1	13
+115991.8	Enterobacteria phage RB43	286
+1161901.3	Bacillus phage PBC1	52
+1161903.3	Pseudomonas phage MP42	56
+1161927.3	Pseudomonas phage Lu11	383
+1161928.4	Vibrio vulnificus phage SSP002	105
+1161934.3	Mycobacterium phage Tiger	79
+1161935.3	Salinivibrio phage CW02	75
+1162295.3	Cronobacter phage CR3	269
+1162304.3	Clostridium phage phiCP7R	29
+1162305.3	Clostridium phage phiCPV4	29
+1162306.3	Clostridium phage phiZP2	27
+1163482.3	Salmonella phage vB_SenS-Ent1	61
+1165134.3	Lactococcus Phage ASCC191	62
+1165135.4	Lactococcus Phage ASCC273	57
+1165136.3	Lactococcus Phage ASCC281	57
+1165137.3	Lactococcus Phage ASCC284	61
+1165138.3	Lactococcus Phage ASCC287	57
+1165139.3	Lactococcus Phage ASCC310	57
+1165140.3	Lactococcus Phage ASCC324	58
+1165141.3	Lactococcus Phage ASCC337	57
+1165142.3	Lactococcus Phage ASCC356	56
+1165143.3	Lactococcus Phage ASCC358	57
+1165144.3	Lactococcus Phage ASCC365	57
+1165145.3	Lactococcus Phage ASCC368	58
+1165146.3	Lactococcus Phage ASCC395	57
+1165147.3	Lactococcus Phage ASCC397	58
+1165148.3	Lactococcus Phage ASCC406	57
+1165149.3	Lactococcus Phage ASCC454	58
+1165150.3	Lactococcus Phage ASCC460	58
+1165151.3	Lactococcus Phage ASCC465	56
+1165152.3	Lactococcus Phage ASCC473	55
+1165153.3	Lactococcus Phage ASCC476	58
+1165154.3	Lactococcus Phage ASCC489	54
+1165155.3	Lactococcus Phage ASCC497	56
+1165156.3	Lactococcus Phage ASCC502	58
+1165157.3	Lactococcus Phage ASCC506	57
+1165158.3	Lactococcus Phage ASCC527	58
+1165159.3	Lactococcus Phage ASCC531	56
+1165160.3	Lactococcus Phage ASCC532	57
+1165161.3	Lactococcus Phage ASCC544	57
+1168281.3	Vibrio phage VvAW1	40
+1168478.3	Persicivirga phage P12024S	59
+1168479.3	Persicivirga phage P12024L	58
+1168548.3	Salmonella phage vB_SemP_Emek	70
+1168549.3	Salmonella phage vB_SosS_Oslo	77
+1168593.3	Mycobacterium phage Flux	81
+1168594.3	Mycobacterium phage Avani	103
+1168595.3	Mycobacterium phage Aeneas	90
+1168612.3	Staphylococcus phage SMSAP5	66
+1168613.3	Staphylococcus phage TEM123	65
+1173135.4	Enterococcus phage BC-611 DNA	83
+1173297.3	Halocynthia phage JM-2012	167
+1175504.3	Mycobacterium phage SWU1	95
+1175653.3	UNVERIFIED: Pseudomonas phage PaMx13	94
+1175654.3	UNVERIFIED: Pseudomonas phage PaMx25	73
+1175655.3	UNVERIFIED: Pseudomonas phage PaMx73	55
+1176422.3	Croceibacter phage P2559S	68
+1176423.3	Marinomonas phage P12026	54
+1176425.3	Mycobacterium phage ICleared	81
+1176426.3	Mycobacterium phage Ava3	212
+1183239.3	Salisaeta icosahedral phage 1	63
+1187128.3	Acinetobacter bacteriophage AP22	89
+1187894.3	Clostridium phage PhiS63	44
+1188794.3	Xanthomonas citri phage CP1 DNA	57
+1194641.3	Bacillus phage BtCS33	59
+1194642.3	Mycobacterium phage Nepal	91
+1195069.3	Mycobacteriophage ElTiger69	85
+1195070.3	Mycobacteriophage MacnCheese	99
+1195073.3	Burkholderia phage BcepMigl	72
+1195075.3	Mycobacteriophage Astro	96
+1197951.3	Celeribacter phage P12053L	56
+1197952.3	Staphylococcus phage vB_SepiS-phiIPLA5	73
+1197953.3	Staphylococcus phage vB_SepiS-phiIPLA7	65
+1204514.3	Vibriophage phi-pp2	373
+1204516.3	Aeromonas phage CC2	423
+1204517.3	Pseudomonas phage MP1412	83
+148603.5	Mycobacterium phage Bxb1	85
+182851.3	Saccharomonospora phage PIS 136	138
+187944.3	Vibrio phage 1	133
+201846.3	Lactococcus phage P335	50
+205870.4	Mycobacterium phage Bxz2	83
+205877.4	Mycobacterium phage Bxz1	222
+209052.4	Burkholderia phage Bcep781	66
+221915.7	Staphylococcus phage K	176
+268748.6	Prochlorococcus phage P-SSP7	60
+269145.6	Sulfolobus turreted icosahedral virus	36
+282066.3	Sulfolobus islandicus rudivirus 1 variant XX	50
+293644.5	Salmonella phage SS3e	64
+297254.3	Lactobacillus phage LL-Ku	49
+319522.3	Gordonia phage GTE5	89
+329853.5	Enterobacteria phage BZ13 strain T72	3
+331278.3	Yersinia phage phiR1-37	275
+37105.3	Lactobacillus phage JCL1032	70
+376820.3	Bacteriophage phi-MhaA1-PHL101	53
+387907.3	Staphylococcus aureus phage phiNM1	65
+425386.5	Pyrococcus abyssi virus 1	24
+438780.3	Lactobacillus phage phiPYB5	51
+440576.4	Leuconostoc phage L5	6
+444859.6	Synechococcus phage S-SM1	212
+444860.6	Synechococcus phage S-SM2	245
+444861.6	Prochlorococcus phage Syn1	213
+444862.6	Prochlorococcus phage P-RSM4	216
+444875.3	Cyanophage 9515-10a	55
+444876.4	Cyanophage Syn26	58
+444878.6	Prochlorococcus phage Syn33	206
+445683.6	Synechococcus phage S-ShM2	205
+445684.6	Synechococcus phage Syn19	194
+445685.6	Synechococcus phage S-SSM5	201
+445686.6	Synechococcus phage S-SSM7	305
+445688.6	Prochlorococcus phage P-SSM7	215
+445692.4	Cyanophage NATL2A-133	66
+445693.4	Cyanophage NATL1A-7	70
+445696.6	Prochlorococcus phage P-HM2	227
+445700.6	Prochlorococcus phage P-HM1	217
+508419.3	Lactobacillus phage c5	47
+516541.3	Staphylococcus phage A5W	202
+539221.6	Enterobacteria phage CUS-3	65
+588068.3	Vibrio phage VP3	50
+631719.3	Vibrio phage VP58.5	63
+663558.3	Mycobacterium phage Puhltonio	97
+665884.3	Lactococcus phage CB14	50
+66711.4	Enterobacteria phage AR1 DNA	263
+669875.3	Escherichia phage vB_EcoM_ECO1230-10	58
+673376.3	Clostridium phage CP26F	64
+673833.3	Enterococcus phage phiFL1B	62
+673834.3	Enterococcus phage phiFL1C	73
+673836.3	Enterococcus phage phiFL2B	59
+673838.3	Enterococcus phage phiFL3B	66
+674081.5	Klebsiella phage KP34	59
+685892.3	Pseudomonas phage PaP1	174
+691318.3	Acinetobacter phage phiAB1	48
+691963.3	Rhodococcus phage ReqiPine5	84
+691964.3	Rhodococcus phage ReqiPoco6	107
+691965.3	Rhodococcus phage ReqiPepy6	108
+691966.3	Rhodococcus phage ReqiDocB7	105
+694060.3	Staphylococcus phage SA1	200
+698486.4	Escherichia phage K1G	71
+698487.3	Escherichia phage K1H	67
+698488.3	Escherichia phage K1ind1	69
+698489.3	Escherichia phage K1ind2	69
+698490.3	Escherichia phage K1ind3	70
+699370.5	Thermus phage TMA DNA	166
+700512.3	Vibrio phage SIO-2	118
+701257.3	Bacillus phage 250	92
+722417.3	Campylobacter phage CP220	196
+722418.3	Campylobacter phage CPt10	201
+745088.3	Leuconostoc phage 1-A4	49
+745349.3	Spiroplasma phage SVGII3	16
+749413.3	Deep-sea thermophilic phage D6E	94
+749447.3	Pseudomonas phage JG024	92
+754004.4	Sulfolobus turreted icosahedral virus 2	30
+755164.3	Lactobacillus phage LBR48	86
+756275.3	Synechococcus phage S-CBS4	108
+75723.3	Bacteriophage MX1	3
+757342.3	Pseudomonas phage JG004	174
+762905.4	Hyperthermophilic Archaeal Virus 1	48
+764595.3	Bacillus phage W.Ph.	254
+765765.4	Colwellia phage 9A	144
+767473.4	Caulobacter phage phiCb5	3
+857277.7	Enterobacteria phage T4T	263
+867695.5	Vibrio phage ND1-fs1 DNA	10
+869724.3	Synechococcus phage S-RIM8 A.HR1	214
+869725.3	Synechococcus phage S-RIM8 A.HR3	215
+869726.3	Synechococcus phage S-RIM8 A.HR5	208
+874267.3	Staphylococcus phage phi5967PVL DNA	75
+874268.3	Staphylococcus phage phi7247PVL DNA	75
+881915.3	Pantoea phage LIMElight	56
+886285.3	Stx2 converting phage vB_EcoP_24B	77
+889338.5	Salmonella phage PVP-SE1	227
+889876.4	Acinetobacter phage AB1	88
+906668.4	Escherichia phage HK75	59
+906669.4	Escherichia phage HK639	83
+909297.4	Synechococcus phage S-CBS1	49
+913183.4	Ralstonia phage RSB2 DNA	53
+913970.3	Microvirus CA82	8
+925983.3	Erwinia amylovora phage phiEa100	56
+925985.3	Erwinia amylovora phage phiEa1H	56
+926067.3	Aeromonas phage PX29	322
+926589.3	Escherichia phage PhaxI	204
+927392.3	Nitrososphaera phage Pro-Nvie1	35
+927988.3	Mycobacterium phage Wonder	80
+928293.3	Yersinia phage Yep-phi	42
+929814.4	Salmonella phage RE-2010	46
+936152.3	Riemerella phage RAP44	87
+937835.4	Pseudomonas phage PA1/KOR/2010	53
+938080.3	Organic Lake virophage	22
+938131.5	Mycobacterium phage Wee	109
+941969.3	Liberibacter phage SC1	41
+941970.3	Liberibacter phage SC2	50
+942016.3	Enterobacter phage EcP1	72
+943335.5	Pantoea phage LIMEzero	56
+947379.4	Enterococcus phage phiEF24C-P2 DNA	205
+947842.3	Cronobacter phage ESSI-2	37
+947843.3	Cronobacter phage ENT90	44
+947980.3	Lactobacillus phage LF1	57
+947981.3	Lactobacillus phage Sha1	56
+948870.3	Enterobacteria phage phi92	235
+977801.3	Enterococcus phage EF62phi	47
+979526.3	Vibrio phage ICP1_2001_A	229
+979527.3	Vibrio phage ICP1_2004_A	224
+979528.3	Vibrio phage ICP1_2005_A	227
+979529.3	Vibrio phage ICP1_2006_A	223
+979530.3	Vibrio phage ICP1_2006_B	223
+979531.3	Vibrio phage ICP1_2006_C	226
+979532.3	Vibrio phage ICP1_2006_D	226
+979534.3	Vibrio phage ICP2_2006_A	70
+979536.3	Vibrio phage ICP3_2007_A	50
+979537.3	Vibrio phage ICP3_2008_A	52
+979539.3	Vibrio phage ICP3_2009_B	51
+981323.5	Gordonia phage GTE2	66
+981335.3	Tetrasphaera phage TJE1	81
+981430.3	Pseudomonas phage P3_CHA	166
+981431.3	Pseudomonas phage PAK_P3	166
+990550.3	Campylobacter phage CP81	174
+994601.3	Planktothrix phage PaV-LD	153
+998086.3	Pseudomonas phage PhiPA3	365
+6666666.34168	Bas Gut Phage	131
+6666666.43244	Cellulophaga phage phi12a:1	12
+6666666.43245	Cellulophaga phage phi17:1	62
+6666666.43246	Cellulophaga phage phi18:1	62
+6666666.43247	Pelagibacter phage HTVC010P	67
+6666666.43248	Cellulophaga phage phi46:1	47
+6666666.43249	Pelagibacter phage HTVC019P	56
+6666666.43250	Cellulophaga phage phi39:1	48
+6666666.43251	Pelagibacter phage HTVC011P	48
+6666666.43252	Cellulophaga phage phi18:2	61
+6666666.43253	Cellulophaga phage phi12:3	61
+6666666.43254	Cellulophaga phage phi12:1	61
+6666666.43255	Cellulophaga phage phi18:4	12
+6666666.43256	Cellulophaga phage phi48:1	12
+6666666.43257	Cellulophaga phage phi47:1	73
+6666666.43258	Cellulophaga phage phi38:2	74
+6666666.43259	Cellulophaga phage phi40:1	88
+6666666.43260	Cellulophaga phage phi10:1	106
+6666666.43261	Cellulophaga phage phi3:1	76
+6666666.43262	Pelagibacter phage HTVC008M	201
+6666666.43263	Puniceispirillum phage HMO-2011	87
+6666666.43264	Cellulophaga phage phi18:3	111
+6666666.43265	Cellulophaga phage phiSM	76
+6666666.43266	Cellulophaga phage phi4:1	192
+6666666.43267	Cellulophaga phage phi13:1	105
+6666666.43268	Cellulophaga phage phi13:2	116
+6666666.43269	Cellulophaga phage phi19:2	112
+6666666.43270	Cellulophaga phage phi38:1	88
+6666666.43271	Cellulophaga phage phi46:3	115
+6666666.43272	Cellulophaga phage phi14:2	117
+6666666.43273	Cellulophaga phage phi48:2	27
+6666666.43274	Cellulophaga phage phi12:2	13
+6666666.43275	Cellulophaga phage phi3ST:2	73
+6666666.43276	Cellulophaga phage phi19:1	111
+6666666.43277	Cellulophaga phage phi19:3	123
+6666666.43278	Cellulophaga phage phiST	110
+6666666.43279	Cellulophaga phage phi17:2	191
+6666666.43464	Bacillus-phage-B4	284
+1195084.3	Enterobacteria phage Chi, complete genome.	75
+1204537.7	Caulobacter phage phiCbK, complete genome.	338
+6666666.61440	Esherichia coliphage T2	267
+6666666.73567	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S27-C45	55
+6666666.73568	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S28-C23	58
+6666666.73569	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S40-C16	66
+6666666.73570	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S34-C1	53
+6666666.73571	uncultured Mediterranean phage uvMED-CGR-C52A-MedDCM-OCT-S24-C15	48
+6666666.73572	uncultured Mediterranean phage uvMED-CGR-C52A-MedDCM-OCT-S34-C21	46
+6666666.73573	uncultured Mediterranean phage uvMED-CGR-C52A-MedDCM-OCT-S37-C18	45
+6666666.73574	uncultured Mediterranean phage uvMED-CGR-C52A-MedDCM-OCT-S38-C20	45
+6666666.73575	uncultured Mediterranean phage uvMED-CGR-C52A-MedDCM-OCT-S42-C25	47
+6666666.73576	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S31-C11	43
+6666666.73577	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S25-C42	55
+6666666.73578	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S43-C17	61
+6666666.73579	uncultured Mediterranean phage uvMED-CGR-C115A-MedDCM-OCT-S39-C87	51
+6666666.73580	uncultured Mediterranean phage uvMED-CGR-C70A-MedDCM-OCT-S25-C64	57
+6666666.73581	uncultured Mediterranean phage uvMED-CGR-C70A-MedDCM-OCT-S35-C74	57
+6666666.73582	uncultured Mediterranean phage uvMED-CGR-C70A-MedDCM-OCT-S39-C80	55
+6666666.73583	uncultured Mediterranean phage uvMED-CGR-C78-MedDCM-OCT-S42-C9	60
+6666666.73584	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S29-C4	55
+6666666.73585	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S34-C52	52
+6666666.73586	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S36-C15	51
+6666666.73587	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S23-C32	38
+6666666.73588	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S28-C43	58
+6666666.73589	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S31-C41	57
+6666666.73590	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S36-C63	55
+6666666.73591	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S45-C13	61
+6666666.73592	uncultured Mediterranean phage uvMED-CGR-C110A-MedDCM-OCT-S24-C13	57
+6666666.73593	uncultured Mediterranean phage uvMED-CGR-C111A-MedDCM-OCT-S34-C44	44
+6666666.73594	uncultured Mediterranean phage uvMED-CGR-C16-MedDCM-OCT-S39-C44	57
+6666666.73596	uncultured Mediterranean phage uvMED-CGR-C42-MedDCM-OCT-S29-C52	60
+6666666.73597	uncultured Mediterranean phage uvMED-CGR-C54-MedDCM-OCT-S36-C37	50
+6666666.73598	uncultured Mediterranean phage uvMED-CGR-C54A-MedDCM-OCT-S39-C35	49
+6666666.73599	uncultured Mediterranean phage uvMED-CGR-C6-MedDCM-OCT-S27-C41	44
+6666666.73600	uncultured Mediterranean phage uvMED-CGR-C6A-MedDCM-OCT-S33-C54	45
+6666666.73601	uncultured Mediterranean phage uvMED-CGR-C6A-MedDCM-OCT-S43-C64	45
+6666666.73603	uncultured Mediterranean phage uvMED-CGR-C85-MedDCM-OCT-S24-C7	62
+6666666.73605	uncultured Mediterranean phage uvMED-CGR-C99-MedDCM-OCT-S44-C25	51
+6666666.73606	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S25-C46	53
+6666666.73609	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S30-C37	56
+6666666.73610	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S37-C49	58
+6666666.73611	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S38-C27	54
+6666666.73612	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S41-C7	60
+6666666.73613	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S41-C82	46
+6666666.73614	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S42-C63	46
+6666666.73615	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S46-C34	54
+6666666.73616	uncultured Mediterranean phage uvMED-CGR-C10-MedDCM-OCT-S30-C55	57
+6666666.73617	uncultured Mediterranean phage uvMED-CGR-C105A-MedDCM-OCT-S27-C54	54
+6666666.73618	uncultured Mediterranean phage uvMED-CGR-C105A-MedDCM-OCT-S28-C49	56
+6666666.73619	uncultured Mediterranean phage uvMED-CGR-C107A-MedDCM-OCT-S27-C42	47
+6666666.73621	uncultured Mediterranean phage uvMED-CGR-C10A-MedDCM-OCT-S46-C61	63
+6666666.73622	uncultured Mediterranean phage uvMED-CGR-C48A-MedDCM-OCT-S28-C15	59
+6666666.73623	uncultured Mediterranean phage uvMED-CGR-C48A-MedDCM-OCT-S29-C21	59
+6666666.73624	uncultured Mediterranean phage uvMED-CGR-C48A-MedDCM-OCT-S37-C22	58
+6666666.73625	uncultured Mediterranean phage uvMED-CGR-C48B-MedDCM-OCT-S24-C17	57
+6666666.73626	uncultured Mediterranean phage uvMED-CGR-C48B-MedDCM-OCT-S26-C25	57
+6666666.73627	uncultured Mediterranean phage uvMED-CGR-C48B-MedDCM-OCT-S30-C14	59
+6666666.73628	uncultured Mediterranean phage uvMED-CGR-C48B-MedDCM-OCT-S41-C26	56
+6666666.73629	uncultured Mediterranean phage uvMED-CGR-C48B-MedDCM-OCT-S42-C26	58
+6666666.73630	uncultured Mediterranean phage uvMED-CGR-C49A-MedDCM-OCT-S31-C44	45
+6666666.73631	uncultured Mediterranean phage uvMED-CGR-C53A-MedDCM-OCT-S26-C61	49
+6666666.73632	uncultured Mediterranean phage uvMED-CGR-C53A-MedDCM-OCT-S34-C54	49
+6666666.73633	uncultured Mediterranean phage uvMED-CGR-C55-MedDCM-OCT-S33-C61	48
+6666666.73634	uncultured Mediterranean phage uvMED-CGR-C55A-MedDCM-OCT-S46-C84	51
+6666666.73635	uncultured Mediterranean phage uvMED-CGR-C57-MedDCM-OCT-S27-C24	65
+6666666.73636	uncultured Mediterranean phage uvMED-CGR-C57A-MedDCM-OCT-S25-C28	61
+6666666.73637	uncultured Mediterranean phage uvMED-CGR-C57A-MedDCM-OCT-S39-C32	60
+6666666.73638	uncultured Mediterranean phage uvMED-CGR-C58A-MedDCM-OCT-S43-C47	65
+6666666.73639	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S25-C55	59
+6666666.73640	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S25-C59	56
+6666666.73641	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S25-C65	47
+6666666.73642	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S27-C44	48
+6666666.73643	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S32-C65	56
+6666666.73644	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S37-C71	49
+6666666.73645	uncultured Mediterranean phage uvMED-CGR-C100-MedDCM-OCT-S26-C29	73
+6666666.73646	uncultured Mediterranean phage uvMED-CGR-C100-MedDCM-OCT-S33-C20	70
+6666666.73647	uncultured Mediterranean phage uvMED-CGR-C113A-MedDCM-OCT-S35-C17	71
+6666666.73648	uncultured Mediterranean phage uvMED-CGR-C18A-MedDCM-OCT-S41-C53	63
+6666666.73649	uncultured Mediterranean phage uvMED-CGR-C19-MedDCM-OCT-S26-C54	61
+6666666.73651	uncultured Mediterranean phage uvMED-CGR-C22-MedDCM-OCT-S36-C18	81
+6666666.73652	uncultured Mediterranean phage uvMED-CGR-C22C-MedDCM-OCT-S23-C7	78
+6666666.73653	uncultured Mediterranean phage uvMED-CGR-C32A-MedDCM-OCT-S40-C23	66
+6666666.73654	uncultured Mediterranean phage uvMED-CGR-C40-MedDCM-OCT-S28-C16	69
+6666666.73655	uncultured Mediterranean phage uvMED-CGR-C66A-MedDCM-OCT-S24-C64	44
+6666666.73656	uncultured Mediterranean phage uvMED-CGR-C66A-MedDCM-OCT-S28-C59	45
+6666666.73657	uncultured Mediterranean phage uvMED-CGR-C66A-MedDCM-OCT-S29-C69	45
+6666666.73658	uncultured Mediterranean phage uvMED-CGR-C66A-MedDCM-OCT-S35-C82	43
+6666666.73659	uncultured Mediterranean phage uvMED-CGR-C66A-MedDCM-OCT-S36-C74	44
+6666666.73660	uncultured Mediterranean phage uvMED-CGR-C66A-MedDCM-OCT-S40-C72	49
+6666666.73662	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S28-C28	66
+6666666.73663	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S33-C36	67
+6666666.73665	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S23-C23	66
+6666666.73666	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S28-C20	60
+6666666.73667	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S32-C35	71
+6666666.73668	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S39-C21	63
+6666666.73669	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S40-C18	61
+6666666.73671	uncultured Mediterranean phage uvMED-CGR-C29A-MedDCM-OCT-S33-C24	63
+6666666.73672	uncultured Mediterranean phage uvMED-CGR-C29A-MedDCM-OCT-S42-C45	62
+6666666.73674	uncultured Mediterranean phage uvMED-CGR-C51-MedDCM-OCT-S32-C58	52
+6666666.73676	uncultured Mediterranean phage uvMED-CGR-C51A-MedDCM-OCT-S39-C54	51
+6666666.73677	uncultured Mediterranean phage uvMED-CGR-C51A-MedDCM-OCT-S42-C66	51
+6666666.73678	uncultured Mediterranean phage uvMED-CGR-C56-MedDCM-OCT-S38-C52	58
+6666666.73679	uncultured Mediterranean phage uvMED-CGR-C56A-MedDCM-OCT-S32-C59	58
+6666666.73680	uncultured Mediterranean phage uvMED-CGR-C63A-MedDCM-OCT-S41-C57	60
+6666666.73681	uncultured Mediterranean phage uvMED-CGR-C82-MedDCM-OCT-S25-C54	53
+6666666.73682	uncultured Mediterranean phage uvMED-CGR-C82-MedDCM-OCT-S28-C40	55
+6666666.73683	uncultured Mediterranean phage uvMED-CGR-C83-MedDCM-OCT-S23-C22	51
+6666666.73684	uncultured Mediterranean phage uvMED-CGR-C83-MedDCM-OCT-S45-C54	53
+6666666.73685	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S44-C63	50
+6666666.73686	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S25-C14	60
+6666666.73687	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S26-C62	55
+6666666.73688	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S35-C8	65
+6666666.73689	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S37-C50	57
+6666666.73690	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S44-C29	57
+6666666.73691	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S45-C47	54
+6666666.73692	uncultured Mediterranean phage uvMED-CGR-C20A-MedDCM-OCT-S30-C71	56
+6666666.73693	uncultured Mediterranean phage uvMED-CGR-C20A-MedDCM-OCT-S36-C79	55
+6666666.73694	uncultured Mediterranean phage uvMED-CGR-C27-MedDCM-OCT-S28-C53	67
+6666666.73695	uncultured Mediterranean phage uvMED-CGR-C30A-MedDCM-OCT-S29-C73	64
+6666666.73696	uncultured Mediterranean phage uvMED-CGR-C30A-MedDCM-OCT-S33-C83	63
+6666666.73697	uncultured Mediterranean phage uvMED-CGR-C30A-MedDCM-OCT-S38-C82	63
+6666666.73698	uncultured Mediterranean phage uvMED-CGR-C30A-MedDCM-OCT-S45-C81	63
+6666666.73699	uncultured Mediterranean phage uvMED-CGR-C30B-MedDCM-OCT-S46-C80	66
+6666666.73700	uncultured Mediterranean phage uvMED-CGR-C37-MedDCM-OCT-S26-C78	54
+6666666.73701	uncultured Mediterranean phage uvMED-CGR-C37-MedDCM-OCT-S29-C71	58
+6666666.73702	uncultured Mediterranean phage uvMED-CGR-C37-MedDCM-OCT-S32-C82	56
+6666666.73703	uncultured Mediterranean phage uvMED-CGR-C37-MedDCM-OCT-S44-C73	54
+6666666.73704	uncultured Mediterranean phage uvMED-CGR-C39-MedDCM-OCT-S27-C61	65
+6666666.73705	uncultured Mediterranean phage uvMED-CGR-C68A-MedDCM-OCT-S28-C61	54
+6666666.73706	uncultured Mediterranean phage uvMED-CGR-C68A-MedDCM-OCT-S35-C79	55
+6666666.73708	uncultured Mediterranean phage uvMED-CGR-C68A-MedDCM-OCT-S39-C84	53
+6666666.73709	uncultured Mediterranean phage uvMED-CGR-C94-MedDCM-OCT-S26-C69	55
+6666666.73710	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S24-C60	59
+6666666.73712	uncultured Mediterranean phage uvMED-CGR-C14A-MedDCM-OCT-S29-C22	70
+6666666.73713	uncultured Mediterranean phage uvMED-CGR-C14A-MedDCM-OCT-S34-C29	67
+6666666.73715	uncultured Mediterranean phage uvMED-CGR-C14A-MedDCM-OCT-S42-C35	68
+6666666.73716	uncultured Mediterranean phage uvMED-CGR-C15A-MedDCM-OCT-S31-C20	72
+6666666.73717	uncultured Mediterranean phage uvMED-CGR-C15J-MedDCM-OCT-S37-C55	55
+6666666.73718	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S35-C26	65
+6666666.73719	uncultured Mediterranean phage uvMED-CGR-C101A-MedDCM-OCT-S30-C6	50
+6666666.73720	uncultured Mediterranean phage uvMED-CGR-C117A-MedDCM-OCT-S32-C49	56
+6666666.73721	uncultured Mediterranean phage uvMED-CGR-C84-MedDCM-OCT-S29-C65	50
+6666666.73722	uncultured Mediterranean phage uvMED-CGR-C84-MedDCM-OCT-S32-C77	49
+6666666.73723	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S26-C60	55
+6666666.73724	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S27-C25	60
+6666666.73725	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S29-C44	50
+6666666.73726	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S30-C51	57
+6666666.73727	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S31-C15	40
+6666666.73728	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S31-C58	49
+6666666.73729	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S39-C26	52
+6666666.73730	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S42-C60	57
+6666666.73731	uncultured Mediterranean phage uvMED-CGR-C5-MedDCM-OCT-S26-C7	57
+6666666.73732	uncultured Mediterranean phage uvMED-CGR-C7-MedDCM-OCT-S37-C8	61
+6666666.73733	uncultured Mediterranean phage uvMED-CGR-C7-MedDCM-OCT-S39-C15	60
+6666666.73734	uncultured Mediterranean phage uvMED-CGR-C7A-MedDCM-OCT-S30-C5	58
+6666666.73735	uncultured Mediterranean phage uvMED-CGR-C7A-MedDCM-OCT-S33-C3	58
+6666666.73736	uncultured Mediterranean phage uvMED-CGR-C7A-MedDCM-OCT-S38-C7	58
+6666666.73737	uncultured Mediterranean phage uvMED-CGR-C7A-MedDCM-OCT-S41-C23	58
+6666666.73738	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S40-C13	59
+6666666.73739	uncultured Mediterranean phage uvMED-CGR-C17C-MedDCM-OCT-S23-C4	58
+6666666.73740	uncultured Mediterranean phage uvMED-CGR-C17C-MedDCM-OCT-S44-C5	57
+6666666.73741	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S28-C22	60
+6666666.73742	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S38-C34	57
+6666666.73743	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S40-C11	58
+6666666.73744	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S30-C10	51
+6666666.73745	uncultured Mediterranean phage uvMED-CGR-C59-MedDCM-OCT-S39-C65	49
+6666666.73746	uncultured Mediterranean phage uvMED-CGR-C59A-MedDCM-OCT-S34-C49	48
+6666666.73747	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S45-C4	55
+6666666.73748	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S28-C3	51
+6666666.73749	uncultured Mediterranean phage uvMED-CGR-C62A-MedDCM-OCT-S28-C10	55
+6666666.73751	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S35-C6	57
+6666666.73752	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S30-C28	53
+6666666.73753	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S45-C18	41
+6666666.73754	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S46-C10	53
+6666666.73755	uncultured Mediterranean phage uvMED-CGR-C79-MedDCM-OCT-S37-C6	47
+6666666.73756	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S31-C1	43
+6666666.73757	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S38-C3	45
+6666666.73758	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S39-C11	34
+6666666.73759	uncultured Mediterranean phage uvMED-CGR-C70A-MedDCM-OCT-S41-C85	55
+6666666.73763	uncultured Mediterranean phage uvMED-CGR-C28-MedDCM-OCT-S23-C36	62
+6666666.73764	uncultured Mediterranean phage uvMED-CGR-C28-MedDCM-OCT-S32-C50	63
+6666666.73769	uncultured Mediterranean phage uvMED-CGR-C43-MedDCM-OCT-S32-C95	60
+6666666.73770	uncultured Mediterranean phage uvMED-CGR-C14B-MedDCM-OCT-S35-C3	76
+6666666.73771	uncultured Mediterranean phage uvMED-CGR-C15D-MedDCM-OCT-S44-C14	74
+6666666.73772	uncultured Mediterranean phage uvMED-CGR-C15G-MedDCM-OCT-S32-C25	60
+6666666.73773	uncultured Mediterranean phage uvMED-CGR-C1E-MedDCM-OCT-S31-C3	51
+6666666.73774	uncultured Mediterranean phage uvMED-CGR-C5-MedDCM-OCT-S33-C6	58
+6666666.73775	uncultured Mediterranean phage uvMED-CGR-C5F-MedDCM-OCT-S40-C10	63
+6666666.73776	uncultured Mediterranean phage uvMED-CGF-C52-MedDCM-OCT-S25-C240	10
+6666666.73777	uncultured Mediterranean phage uvMED-CGF-C52A-MedDCM-OCT-S25-C162	11
+6666666.73778	uncultured Mediterranean phage uvMED-CGF-C52A-MedDCM-OCT-S26-C21	44
+6666666.73779	uncultured Mediterranean phage uvMED-CGF-C52A-MedDCM-OCT-S27-C145	15
+6666666.73780	uncultured Mediterranean phage uvMED-CGF-C52A-MedDCM-OCT-S31-C10	45
+6666666.73781	uncultured Mediterranean phage uvMED-CGF-C52A-MedDCM-OCT-S36-C174	15
+6666666.73782	uncultured Mediterranean phage uvMED-CGF-C52A-MedDCM-OCT-S39-C170	12
+6666666.73783	uncultured Mediterranean phage uvMED-CGF-C52A-MedDCM-OCT-S45-C187	13
+6666666.73784	uncultured Mediterranean phage uvMED-CGF-C115A-MedDCM-OCT-S41-C92	50
+6666666.73785	uncultured Mediterranean phage uvMED-CGF-C70A-MedDCM-OCT-S28-C58	57
+6666666.73786	uncultured Mediterranean phage uvMED-CGF-C70A-MedDCM-OCT-S34-C177	16
+6666666.73788	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S39-C91	44
+6666666.73789	uncultured Mediterranean phage uvMED-CGF-C111A-MedDCM-OCT-S25-C41	45
+6666666.73790	uncultured Mediterranean phage uvMED-CGF-C16-MedDCM-OCT-S43-C44	58
+6666666.73791	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S23-C56	58
+6666666.73792	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S24-C232	3
+6666666.73794	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S25-C250	15
+6666666.73795	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S26-C235	5
+6666666.73796	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S27-C258	17
+6666666.73797	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S30-C206	5
+6666666.73799	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S34-C223	5
+6666666.73801	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S35-C247	4
+6666666.73802	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S35-C285	17
+6666666.73803	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S41-C163	10
+6666666.73805	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S41-C288	15
+6666666.73806	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S44-C343	15
+6666666.73807	uncultured Mediterranean phage uvMED-CGF-C23A-MedDCM-OCT-S32-C227	14
+6666666.73811	uncultured Mediterranean phage uvMED-CGF-C23B-MedDCM-OCT-S44-C362	5
+6666666.73813	uncultured Mediterranean phage uvMED-CGF-C23C-MedDCM-OCT-S32-C220	3
+6666666.73814	uncultured Mediterranean phage uvMED-CGF-C23C-MedDCM-OCT-S46-C253	6
+6666666.73815	uncultured Mediterranean phage uvMED-CGF-C26-MedDCM-OCT-S23-C93	12
+6666666.73816	uncultured Mediterranean phage uvMED-CGF-C26-MedDCM-OCT-S25-C248	15
+6666666.73817	uncultured Mediterranean phage uvMED-CGF-C26-MedDCM-OCT-S27-C139	10
+6666666.73818	uncultured Mediterranean phage uvMED-CGF-C26-MedDCM-OCT-S35-C244	6
+6666666.73819	uncultured Mediterranean phage uvMED-CGF-C26-MedDCM-OCT-S37-C153	34
+6666666.73823	uncultured Mediterranean phage uvMED-CGF-C26-MedDCM-OCT-S45-C147	13
+6666666.73824	uncultured Mediterranean phage uvMED-CGF-C26-MedDCM-OCT-S46-C142	41
+6666666.73825	uncultured Mediterranean phage uvMED-CGF-C26A-MedDCM-OCT-S44-C248	5
+6666666.73826	uncultured Mediterranean phage uvMED-CGF-C26A-MedDCM-OCT-S46-C220	8
+6666666.73828	uncultured Mediterranean phage uvMED-CGF-C26C-MedDCM-OCT-S33-C170	31
+6666666.73831	uncultured Mediterranean phage uvMED-CGF-C26C-MedDCM-OCT-S41-C284	15
+6666666.73832	uncultured Mediterranean phage uvMED-CGF-C26D-MedDCM-OCT-S37-C143	12
+6666666.73833	uncultured Mediterranean phage uvMED-CGF-C26D-MedDCM-OCT-S43-C253	5
+6666666.73834	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S24-C131	45
+6666666.73835	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S24-C241	17
+6666666.73836	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S24-C263	8
+6666666.73838	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S27-C184	21
+6666666.73839	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S27-C198	25
+6666666.73840	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S27-C243	14
+6666666.73841	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S30-C221	12
+6666666.73842	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S31-C219	17
+6666666.73844	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S34-C146	43
+6666666.73845	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S36-C195	26
+6666666.73846	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S36-C291	15
+6666666.73847	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S37-C272	4
+6666666.73848	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S42-C185	26
+6666666.73849	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S45-C323	16
+6666666.73850	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S46-C324	16
+6666666.73851	uncultured Mediterranean phage uvMED-CGF-C28A-MedDCM-OCT-S32-C130	46
+6666666.73852	uncultured Mediterranean phage uvMED-CGF-C28A-MedDCM-OCT-S42-C291	15
+6666666.73853	uncultured Mediterranean phage uvMED-CGF-C28B-MedDCM-OCT-S28-C164	4
+6666666.73854	uncultured Mediterranean phage uvMED-CGF-C28B-MedDCM-OCT-S32-C177	7
+6666666.73856	uncultured Mediterranean phage uvMED-CGF-C42-MedDCM-OCT-S37-C124	48
+6666666.73857	uncultured Mediterranean phage uvMED-CGF-C42-MedDCM-OCT-S38-C173	23
+6666666.73858	uncultured Mediterranean phage uvMED-CGF-C54A-MedDCM-OCT-S26-C38	51
+6666666.73859	uncultured Mediterranean phage uvMED-CGF-C54A-MedDCM-OCT-S28-C34	50
+6666666.73860	uncultured Mediterranean phage uvMED-CGF-C6-MedDCM-OCT-S28-C37	49
+6666666.73861	uncultured Mediterranean phage uvMED-CGF-C72-MedDCM-OCT-S41-C96	33
+6666666.73863	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S23-C191	5
+6666666.73864	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S24-C244	7
+6666666.73866	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S26-C252	6
+6666666.73867	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S26-C278	18
+6666666.73868	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S27-C188	7
+6666666.73869	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S28-C120	24
+6666666.73870	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S28-C185	4
+6666666.73873	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S34-C213	20
+6666666.73874	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S34-C237	7
+6666666.73875	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S34-C243	19
+6666666.73876	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S38-C278	10
+6666666.73877	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S42-C242	5
+6666666.73879	uncultured Mediterranean phage uvMED-CGF-C24A-MedDCM-OCT-S41-C258	4
+6666666.73880	uncultured Mediterranean phage uvMED-CGF-C10-MedDCM-OCT-S37-C126	26
+6666666.73881	uncultured Mediterranean phage uvMED-CGF-C10-MedDCM-OCT-S37-C174	19
+6666666.73882	uncultured Mediterranean phage uvMED-CGF-C107A-MedDCM-OCT-S23-C39	48
+6666666.73883	uncultured Mediterranean phage uvMED-CGF-C108A-MedDCM-OCT-S25-C43	46
+6666666.73884	uncultured Mediterranean phage uvMED-CGF-C10A-MedDCM-OCT-S41-C229	6
+6666666.73885	uncultured Mediterranean phage uvMED-CGF-C48A-MedDCM-OCT-S33-C18	58
+6666666.73886	uncultured Mediterranean phage uvMED-CGF-C48A-MedDCM-OCT-S38-C24	59
+6666666.73887	uncultured Mediterranean phage uvMED-CGF-C48B-MedDCM-OCT-S40-C265	10
+6666666.73888	uncultured Mediterranean phage uvMED-CGF-C48B-MedDCM-OCT-S40-C310	10
+6666666.73889	uncultured Mediterranean phage uvMED-CGF-C49-MedDCM-OCT-S27-C43	46
+6666666.73890	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S24-C47	46
+6666666.73891	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S25-C56	45
+6666666.73892	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S26-C193	5
+6666666.73893	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S29-C55	45
+6666666.73894	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S32-C153	19
+6666666.73895	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S32-C168	19
+6666666.73896	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S36-C62	46
+6666666.73897	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S40-C57	45
+6666666.73898	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S44-C58	45
+6666666.73899	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S45-C58	46
+6666666.73900	uncultured Mediterranean phage uvMED-CGF-C49A-MedDCM-OCT-S46-C68	46
+6666666.73901	uncultured Mediterranean phage uvMED-CGF-C53-MedDCM-OCT-S27-C185	4
+6666666.73902	uncultured Mediterranean phage uvMED-CGF-C53-MedDCM-OCT-S37-C208	3
+6666666.73903	uncultured Mediterranean phage uvMED-CGF-C53A-MedDCM-OCT-S25-C57	48
+6666666.73904	uncultured Mediterranean phage uvMED-CGF-C53A-MedDCM-OCT-S27-C242	15
+6666666.73905	uncultured Mediterranean phage uvMED-CGF-C53A-MedDCM-OCT-S30-C57	48
+6666666.73906	uncultured Mediterranean phage uvMED-CGF-C53A-MedDCM-OCT-S32-C67	49
+6666666.73907	uncultured Mediterranean phage uvMED-CGF-C53A-MedDCM-OCT-S33-C59	50
+6666666.73908	uncultured Mediterranean phage uvMED-CGF-C53A-MedDCM-OCT-S35-C68	48
+6666666.73909	uncultured Mediterranean phage uvMED-CGF-C53A-MedDCM-OCT-S40-C60	49
+6666666.73910	uncultured Mediterranean phage uvMED-CGF-C53A-MedDCM-OCT-S41-C66	48
+6666666.73911	uncultured Mediterranean phage uvMED-CGF-C53A-MedDCM-OCT-S46-C69	48
+6666666.73912	uncultured Mediterranean phage uvMED-CGF-C55A-MedDCM-OCT-S36-C68	50
+6666666.73913	uncultured Mediterranean phage uvMED-CGF-C58A-MedDCM-OCT-S31-C30	65
+6666666.73914	uncultured Mediterranean phage uvMED-CGF-C58A-MedDCM-OCT-S42-C58	65
+6666666.73915	uncultured Mediterranean phage uvMED-CGF-C100-MedDCM-OCT-S37-C199	14
+6666666.73916	uncultured Mediterranean phage uvMED-CGF-C113A-MedDCM-OCT-S33-C15	73
+6666666.73917	uncultured Mediterranean phage uvMED-CGF-C18A-MedDCM-OCT-S27-C32	62
+6666666.73921	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S25-C85	60
+6666666.73922	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S26-C16	82
+6666666.73923	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S27-C169	18
+6666666.73924	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S27-C253	22
+6666666.73926	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S31-C208	12
+6666666.73927	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S31-C252	4
+6666666.73928	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S35-C152	25
+6666666.73930	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S38-C22	78
+6666666.73931	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S41-C196	16
+6666666.73932	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S42-C114	53
+6666666.73933	uncultured Mediterranean phage uvMED-CGF-C22A-MedDCM-OCT-S33-C25	79
+6666666.73934	uncultured Mediterranean phage uvMED-CGF-C22A-MedDCM-OCT-S35-C316	7
+6666666.73935	uncultured Mediterranean phage uvMED-CGF-C22A-MedDCM-OCT-S45-C35	78
+6666666.73938	uncultured Mediterranean phage uvMED-CGF-C22C-MedDCM-OCT-S34-C281	4
+6666666.73939	uncultured Mediterranean phage uvMED-CGF-C22C-MedDCM-OCT-S35-C275	20
+6666666.73940	uncultured Mediterranean phage uvMED-CGF-C22C-MedDCM-OCT-S39-C204	11
+6666666.73941	uncultured Mediterranean phage uvMED-CGF-C32A-MedDCM-OCT-S24-C170	10
+6666666.73942	uncultured Mediterranean phage uvMED-CGF-C32A-MedDCM-OCT-S24-C174	13
+6666666.73943	uncultured Mediterranean phage uvMED-CGF-C32A-MedDCM-OCT-S27-C31	64
+6666666.73944	uncultured Mediterranean phage uvMED-CGF-C32A-MedDCM-OCT-S30-C21	66
+6666666.73945	uncultured Mediterranean phage uvMED-CGF-C32A-MedDCM-OCT-S32-C100	53
+6666666.73947	uncultured Mediterranean phage uvMED-CGF-C32A-MedDCM-OCT-S37-C24	65
+6666666.73948	uncultured Mediterranean phage uvMED-CGF-C32A-MedDCM-OCT-S39-C27	65
+6666666.73950	uncultured Mediterranean phage uvMED-CGF-C32A-MedDCM-OCT-S46-C31	66
+6666666.73951	uncultured Mediterranean phage uvMED-CGF-C40-MedDCM-OCT-S36-C23	69
+6666666.73953	uncultured Mediterranean phage uvMED-CGF-C66A-MedDCM-OCT-S25-C224	10
+6666666.73954	uncultured Mediterranean phage uvMED-CGF-C66A-MedDCM-OCT-S42-C239	9
+6666666.73955	uncultured Mediterranean phage uvMED-CGF-C29A-MedDCM-OCT-S23-C105	27
+6666666.73956	uncultured Mediterranean phage uvMED-CGF-C29A-MedDCM-OCT-S30-C25	62
+6666666.73957	uncultured Mediterranean phage uvMED-CGF-C29A-MedDCM-OCT-S34-C32	62
+6666666.73958	uncultured Mediterranean phage uvMED-CGF-C29A-MedDCM-OCT-S35-C228	19
+6666666.73959	uncultured Mediterranean phage uvMED-CGF-C29A-MedDCM-OCT-S39-C31	61
+6666666.73960	uncultured Mediterranean phage uvMED-CGF-C29A-MedDCM-OCT-S40-C25	63
+6666666.73961	uncultured Mediterranean phage uvMED-CGF-C29A-MedDCM-OCT-S43-C36	61
+6666666.73962	uncultured Mediterranean phage uvMED-CGF-C29A-MedDCM-OCT-S44-C33	61
+6666666.73963	uncultured Mediterranean phage uvMED-CGF-C29A-MedDCM-OCT-S45-C34	61
+6666666.73964	uncultured Mediterranean phage uvMED-CGF-C51-MedDCM-OCT-S46-C76	52
+6666666.73965	uncultured Mediterranean phage uvMED-CGF-C56A-MedDCM-OCT-S46-C59	58
+6666666.73966	uncultured Mediterranean phage uvMED-CGF-C63A-MedDCM-OCT-S30-C46	61
+6666666.73967	uncultured Mediterranean phage uvMED-CGF-C63A-MedDCM-OCT-S44-C48	61
+6666666.73968	uncultured Mediterranean phage uvMED-CGF-C20-MedDCM-OCT-S24-C67	57
+6666666.73969	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S26-C265	17
+6666666.73970	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S33-C181	15
+6666666.73971	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S33-C188	12
+6666666.73973	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S40-C193	28
+6666666.73974	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S46-C235	25
+6666666.73976	uncultured Mediterranean phage uvMED-CGF-C30-MedDCM-OCT-S40-C264	12
+6666666.73978	uncultured Mediterranean phage uvMED-CGF-C30A-MedDCM-OCT-S40-C140	24
+6666666.73979	uncultured Mediterranean phage uvMED-CGF-C30A-MedDCM-OCT-S43-C217	19
+6666666.73980	uncultured Mediterranean phage uvMED-CGF-C30B-MedDCM-OCT-S30-C97	49
+6666666.73981	uncultured Mediterranean phage uvMED-CGF-C30B-MedDCM-OCT-S31-C145	12
+6666666.73982	uncultured Mediterranean phage uvMED-CGF-C30B-MedDCM-OCT-S39-C134	41
+6666666.73983	uncultured Mediterranean phage uvMED-CGF-C30B-MedDCM-OCT-S39-C146	18
+6666666.73984	uncultured Mediterranean phage uvMED-CGF-C30B-MedDCM-OCT-S41-C83	66
+6666666.73985	uncultured Mediterranean phage uvMED-CGF-C37-MedDCM-OCT-S46-C116	53
+6666666.73986	uncultured Mediterranean phage uvMED-CGF-C39-MedDCM-OCT-S34-C80	50
+6666666.73987	uncultured Mediterranean phage uvMED-CGF-C39-MedDCM-OCT-S42-C70	61
+6666666.73988	uncultured Mediterranean phage uvMED-CGF-C43-MedDCM-OCT-S30-C105	43
+6666666.73989	uncultured Mediterranean phage uvMED-CGF-C68A-MedDCM-OCT-S26-C73	53
+6666666.73990	uncultured Mediterranean phage uvMED-CGF-C68A-MedDCM-OCT-S36-C73	53
+6666666.73991	uncultured Mediterranean phage uvMED-CGF-C94-MedDCM-OCT-S24-C128	34
+6666666.73992	uncultured Mediterranean phage uvMED-CGF-C14-MedDCM-OCT-S32-C219	17
+6666666.73993	uncultured Mediterranean phage uvMED-CGF-C14-MedDCM-OCT-S36-C254	17
+6666666.73994	uncultured Mediterranean phage uvMED-CGF-C14-MedDCM-OCT-S36-C285	16
+6666666.73995	uncultured Mediterranean phage uvMED-CGF-C14-MedDCM-OCT-S40-C51	58
+6666666.73996	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S24-C149	24
+6666666.73997	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S24-C161	13
+6666666.73998	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S27-C105	33
+6666666.73999	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S30-C161	12
+6666666.74000	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S31-C108	19
+6666666.74001	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S32-C104	38
+6666666.74002	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S32-C189	17
+6666666.74003	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S33-C266	11
+6666666.74004	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S33-C282	6
+6666666.74005	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S36-C101	36
+6666666.74006	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S36-C295	12
+6666666.74007	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S39-C151	19
+6666666.74008	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S41-C142	27
+6666666.74009	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S43-C156	27
+6666666.74010	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S44-C315	11
+6666666.74011	uncultured Mediterranean phage uvMED-CGF-C14B-MedDCM-OCT-S32-C162	11
+6666666.74012	uncultured Mediterranean phage uvMED-CGF-C14B-MedDCM-OCT-S32-C197	11
+6666666.74013	uncultured Mediterranean phage uvMED-CGF-C14B-MedDCM-OCT-S36-C205	10
+6666666.74014	uncultured Mediterranean phage uvMED-CGF-C14B-MedDCM-OCT-S36-C258	11
+6666666.74015	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S23-C124	11
+6666666.74016	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S23-C126	28
+6666666.74017	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S26-C126	46
+6666666.74018	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S26-C145	14
+6666666.74019	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S26-C273	13
+6666666.74020	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S28-C134	9
+6666666.74021	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S28-C82	20
+6666666.74022	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S30-C132	13
+6666666.74023	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S33-C121	18
+6666666.74024	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S33-C191	28
+6666666.74025	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S36-C173	14
+6666666.74026	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S41-C146	21
+6666666.74027	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S41-C199	28
+6666666.74028	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S41-C250	11
+6666666.74029	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S43-C158	44
+6666666.74030	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S43-C288	14
+6666666.74031	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S44-C148	39
+6666666.74032	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S45-C260	10
+6666666.74033	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S45-C267	19
+6666666.74034	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S46-C98	65
+6666666.74035	uncultured Mediterranean phage uvMED-CGF-C15A-MedDCM-OCT-S23-C116	14
+6666666.74036	uncultured Mediterranean phage uvMED-CGF-C15B-MedDCM-OCT-S24-C103	19
+6666666.74037	uncultured Mediterranean phage uvMED-CGF-C15B-MedDCM-OCT-S26-C119	25
+6666666.74038	uncultured Mediterranean phage uvMED-CGF-C15B-MedDCM-OCT-S29-C131	12
+6666666.74039	uncultured Mediterranean phage uvMED-CGF-C15B-MedDCM-OCT-S29-C174	12
+6666666.74040	uncultured Mediterranean phage uvMED-CGF-C15C-MedDCM-OCT-S23-C82	19
+6666666.74041	uncultured Mediterranean phage uvMED-CGF-C15C-MedDCM-OCT-S33-C119	20
+6666666.74042	uncultured Mediterranean phage uvMED-CGF-C15C-MedDCM-OCT-S36-C240	12
+6666666.74043	uncultured Mediterranean phage uvMED-CGF-C15C-MedDCM-OCT-S39-C197	12
+6666666.74044	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S23-C121	13
+6666666.74045	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S25-C199	11
+6666666.74046	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S27-C140	16
+6666666.74047	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S27-C178	18
+6666666.74048	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S27-C231	16
+6666666.74049	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S29-C172	11
+6666666.74050	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S30-C134	16
+6666666.74051	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S33-C163	12
+6666666.74052	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S33-C260	9
+6666666.74053	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S36-C185	13
+6666666.74054	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S39-C160	15
+6666666.74055	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S40-C123	24
+6666666.74056	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S41-C130	22
+6666666.74057	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S42-C21	76
+6666666.74058	uncultured Mediterranean phage uvMED-CGF-C15E-MedDCM-OCT-S40-C170	12
+6666666.74059	uncultured Mediterranean phage uvMED-CGF-C15E-MedDCM-OCT-S43-C181	13
+6666666.74060	uncultured Mediterranean phage uvMED-CGF-C15F-MedDCM-OCT-S33-C216	6
+6666666.74061	uncultured Mediterranean phage uvMED-CGF-C15F-MedDCM-OCT-S41-C166	18
+6666666.74062	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S24-C130	12
+6666666.74063	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S24-C167	17
+6666666.74064	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S25-C124	25
+6666666.74065	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S25-C137	11
+6666666.74066	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S28-C159	3
+6666666.74067	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S28-C186	9
+6666666.74068	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S30-C101	37
+6666666.74069	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S33-C223	6
+6666666.74070	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S41-C260	8
+6666666.74071	uncultured Mediterranean phage uvMED-CGF-C15H-MedDCM-OCT-S26-C134	21
+6666666.74072	uncultured Mediterranean phage uvMED-CGF-C15H-MedDCM-OCT-S28-C98	20
+6666666.74073	uncultured Mediterranean phage uvMED-CGF-C15H-MedDCM-OCT-S34-C166	15
+6666666.74074	uncultured Mediterranean phage uvMED-CGF-C15H-MedDCM-OCT-S34-C287	9
+6666666.74075	uncultured Mediterranean phage uvMED-CGF-C15H-MedDCM-OCT-S40-C106	31
+6666666.74076	uncultured Mediterranean phage uvMED-CGF-C15H-MedDCM-OCT-S45-C148	20
+6666666.74077	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S24-C179	12
+6666666.74078	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S26-C75	44
+6666666.74079	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S32-C115	38
+6666666.74080	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S32-C166	13
+6666666.74081	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S34-C62	46
+6666666.74082	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S36-C128	29
+6666666.74083	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S36-C213	12
+6666666.74084	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S38-C53	53
+6666666.74085	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S39-C127	24
+6666666.74086	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S39-C133	24
+6666666.74087	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S40-C136	24
+6666666.74088	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S40-C152	17
+6666666.74089	uncultured Mediterranean phage uvMED-CGF-C15J-MedDCM-OCT-S45-C106	39
+6666666.74090	uncultured Mediterranean phage uvMED-CGF-C101A-MedDCM-OCT-S39-C9	51
+6666666.74091	uncultured Mediterranean phage uvMED-CGF-C117A-MedDCM-OCT-S27-C30	57
+6666666.74092	uncultured Mediterranean phage uvMED-CGF-C1-MedDCM-OCT-S23-C198	7
+6666666.74093	uncultured Mediterranean phage uvMED-CGF-C1-MedDCM-OCT-S24-C259	12
+6666666.74094	uncultured Mediterranean phage uvMED-CGF-C1-MedDCM-OCT-S27-C137	12
+6666666.74095	uncultured Mediterranean phage uvMED-CGF-C1-MedDCM-OCT-S30-C177	16
+6666666.74096	uncultured Mediterranean phage uvMED-CGF-C1-MedDCM-OCT-S33-C296	12
+6666666.74097	uncultured Mediterranean phage uvMED-CGF-C1-MedDCM-OCT-S41-C120	22
+6666666.74098	uncultured Mediterranean phage uvMED-CGF-C1A-MedDCM-OCT-S29-C227	12
+6666666.74099	uncultured Mediterranean phage uvMED-CGF-C1A-MedDCM-OCT-S34-C285	12
+6666666.74100	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S24-C185	10
+6666666.74101	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S25-C138	20
+6666666.74102	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S26-C214	11
+6666666.74103	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S27-C229	14
+6666666.74104	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S28-C149	13
+6666666.74105	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S30-C200	10
+6666666.74106	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S33-C230	8
+6666666.74107	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S37-C156	19
+6666666.74108	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S41-C176	21
+6666666.74109	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S42-C280	8
+6666666.74110	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S45-C220	13
+6666666.74111	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S46-C260	10
+6666666.74112	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S24-C195	10
+6666666.74113	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S26-C227	10
+6666666.74114	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S28-C153	10
+6666666.74115	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S29-C167	10
+6666666.74116	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S31-C173	10
+6666666.74117	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S34-C205	11
+6666666.74118	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S35-C156	23
+6666666.74119	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S36-C247	10
+6666666.74120	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S40-C248	7
+6666666.74121	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S46-C288	10
+6666666.74122	uncultured Mediterranean phage uvMED-CGF-C1D-MedDCM-OCT-S23-C197	9
+6666666.74123	uncultured Mediterranean phage uvMED-CGF-C1D-MedDCM-OCT-S44-C330	9
+6666666.74124	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S24-C93	24
+6666666.74125	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S26-C111	25
+6666666.74126	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S27-C97	24
+6666666.74127	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S30-C117	21
+6666666.74128	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S32-C111	25
+6666666.74129	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S33-C106	24
+6666666.74130	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S36-C111	24
+6666666.74131	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S38-C100	25
+6666666.74132	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S38-C183	18
+6666666.74133	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S38-C187	16
+6666666.74134	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S40-C105	24
+6666666.74135	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S40-C287	11
+6666666.74136	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S41-C271	8
+6666666.74137	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S41-C298	6
+6666666.74138	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S42-C110	29
+6666666.74139	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S43-C124	24
+6666666.74140	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S43-C306	6
+6666666.74141	uncultured Mediterranean phage uvMED-CGF-C1E-MedDCM-OCT-S45-C110	25
+6666666.74142	uncultured Mediterranean phage uvMED-CGF-C5-MedDCM-OCT-S29-C96	19
+6666666.74143	uncultured Mediterranean phage uvMED-CGF-C5-MedDCM-OCT-S30-C106	17
+6666666.74144	uncultured Mediterranean phage uvMED-CGF-C5-MedDCM-OCT-S30-C155	23
+6666666.74145	uncultured Mediterranean phage uvMED-CGF-C5-MedDCM-OCT-S33-C150	9
+6666666.74146	uncultured Mediterranean phage uvMED-CGF-C5-MedDCM-OCT-S37-C181	10
+6666666.74147	uncultured Mediterranean phage uvMED-CGF-C5-MedDCM-OCT-S40-C161	15
+6666666.74148	uncultured Mediterranean phage uvMED-CGF-C5-MedDCM-OCT-S40-C297	6
+6666666.74149	uncultured Mediterranean phage uvMED-CGF-C5-MedDCM-OCT-S42-C132	21
+6666666.74150	uncultured Mediterranean phage uvMED-CGF-C5-MedDCM-OCT-S42-C171	23
+6666666.74151	uncultured Mediterranean phage uvMED-CGF-C5-MedDCM-OCT-S43-C196	24
+6666666.74152	uncultured Mediterranean phage uvMED-CGF-C5A-MedDCM-OCT-S37-C191	8
+6666666.74153	uncultured Mediterranean phage uvMED-CGF-C5A-MedDCM-OCT-S42-C136	25
+6666666.74154	uncultured Mediterranean phage uvMED-CGF-C5B-MedDCM-OCT-S25-C20	51
+6666666.74155	uncultured Mediterranean phage uvMED-CGF-C5B-MedDCM-OCT-S32-C20	50
+6666666.74156	uncultured Mediterranean phage uvMED-CGF-C5C-MedDCM-OCT-S39-C99	35
+6666666.74157	uncultured Mediterranean phage uvMED-CGF-C5C-MedDCM-OCT-S40-C165	18
+6666666.74158	uncultured Mediterranean phage uvMED-CGF-C5C-MedDCM-OCT-S41-C114	28
+6666666.74159	uncultured Mediterranean phage uvMED-CGF-C5C-MedDCM-OCT-S43-C137	21
+6666666.74160	uncultured Mediterranean phage uvMED-CGF-C5C-MedDCM-OCT-S43-C270	13
+6666666.74161	uncultured Mediterranean phage uvMED-CGF-C5D-MedDCM-OCT-S35-C181	20
+6666666.74162	uncultured Mediterranean phage uvMED-CGF-C5D-MedDCM-OCT-S43-C276	18
+6666666.74163	uncultured Mediterranean phage uvMED-CGF-C5D-MedDCM-OCT-S45-C263	13
+6666666.74164	uncultured Mediterranean phage uvMED-CGF-C5E-MedDCM-OCT-S28-C83	16
+6666666.74165	uncultured Mediterranean phage uvMED-CGF-C5E-MedDCM-OCT-S30-C111	16
+6666666.74166	uncultured Mediterranean phage uvMED-CGF-C5E-MedDCM-OCT-S35-C87	37
+6666666.74167	uncultured Mediterranean phage uvMED-CGF-C5E-MedDCM-OCT-S43-C147	16
+6666666.74168	uncultured Mediterranean phage uvMED-CGF-C5E-MedDCM-OCT-S44-C120	15
+6666666.74169	uncultured Mediterranean phage uvMED-CGF-C5E-MedDCM-OCT-S45-C83	37
+6666666.74170	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S27-C232	10
+6666666.74171	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S27-C264	14
+6666666.74172	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S27-C83	36
+6666666.74173	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S31-C107	24
+6666666.74174	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S31-C64	34
+6666666.74175	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S34-C156	24
+6666666.74176	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S34-C79	36
+6666666.74177	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S38-C146	24
+6666666.74178	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S38-C88	33
+6666666.74179	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S44-C118	15
+6666666.74180	uncultured Mediterranean phage uvMED-CGF-C5F-MedDCM-OCT-S44-C322	14
+6666666.74181	uncultured Mediterranean phage uvMED-CGF-C5G-MedDCM-OCT-S24-C168	19
+6666666.74182	uncultured Mediterranean phage uvMED-CGF-C5G-MedDCM-OCT-S25-C165	19
+6666666.74183	uncultured Mediterranean phage uvMED-CGF-C5G-MedDCM-OCT-S41-C273	14
+6666666.74184	uncultured Mediterranean phage uvMED-CGF-C5H-MedDCM-OCT-S24-C86	35
+6666666.74185	uncultured Mediterranean phage uvMED-CGF-C5H-MedDCM-OCT-S25-C89	34
+6666666.74186	uncultured Mediterranean phage uvMED-CGF-C5H-MedDCM-OCT-S28-C100	13
+6666666.74187	uncultured Mediterranean phage uvMED-CGF-C5H-MedDCM-OCT-S41-C113	35
+6666666.74188	uncultured Mediterranean phage uvMED-CGF-C7-MedDCM-OCT-S24-C102	22
+6666666.74189	uncultured Mediterranean phage uvMED-CGF-C7-MedDCM-OCT-S24-C88	30
+6666666.74190	uncultured Mediterranean phage uvMED-CGF-C7-MedDCM-OCT-S26-C28	58
+6666666.74191	uncultured Mediterranean phage uvMED-CGF-C7-MedDCM-OCT-S27-C226	13
+6666666.74192	uncultured Mediterranean phage uvMED-CGF-C7-MedDCM-OCT-S27-C269	8
+6666666.74193	uncultured Mediterranean phage uvMED-CGF-C7-MedDCM-OCT-S27-C82	34
+6666666.74194	uncultured Mediterranean phage uvMED-CGF-C7-MedDCM-OCT-S31-C4	67
+6666666.74195	uncultured Mediterranean phage uvMED-CGF-C7-MedDCM-OCT-S32-C55	51
+6666666.74196	uncultured Mediterranean phage uvMED-CGF-C7-MedDCM-OCT-S44-C91	39
+6666666.74197	uncultured Mediterranean phage uvMED-CGF-C7A-MedDCM-OCT-S35-C5	60
+6666666.74198	uncultured Mediterranean phage uvMED-CGF-C7A-MedDCM-OCT-S44-C181	21
+6666666.74199	uncultured Mediterranean phage uvMED-CGF-C17-MedDCM-OCT-S24-C90	22
+6666666.74200	uncultured Mediterranean phage uvMED-CGF-C17-MedDCM-OCT-S30-C144	10
+6666666.74201	uncultured Mediterranean phage uvMED-CGF-C17-MedDCM-OCT-S39-C214	5
+6666666.74202	uncultured Mediterranean phage uvMED-CGF-C17-MedDCM-OCT-S46-C132	22
+6666666.74203	uncultured Mediterranean phage uvMED-CGF-C17-MedDCM-OCT-S46-C352	14
+6666666.74204	uncultured Mediterranean phage uvMED-CGF-C17A-MedDCM-OCT-S27-C75	47
+6666666.74205	uncultured Mediterranean phage uvMED-CGF-C17A-MedDCM-OCT-S32-C38	58
+6666666.74206	uncultured Mediterranean phage uvMED-CGF-C17A-MedDCM-OCT-S39-C187	11
+6666666.74207	uncultured Mediterranean phage uvMED-CGF-C17A-MedDCM-OCT-S39-C222	15
+6666666.74208	uncultured Mediterranean phage uvMED-CGF-C17A-MedDCM-OCT-S46-C91	49
+6666666.74209	uncultured Mediterranean phage uvMED-CGF-C17B-MedDCM-OCT-S30-C58	49
+6666666.74210	uncultured Mediterranean phage uvMED-CGF-C17B-MedDCM-OCT-S45-C163	12
+6666666.74211	uncultured Mediterranean phage uvMED-CGF-C17B-MedDCM-OCT-S45-C321	12
+6666666.74212	uncultured Mediterranean phage uvMED-CGF-C17C-MedDCM-OCT-S25-C10	56
+6666666.74213	uncultured Mediterranean phage uvMED-CGF-C17C-MedDCM-OCT-S28-C85	17
+6666666.74214	uncultured Mediterranean phage uvMED-CGF-C17C-MedDCM-OCT-S29-C158	15
+6666666.74215	uncultured Mediterranean phage uvMED-CGF-C17C-MedDCM-OCT-S29-C89	28
+6666666.74216	uncultured Mediterranean phage uvMED-CGF-C17C-MedDCM-OCT-S34-C142	21
+6666666.74217	uncultured Mediterranean phage uvMED-CGF-C17C-MedDCM-OCT-S34-C192	7
+6666666.74218	uncultured Mediterranean phage uvMED-CGF-C17C-MedDCM-OCT-S35-C33	50
+6666666.74219	uncultured Mediterranean phage uvMED-CGF-C17C-MedDCM-OCT-S39-C215	5
+6666666.74220	uncultured Mediterranean phage uvMED-CGF-C17C-MedDCM-OCT-S42-C43	49
+6666666.74221	uncultured Mediterranean phage uvMED-CGF-C59A-MedDCM-OCT-S29-C45	49
+6666666.74222	uncultured Mediterranean phage uvMED-CGF-C62A-MedDCM-OCT-S41-C20	53
+6666666.74224	uncultured Mediterranean phage uvMED-CGF-C97-MedDCM-OCT-S27-C11	49
+6666666.74225	uncultured Mediterranean phage uvMED-CGF-C79-MedDCM-OCT-S38-C32	36
+6666666.74226	uncultured Mediterranean phage uvMED-GF-C102A-MedDCM-OCT-S39-C98	23
+6666666.74227	uncultured Mediterranean phage uvMED-GF-C102A-MedDCM-OCT-S45-C227	5
+6666666.74228	uncultured Mediterranean phage uvMED-GF-C103A-MedDCM-OCT-S38-C6	50
+6666666.74229	uncultured Mediterranean phage uvMED-GF-C103A-MedDCM-OCT-S41-C32	45
+6666666.74230	uncultured Mediterranean phage uvMED-GF-C104A-MedDCM-OCT-S27-C72	18
+6666666.74231	uncultured Mediterranean phage uvMED-GF-C104A-MedDCM-OCT-S44-C56	22
+6666666.74232	uncultured Mediterranean phage uvMED-GF-C106A-MedDCM-OCT-S35-C77	47
+6666666.74233	uncultured Mediterranean phage uvMED-GF-C106A-MedDCM-OCT-S39-C83	46
+6666666.74234	uncultured Mediterranean phage uvMED-GF-C109A-MedDCM-OCT-S27-C18	47
+6666666.74235	uncultured Mediterranean phage uvMED-GF-C109A-MedDCM-OCT-S44-C26	45
+6666666.74236	uncultured Mediterranean phage uvMED-GF-C112A-MedDCM-OCT-S32-C75	37
+6666666.74237	uncultured Mediterranean phage uvMED-GF-C112A-MedDCM-OCT-S35-C64	40
+6666666.74238	uncultured Mediterranean phage uvMED-GF-C114-MedDCM-OCT-S41-C54	38
+6666666.74239	uncultured Mediterranean phage uvMED-GF-C114-MedDCM-OCT-S43-C85	36
+6666666.74240	uncultured Mediterranean phage uvMED-GF-C116-MedDCM-OCT-S40-C300	9
+6666666.74242	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S23-C68	29
+6666666.74243	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S26-C102	30
+6666666.74244	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S27-C94	30
+6666666.74245	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S28-C75	29
+6666666.74246	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S29-C105	22
+6666666.74247	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S30-C104	24
+6666666.74248	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S32-C108	30
+6666666.74249	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S33-C100	30
+6666666.74250	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S35-C102	29
+6666666.74251	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S36-C119	25
+6666666.74252	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S37-C105	29
+6666666.74253	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S39-C113	25
+6666666.74254	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S41-C115	30
+6666666.74255	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S42-C119	29
+6666666.74256	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S44-C105	30
+6666666.74257	uncultured Mediterranean phage uvMED-GF-C11A-MedDCM-OCT-S45-C177	14
+6666666.74258	uncultured Mediterranean phage uvMED-GF-C12-MedDCM-OCT-S24-C146	12
+6666666.74259	uncultured Mediterranean phage uvMED-GF-C12-MedDCM-OCT-S26-C148	30
+6666666.74260	uncultured Mediterranean phage uvMED-GF-C12-MedDCM-OCT-S36-C131	37
+6666666.74261	uncultured Mediterranean phage uvMED-GF-C12-MedDCM-OCT-S39-C144	16
+6666666.74262	uncultured Mediterranean phage uvMED-GF-C12-MedDCM-OCT-S39-C244	15
+6666666.74263	uncultured Mediterranean phage uvMED-GF-C12A-MedDCM-OCT-S34-C33	57
+6666666.74264	uncultured Mediterranean phage uvMED-GF-C12A-MedDCM-OCT-S36-C113	22
+6666666.74265	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S26-C131	16
+6666666.74266	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S27-C13	53
+6666666.74267	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S29-C16	54
+6666666.74268	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S33-C14	55
+6666666.74269	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S41-C174	18
+6666666.74270	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S41-C215	9
+6666666.74271	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S41-C281	8
+6666666.74272	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S42-C22	53
+6666666.74273	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S44-C359	6
+6666666.74274	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S45-C20	55
+6666666.74275	uncultured Mediterranean phage uvMED-GF-C13-MedDCM-OCT-S29-C200	15
+6666666.74276	uncultured Mediterranean phage uvMED-GF-C13-MedDCM-OCT-S29-C218	14
+6666666.74277	uncultured Mediterranean phage uvMED-GF-C13-MedDCM-OCT-S32-C51	51
+6666666.74278	uncultured Mediterranean phage uvMED-GF-C13-MedDCM-OCT-S35-C47	49
+6666666.74279	uncultured Mediterranean phage uvMED-GF-C13-MedDCM-OCT-S36-C38	47
+6666666.74280	uncultured Mediterranean phage uvMED-GF-C2-MedDCM-OCT-S24-C158	4
+6666666.74281	uncultured Mediterranean phage uvMED-GF-C2-MedDCM-OCT-S24-C214	6
+6666666.74282	uncultured Mediterranean phage uvMED-GF-C2-MedDCM-OCT-S36-C257	13
+6666666.74283	uncultured Mediterranean phage uvMED-GF-C2-MedDCM-OCT-S40-C35	39
+6666666.74284	uncultured Mediterranean phage uvMED-GF-C2-MedDCM-OCT-S42-C71	34
+6666666.74285	uncultured Mediterranean phage uvMED-GF-C21-MedDCM-OCT-S24-C176	14
+6666666.74286	uncultured Mediterranean phage uvMED-GF-C21-MedDCM-OCT-S26-C263	12
+6666666.74287	uncultured Mediterranean phage uvMED-GF-C21-MedDCM-OCT-S29-C204	12
+6666666.74288	uncultured Mediterranean phage uvMED-GF-C25-MedDCM-OCT-S25-C144	27
+6666666.74289	uncultured Mediterranean phage uvMED-GF-C25-MedDCM-OCT-S27-C255	14
+6666666.74290	uncultured Mediterranean phage uvMED-GF-C25-MedDCM-OCT-S28-C198	15
+6666666.74291	uncultured Mediterranean phage uvMED-GF-C25-MedDCM-OCT-S29-C188	17
+6666666.74292	uncultured Mediterranean phage uvMED-GF-C25-MedDCM-OCT-S33-C258	15
+6666666.74293	uncultured Mediterranean phage uvMED-GF-C25-MedDCM-OCT-S35-C263	15
+6666666.74294	uncultured Mediterranean phage uvMED-GF-C25-MedDCM-OCT-S39-C205	19
+6666666.74295	uncultured Mediterranean phage uvMED-GF-C25-MedDCM-OCT-S42-C270	14
+6666666.74296	uncultured Mediterranean phage uvMED-GF-C25A-MedDCM-OCT-S25-C115	17
+6666666.74297	uncultured Mediterranean phage uvMED-GF-C25A-MedDCM-OCT-S41-C297	7
+6666666.74298	uncultured Mediterranean phage uvMED-GF-C2A-MedDCM-OCT-S24-C240	6
+6666666.74299	uncultured Mediterranean phage uvMED-GF-C2A-MedDCM-OCT-S36-C93	26
+6666666.74302	uncultured Mediterranean phage uvMED-GF-C31-MedDCM-OCT-S31-C137	30
+6666666.74303	uncultured Mediterranean phage uvMED-GF-C31-MedDCM-OCT-S41-C221	27
+6666666.74304	uncultured Mediterranean phage uvMED-GF-C31A-MedDCM-OCT-S25-C164	30
+6666666.74305	uncultured Mediterranean phage uvMED-GF-C31A-MedDCM-OCT-S27-C193	27
+6666666.74306	uncultured Mediterranean phage uvMED-GF-C31A-MedDCM-OCT-S29-C108	48
+6666666.74307	uncultured Mediterranean phage uvMED-GF-C31A-MedDCM-OCT-S29-C126	11
+6666666.74308	uncultured Mediterranean phage uvMED-GF-C31A-MedDCM-OCT-S30-C133	38
+6666666.74309	uncultured Mediterranean phage uvMED-GF-C31A-MedDCM-OCT-S38-C149	30
+6666666.74311	uncultured Mediterranean phage uvMED-GF-C33A-MedDCM-OCT-S23-C1	45
+6666666.74312	uncultured Mediterranean phage uvMED-GF-C33A-MedDCM-OCT-S43-C2	48
+6666666.74313	uncultured Mediterranean phage uvMED-GF-C33B-MedDCM-OCT-S23-C58	23
+6666666.74314	uncultured Mediterranean phage uvMED-GF-C33B-MedDCM-OCT-S33-C21	29
+6666666.74315	uncultured Mediterranean phage uvMED-GF-C33B-MedDCM-OCT-S36-C1	30
+6666666.74316	uncultured Mediterranean phage uvMED-GF-C33B-MedDCM-OCT-S40-C100	23
+6666666.74317	uncultured Mediterranean phage uvMED-GF-C33B-MedDCM-OCT-S40-C122	9
+6666666.74318	uncultured Mediterranean phage uvMED-GF-C34-MedDCM-OCT-S23-C43	58
+6666666.74321	uncultured Mediterranean phage uvMED-GF-C35-MedDCM-OCT-S24-C120	39
+6666666.74322	uncultured Mediterranean phage uvMED-GF-C35-MedDCM-OCT-S26-C113	41
+6666666.74323	uncultured Mediterranean phage uvMED-GF-C35-MedDCM-OCT-S34-C78	54
+6666666.74324	uncultured Mediterranean phage uvMED-GF-C35-MedDCM-OCT-S36-C65	63
+6666666.74325	uncultured Mediterranean phage uvMED-GF-C35-MedDCM-OCT-S39-C107	44
+6666666.74326	uncultured Mediterranean phage uvMED-GF-C35-MedDCM-OCT-S44-C161	34
+6666666.74328	uncultured Mediterranean phage uvMED-GF-C35-MedDCM-OCT-S46-C217	31
+6666666.74329	uncultured Mediterranean phage uvMED-GF-C36-MedDCM-OCT-S23-C51	56
+6666666.74330	uncultured Mediterranean phage uvMED-GF-C36-MedDCM-OCT-S24-C224	14
+6666666.74331	uncultured Mediterranean phage uvMED-GF-C36-MedDCM-OCT-S25-C108	49
+6666666.74332	uncultured Mediterranean phage uvMED-GF-C36-MedDCM-OCT-S26-C79	57
+6666666.74333	uncultured Mediterranean phage uvMED-GF-C36-MedDCM-OCT-S41-C69	62
+6666666.74334	uncultured Mediterranean phage uvMED-GF-C36-MedDCM-OCT-S44-C113	50
+6666666.74336	uncultured Mediterranean phage uvMED-GF-C4-MedDCM-OCT-S43-C68	49
+6666666.74339	uncultured Mediterranean phage uvMED-GF-C41-MedDCM-OCT-S35-C124	25
+6666666.74340	uncultured Mediterranean phage uvMED-GF-C41-MedDCM-OCT-S35-C176	17
+6666666.74342	uncultured Mediterranean phage uvMED-GF-C44-MedDCM-OCT-S32-C97	56
+6666666.74343	uncultured Mediterranean phage uvMED-GF-C44-MedDCM-OCT-S34-C46	66
+6666666.74344	uncultured Mediterranean phage uvMED-GF-C45-MedDCM-OCT-S35-C253	5
+6666666.74345	uncultured Mediterranean phage uvMED-GF-C45-MedDCM-OCT-S37-C247	5
+6666666.74346	uncultured Mediterranean phage uvMED-GF-C45-MedDCM-OCT-S45-C284	5
+6666666.74347	uncultured Mediterranean phage uvMED-GF-C46-MedDCM-OCT-S45-C178	10
+6666666.74348	uncultured Mediterranean phage uvMED-GF-C46-MedDCM-OCT-S45-C206	25
+6666666.74349	uncultured Mediterranean phage uvMED-GF-C47-MedDCM-OCT-S32-C28	45
+6666666.74350	uncultured Mediterranean phage uvMED-GF-C47-MedDCM-OCT-S34-C10	21
+6666666.74351	uncultured Mediterranean phage uvMED-GF-C47-MedDCM-OCT-S35-C41	56
+6666666.74352	uncultured Mediterranean phage uvMED-GF-C47-MedDCM-OCT-S36-C43	22
+6666666.74353	uncultured Mediterranean phage uvMED-GF-C47-MedDCM-OCT-S39-C56	14
+6666666.74354	uncultured Mediterranean phage uvMED-GF-C4A-MedDCM-OCT-S37-C62	48
+6666666.74355	uncultured Mediterranean phage uvMED-GF-C4A-MedDCM-OCT-S46-C72	48
+6666666.74356	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S23-C187	5
+6666666.74357	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S24-C76	42
+6666666.74359	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S27-C245	5
+6666666.74361	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S30-C164	23
+6666666.74362	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S32-C91	41
+6666666.74363	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S34-C126	18
+6666666.74364	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S40-C288	5
+6666666.74365	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S41-C195	12
+6666666.74366	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S44-C317	5
+6666666.74367	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S44-C323	5
+6666666.74368	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S45-C243	5
+6666666.74369	uncultured Mediterranean phage uvMED-GF-C50-MedDCM-OCT-S44-C311	3
+6666666.74370	uncultured Mediterranean phage uvMED-GF-C50A-MedDCM-OCT-S28-C151	5
+6666666.74371	uncultured Mediterranean phage uvMED-GF-C50A-MedDCM-OCT-S33-C225	6
+6666666.74372	uncultured Mediterranean phage uvMED-GF-C50A-MedDCM-OCT-S35-C215	5
+6666666.74373	uncultured Mediterranean phage uvMED-GF-C50A-MedDCM-OCT-S36-C242	6
+6666666.74374	uncultured Mediterranean phage uvMED-GF-C50A-MedDCM-OCT-S42-C214	5
+6666666.74375	uncultured Mediterranean phage uvMED-GF-C60-MedDCM-OCT-S34-C102	23
+6666666.74376	uncultured Mediterranean phage uvMED-GF-C60-MedDCM-OCT-S34-C195	10
+6666666.74377	uncultured Mediterranean phage uvMED-GF-C60A-MedDCM-OCT-S29-C62	49
+6666666.74378	uncultured Mediterranean phage uvMED-GF-C60A-MedDCM-OCT-S34-C266	16
+6666666.74381	uncultured Mediterranean phage uvMED-GF-C61A-MedDCM-OCT-S26-C30	42
+6666666.74382	uncultured Mediterranean phage uvMED-GF-C61A-MedDCM-OCT-S34-C2	50
+6666666.74383	uncultured Mediterranean phage uvMED-GF-C61B-MedDCM-OCT-S24-C48	42
+6666666.74384	uncultured Mediterranean phage uvMED-GF-C61B-MedDCM-OCT-S25-C16	49
+6666666.74385	uncultured Mediterranean phage uvMED-GF-C61B-MedDCM-OCT-S44-C38	46
+6666666.74386	uncultured Mediterranean phage uvMED-GF-C64A-MedDCM-OCT-S40-C38	50
+6666666.74387	uncultured Mediterranean phage uvMED-GF-C64A-MedDCM-OCT-S43-C103	40
+6666666.74388	uncultured Mediterranean phage uvMED-GF-C64A-MedDCM-OCT-S46-C308	14
+6666666.74389	uncultured Mediterranean phage uvMED-GF-C64A-MedDCM-OCT-S46-C99	35
+6666666.74390	uncultured Mediterranean phage uvMED-GF-C65A-MedDCM-OCT-S23-C111	24
+6666666.74391	uncultured Mediterranean phage uvMED-GF-C65A-MedDCM-OCT-S33-C146	25
+6666666.74392	uncultured Mediterranean phage uvMED-GF-C65A-MedDCM-OCT-S36-C164	25
+6666666.74393	uncultured Mediterranean phage uvMED-GF-C65A-MedDCM-OCT-S39-C186	21
+6666666.74394	uncultured Mediterranean phage uvMED-GF-C67-MedDCM-OCT-S37-C48	59
+6666666.74395	uncultured Mediterranean phage uvMED-GF-C67-MedDCM-OCT-S40-C70	42
+6666666.74396	uncultured Mediterranean phage uvMED-GF-C67-MedDCM-OCT-S41-C49	60
+6666666.74397	uncultured Mediterranean phage uvMED-GF-C67-MedDCM-OCT-S42-C67	66
+6666666.74398	uncultured Mediterranean phage uvMED-GF-C69A-MedDCM-OCT-S23-C183	4
+6666666.74399	uncultured Mediterranean phage uvMED-GF-C69A-MedDCM-OCT-S25-C226	4
+6666666.74400	uncultured Mediterranean phage uvMED-GF-C69A-MedDCM-OCT-S28-C171	5
+6666666.74401	uncultured Mediterranean phage uvMED-GF-C69A-MedDCM-OCT-S30-C220	5
+6666666.74402	uncultured Mediterranean phage uvMED-GF-C69A-MedDCM-OCT-S31-C168	7
+6666666.74403	uncultured Mediterranean phage uvMED-GF-C69A-MedDCM-OCT-S35-C245	6
+6666666.74404	uncultured Mediterranean phage uvMED-GF-C69A-MedDCM-OCT-S36-C278	4
+6666666.74405	uncultured Mediterranean phage uvMED-GF-C69A-MedDCM-OCT-S44-C288	5
+6666666.74406	uncultured Mediterranean phage uvMED-GF-C69A-MedDCM-OCT-S46-C321	5
+6666666.74407	uncultured Mediterranean phage uvMED-GF-C71-MedDCM-OCT-S24-C63	48
+6666666.74408	uncultured Mediterranean phage uvMED-GF-C71-MedDCM-OCT-S28-C33	45
+6666666.74409	uncultured Mediterranean phage uvMED-GF-C71-MedDCM-OCT-S32-C121	20
+6666666.74410	uncultured Mediterranean phage uvMED-GF-C71-MedDCM-OCT-S32-C174	14
+6666666.74411	uncultured Mediterranean phage uvMED-GF-C71-MedDCM-OCT-S32-C207	11
+6666666.74412	uncultured Mediterranean phage uvMED-GF-C73-MedDCM-OCT-S33-C13	49
+6666666.74413	uncultured Mediterranean phage uvMED-GF-C74-MedDCM-OCT-S25-C34	46
+6666666.74414	uncultured Mediterranean phage uvMED-GF-C74-MedDCM-OCT-S33-C73	21
+6666666.74415	uncultured Mediterranean phage uvMED-GF-C75-MedDCM-OCT-S25-C132	23
+6666666.74416	uncultured Mediterranean phage uvMED-GF-C75-MedDCM-OCT-S34-C124	31
+6666666.74417	uncultured Mediterranean phage uvMED-GF-C76-MedDCM-OCT-S35-C25	60
+6666666.74418	uncultured Mediterranean phage uvMED-GF-C76-MedDCM-OCT-S42-C31	61
+6666666.74419	uncultured Mediterranean phage uvMED-GF-C77-MedDCM-OCT-S35-C75	40
+6666666.74420	uncultured Mediterranean phage uvMED-GF-C77-MedDCM-OCT-S39-C66	37
+6666666.74421	uncultured Mediterranean phage uvMED-GF-C8-MedDCM-OCT-S26-C6 clone	34
+6666666.74422	uncultured Mediterranean phage uvMED-GF-C80-MedDCM-OCT-S37-C279	13
+6666666.74423	uncultured Mediterranean phage uvMED-GF-C80-MedDCM-OCT-S40-C126	36
+6666666.74424	uncultured Mediterranean phage uvMED-GF-C81-MedDCM-OCT-S26-C128	32
+6666666.74425	uncultured Mediterranean phage uvMED-GF-C81-MedDCM-OCT-S44-C144	28
+6666666.74426	uncultured Mediterranean phage uvMED-GF-C86-MedDCM-OCT-S32-C46	39
+6666666.74427	uncultured Mediterranean phage uvMED-GF-C86-MedDCM-OCT-S38-C287	9
+6666666.74428	uncultured Mediterranean phage uvMED-GF-C87-MedDCM-OCT-S23-C123	11
+6666666.74429	uncultured Mediterranean phage uvMED-GF-C87-MedDCM-OCT-S44-C129	21
+6666666.74430	uncultured Mediterranean phage uvMED-GF-C88-MedDCM-OCT-S25-C188	12
+6666666.74431	uncultured Mediterranean phage uvMED-GF-C88-MedDCM-OCT-S36-C169	16
+6666666.74432	uncultured Mediterranean phage uvMED-GF-C89-MedDCM-OCT-S40-C163	33
+6666666.74433	uncultured Mediterranean phage uvMED-GF-C89-MedDCM-OCT-S41-C154	38
+6666666.74436	uncultured Mediterranean phage uvMED-GF-C8A-MedDCM-OCT-S43-C94	20
+6666666.74437	uncultured Mediterranean phage uvMED-GF-C8A-MedDCM-OCT-S44-C62	20
+6666666.74438	uncultured Mediterranean phage uvMED-GF-C9-MedDCM-OCT-S29-C11	24
+6666666.74439	uncultured Mediterranean phage uvMED-GF-C9-MedDCM-OCT-S41-C89	11
+6666666.74440	uncultured Mediterranean phage uvMED-GF-C9-MedDCM-OCT-S44-C3 clone	27
+6666666.74441	uncultured Mediterranean phage uvMED-GF-C90-MedDCM-OCT-S31-C54	36
+6666666.74442	uncultured Mediterranean phage uvMED-GF-C90-MedDCM-OCT-S34-C240	14
+6666666.74443	uncultured Mediterranean phage uvMED-GF-C90-MedDCM-OCT-S34-C72	32
+6666666.74444	uncultured Mediterranean phage uvMED-GF-C91-MedDCM-OCT-S26-C130	16
+6666666.74445	uncultured Mediterranean phage uvMED-GF-C91-MedDCM-OCT-S44-C178	13
+6666666.74446	uncultured Mediterranean phage uvMED-GF-C92-MedDCM-OCT-S30-C60	45
+6666666.74447	uncultured Mediterranean phage uvMED-GF-C92-MedDCM-OCT-S33-C95	23
+6666666.74448	uncultured Mediterranean phage uvMED-GF-C93-MedDCM-OCT-S32-C16	58
+6666666.74449	uncultured Mediterranean phage uvMED-GF-C93-MedDCM-OCT-S38-C9	59
+6666666.74450	uncultured Mediterranean phage uvMED-GF-C95A-MedDCM-OCT-S25-C36	63
+6666666.74451	uncultured Mediterranean phage uvMED-GF-C95A-MedDCM-OCT-S45-C87	57
+6666666.74452	uncultured Mediterranean phage uvMED-GF-C96A-MedDCM-OCT-S31-C165	6
+6666666.74453	uncultured Mediterranean phage uvMED-GF-C96A-MedDCM-OCT-S43-C249	6
+6666666.74454	uncultured Mediterranean phage uvMED-GF-C98-MedDCM-OCT-S24-C219	17
+6666666.74455	uncultured Mediterranean phage uvMED-GF-C98-MedDCM-OCT-S42-C227	10
+6666666.74456	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S24-C118	16
+6666666.74457	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S24-C264	4
+6666666.74458	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S24-C27 clone	57
+6666666.74459	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S25-C236	11
+6666666.74460	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S28-C30 clone	49
+6666666.74461	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S34-C161	16
+6666666.74462	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S34-C282	8
+6666666.74463	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S36-C17 clone	11
+6666666.74464	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S40-C9 clone	22
+6666666.74465	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S41-C16 clone	14
+6666666.74466	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S46-C41 clone	34
+6666666.74468	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S23-C71 clone	47
+6666666.74469	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S25-C160	8
+6666666.74470	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S25-C192	7
+6666666.74471	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S26-C192	16
+6666666.74472	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S27-C55 clone	62
+6666666.74473	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S28-C138	12
+6666666.74474	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S30-C66 clone	71
+6666666.74475	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S31-C38 clone	41
+6666666.74476	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S31-C59 clone	58
+6666666.74477	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S35-C248	5
+6666666.74478	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S37-C170	10
+6666666.74479	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S37-C235	17
+6666666.74480	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S41-C121	54
+6666666.74481	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S44-C306	3
+6666666.74483	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S45-C278	9
+6666666.74484	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S45-C303	18
+6666666.74486	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S26-C46 clone	58
+6666666.74487	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S30-C43 clone	58
+6666666.74488	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S32-C61 clone	57
+6666666.74489	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S41-C62 clone	47
+6666666.74490	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S43-C52 clone	48
+6666666.74491	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S46-C11 clone	36
+6666666.74492	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S30-C67 clone	42
+6666666.74493	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S23-C193	5
+6666666.74495	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S23-C54 clone	44
+6666666.74496	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S23-C59 clone	41
+6666666.74497	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S23-C63 clone	30
+6666666.74499	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S24-C155	16
+6666666.74500	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S24-C25 clone	48
+6666666.74501	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S24-C33 clone	40
+6666666.74502	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S24-C75 clone	28
+6666666.74503	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S24-C92 clone	29
+6666666.74504	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S25-C40 clone	56
+6666666.74505	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S25-C51 clone	46
+6666666.74506	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S25-C61 clone	49
+6666666.74507	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S25-C63 clone	46
+6666666.74508	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S26-C8 clone	68
+6666666.74509	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S27-C59 clone	29
+6666666.74510	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S28-C24 clone	50
+6666666.74511	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S28-C41 clone	41
+6666666.74512	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S28-C45 clone	50
+6666666.74513	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S28-C6 clone	49
+6666666.74514	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S28-C84 clone	32
+6666666.74515	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S29-C137	23
+6666666.74516	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S29-C153	15
+6666666.74517	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S29-C217	10
+6666666.74518	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S29-C233	8
+6666666.74519	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S29-C27 clone	48
+6666666.74520	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S29-C31 clone	18
+6666666.74521	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S29-C94 clone	20
+6666666.74522	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S30-C193	15
+6666666.74523	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S30-C233	15
+6666666.74525	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S30-C72 clone	32
+6666666.74526	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S31-C102	15
+6666666.74527	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S31-C24 clone	57
+6666666.74528	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S31-C66 clone	35
+6666666.74529	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S32-C31 clone	57
+6666666.74530	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S32-C52 clone	59
+6666666.74531	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S32-C66 clone	58
+6666666.74532	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S33-C158	27
+6666666.74533	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S33-C177	8
+6666666.74534	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S33-C32 clone	39
+6666666.74535	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S33-C37 clone	39
+6666666.74536	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S33-C38 clone	43
+6666666.74537	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S33-C64 clone	28
+6666666.74539	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S34-C6 clone	42
+6666666.74540	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S34-C75 clone	29
+6666666.74541	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S34-C97 clone	25
+6666666.74542	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S35-C113	19
+6666666.74543	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S35-C219	8
+6666666.74545	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S36-C30 clone	38
+6666666.74546	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S36-C54 clone	19
+6666666.74547	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S36-C55 clone	50
+6666666.74548	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S36-C59 clone	55
+6666666.74549	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S36-C6 clone	49
+6666666.74550	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S36-C72 clone	46
+6666666.74551	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S36-C84 clone	41
+6666666.74552	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S37-C135	21
+6666666.74553	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S37-C34 clone	55
+6666666.74554	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S37-C36 clone	35
+6666666.74555	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S37-C76 clone	49
+6666666.74556	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S37-C78 clone	45
+6666666.74557	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S38-C17 clone	60
+6666666.74558	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S38-C30 clone	60
+6666666.74559	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S38-C47 clone	46
+6666666.74560	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S38-C5 clone	52
+6666666.74561	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S38-C55 clone	52
+6666666.74562	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S38-C73 clone	49
+6666666.74563	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S38-C79 clone	51
+6666666.74564	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S39-C22 clone	52
+6666666.74565	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S39-C3 clone	56
+6666666.74566	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S39-C33 clone	26
+6666666.74567	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S39-C37 clone	31
+6666666.74568	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S39-C41 clone	41
+6666666.74570	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S39-C71 clone	44
+6666666.74571	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S39-C89 clone	32
+6666666.74572	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S39-C94 clone	50
+6666666.74573	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S40-C110	20
+6666666.74574	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S40-C32 clone	61
+6666666.74575	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S40-C80 clone	39
+6666666.74576	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S41-C102	36
+6666666.74577	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S41-C2 clone	36
+6666666.74578	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S41-C56 clone	37
+6666666.74579	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S41-C61 clone	53
+6666666.74580	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S41-C63 clone	59
+6666666.74581	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S41-C79 clone	36
+6666666.74582	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S41-C87 clone	22
+6666666.74583	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S42-C117	33
+6666666.74584	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S42-C16 clone	50
+6666666.74585	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S42-C166	12
+6666666.74586	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S42-C19 clone	38
+6666666.74587	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S42-C24 clone	51
+6666666.74588	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S42-C54 clone	54
+6666666.74589	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S42-C56 clone	39
+6666666.74590	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S42-C64 clone	41
+6666666.74592	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S43-C22 clone	42
+6666666.74594	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S43-C70 clone	56
+6666666.74595	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S43-C84 clone	21
+6666666.74597	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S44-C10 clone	53
+6666666.74598	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S44-C111	29
+6666666.74599	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S44-C133	17
+6666666.74601	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S44-C19 clone	52
+6666666.74602	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S44-C45 clone	38
+6666666.74603	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S44-C77 clone	43
+6666666.74604	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S44-C9 clone	58
+6666666.74605	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S45-C130	33
+6666666.74606	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S45-C174	16
+6666666.74607	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S45-C298	16
+6666666.74608	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S45-C55 clone	58
+6666666.74609	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S45-C86 clone	57
+6666666.74610	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S46-C203	32
+6666666.74611	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S46-C58 clone	15
+6666666.74613	uncultured Mediterranean phage uvMED-CGF-C110A-MedDCM-OCT-S26-C20	58
+6666666.74615	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S24-C237	18
+6666666.74616	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S24-C256	16
+6666666.74617	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S28-C136	23
+6666666.74618	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S28-C155	19
+6666666.74619	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S28-C99	27
+6666666.74620	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S33-C231	17
+6666666.74621	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S34-C276	10
+6666666.74622	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S37-C166	33
+6666666.74623	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S37-C188	25
+6666666.74624	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S37-C189	10
+6666666.74626	uncultured Mediterranean phage uvMED-CGF-C28A-MedDCM-OCT-S28-C111	34
+6666666.74627	uncultured Mediterranean phage uvMED-CGF-C28A-MedDCM-OCT-S45-C137	47
+6666666.74628	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S26-C171	32
+6666666.74629	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S27-C103	53
+6666666.74630	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S27-C110	51
+6666666.74632	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S42-C120	52
+6666666.74633	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S43-C120	52
+6666666.74634	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S43-C167	35
+6666666.74636	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S43-C179	10
+6666666.74637	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S46-C189	11
+6666666.74638	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S46-C243	21
+6666666.74640	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S27-C233	7
+6666666.74641	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S28-C14	79
+6666666.74642	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S29-C101	50
+6666666.74643	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S29-C111	21
+6666666.74644	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S29-C138	26
+6666666.74645	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S31-C201	14
+6666666.74646	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S31-C202	10
+6666666.74647	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S41-C103	61
+6666666.74648	uncultured Mediterranean phage uvMED-CGF-C22C-MedDCM-OCT-S35-C88	46
+6666666.74649	uncultured Mediterranean phage uvMED-CGF-C22C-MedDCM-OCT-S41-C155	39
+6666666.74650	uncultured Mediterranean phage uvMED-CGF-C29A-MedDCM-OCT-S31-C13	67
+6666666.74651	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S26-C121	39
+6666666.74652	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S26-C267	17
+6666666.74653	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S29-C110	28
+6666666.74654	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S30-C70	60
+6666666.74655	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S33-C93	54
+6666666.74657	uncultured Mediterranean phage uvMED-CGF-C30-MedDCM-OCT-S39-C118	43
+6666666.74658	uncultured Mediterranean phage uvMED-CGF-C30B-MedDCM-OCT-S32-C76	66
+6666666.74659	uncultured Mediterranean phage uvMED-CGF-C39-MedDCM-OCT-S35-C62	62
+6666666.74660	uncultured Mediterranean phage uvMED-CGF-C43-MedDCM-OCT-S31-C62	49
+6666666.74661	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S30-C216	14
+6666666.74662	uncultured Mediterranean phage uvMED-CGF-C14A-MedDCM-OCT-S35-C81	53
+6666666.74663	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S28-C118	28
+6666666.74664	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S28-C135	14
+6666666.74665	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S28-C165	15
+6666666.74666	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S29-C199	18
+6666666.74667	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S36-C132	28
+6666666.74668	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S36-C141	18
+6666666.74669	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S41-C197	19
+6666666.74670	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S45-C152	19
+6666666.74671	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S45-C173	16
+6666666.74672	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S45-C226	17
+6666666.74673	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S45-C237	21
+6666666.74674	uncultured Mediterranean phage uvMED-CGF-C15-MedDCM-OCT-S45-C279	20
+6666666.74675	uncultured Mediterranean phage uvMED-CGF-C15B-MedDCM-OCT-S36-C229	14
+6666666.74676	uncultured Mediterranean phage uvMED-CGF-C15D-MedDCM-OCT-S43-C38	67
+6666666.74677	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S26-C144	12
+6666666.74678	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S26-C176	24
+6666666.74679	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S41-C131	23
+6666666.74680	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S43-C151	18
+6666666.74681	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S45-C139	22
+6666666.74682	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S45-C204	23
+6666666.74683	uncultured Mediterranean phage uvMED-CGF-C15G-MedDCM-OCT-S46-C52	58
+6666666.74684	uncultured Mediterranean phage uvMED-CGF-C15H-MedDCM-OCT-S36-C90	42
+6666666.74685	uncultured Mediterranean phage uvMED-CGF-C15H-MedDCM-OCT-S43-C77	58
+6666666.74686	uncultured Mediterranean phage uvMED-CGF-C1-MedDCM-OCT-S31-C115	21
+6666666.74687	uncultured Mediterranean phage uvMED-CGF-C1-MedDCM-OCT-S32-C86	33
+6666666.74688	uncultured Mediterranean phage uvMED-CGF-C1B-MedDCM-OCT-S29-C149	14
+6666666.74689	uncultured Mediterranean phage uvMED-CGF-C1C-MedDCM-OCT-S33-C205	11
+6666666.74690	uncultured Mediterranean phage uvMED-CGF-C5C-MedDCM-OCT-S42-C91	45
+6666666.74691	uncultured Mediterranean phage uvMED-CGF-C7-MedDCM-OCT-S44-C334	7
+6666666.74692	uncultured Mediterranean phage uvMED-CGF-C17B-MedDCM-OCT-S28-C87	14
+6666666.74693	uncultured Mediterranean phage uvMED-CGF-C17B-MedDCM-OCT-S36-C33	58
+6666666.74694	uncultured Mediterranean phage uvMED-GF-C12-MedDCM-OCT-S39-C236	15
+6666666.74695	uncultured Mediterranean phage uvMED-GF-C12-MedDCM-OCT-S44-C168	17
+6666666.74696	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S24-C109	17
+6666666.74697	uncultured Mediterranean phage uvMED-GF-C12B-MedDCM-OCT-S39-C115	21
+6666666.74698	uncultured Mediterranean phage uvMED-GF-C21-MedDCM-OCT-S36-C149	24
+6666666.74699	uncultured Mediterranean phage uvMED-GF-C25-MedDCM-OCT-S33-C74	50
+6666666.74700	uncultured Mediterranean phage uvMED-GF-C25-MedDCM-OCT-S41-C247	18
+6666666.74701	uncultured Mediterranean phage uvMED-GF-C31A-MedDCM-OCT-S34-C76	48
+6666666.74702	uncultured Mediterranean phage uvMED-GF-C31A-MedDCM-OCT-S45-C60	65
+6666666.74703	uncultured Mediterranean phage uvMED-GF-C33B-MedDCM-OCT-S46-C21	30
+6666666.74704	uncultured Mediterranean phage uvMED-GF-C36-MedDCM-OCT-S42-C198	25
+6666666.74705	uncultured Mediterranean phage uvMED-GF-C36-MedDCM-OCT-S42-C203	22
+6666666.74706	uncultured Mediterranean phage uvMED-GF-C38-MedDCM-OCT-S27-C129	23
+6666666.74708	uncultured Mediterranean phage uvMED-GF-C46-MedDCM-OCT-S46-C77	60
+6666666.74709	uncultured Mediterranean phage uvMED-GF-C71-MedDCM-OCT-S32-C157	21
+6666666.74710	uncultured Mediterranean phage uvMED-GF-C71-MedDCM-OCT-S32-C164	11
+6666666.74711	uncultured Mediterranean phage uvMED-GF-C71-MedDCM-OCT-S32-C181	13
+6666666.74712	uncultured Mediterranean phage uvMED-GF-C73-MedDCM-OCT-S34-C64	26
+6666666.74713	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S27-C8 clone	47
+6666666.74714	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S32-C79 clone	67
+6666666.74715	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S32-C4 clone	38
+6666666.74716	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S40-C54 clone	36
+6666666.74717	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S42-C30 clone	32
+6666666.74718	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S44-C24 clone	51
+6666666.74719	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S46-C29 clone	54
+6666666.73595	uncultured Mediterranean phage uvMED-CGR-C23-MedDCM-OCT-S37-C51	58
+6666666.73607	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S30-C38	54
+6666666.73608	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S40-C42	50
+6666666.73650	uncultured Mediterranean phage uvMED-CGR-C22-MedDCM-OCT-S33-C34	69
+6666666.73664	uncultured Mediterranean phage uvMED-CGR-U-MedDCM-OCT-S38-C40	64
+6666666.73750	uncultured Mediterranean phage uvMED-CGR-C97-MedDCM-OCT-S42-C7	51
+6666666.73760	uncultured Mediterranean phage uvMED-CGR-C23A-MedDCM-OCT-S43-C49	58
+6666666.73761	uncultured Mediterranean phage uvMED-CGR-C23B-MedDCM-OCT-S39-C49	58
+6666666.73762	uncultured Mediterranean phage uvMED-CGR-C26B-MedDCM-OCT-S35-C55	66
+6666666.73765	uncultured Mediterranean phage uvMED-CGR-C28-MedDCM-OCT-S32-C64	61
+6666666.73766	uncultured Mediterranean phage uvMED-CGR-C28-MedDCM-OCT-S41-C64	59
+6666666.73767	uncultured Mediterranean phage uvMED-CGR-C24-MedDCM-OCT-S38-C43	60
+6666666.73798	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S32-C215	11
+6666666.73804	uncultured Mediterranean phage uvMED-CGF-C23-MedDCM-OCT-S41-C224	17
+6666666.73808	uncultured Mediterranean phage uvMED-CGF-C23B-MedDCM-OCT-S27-C246	11
+6666666.73809	uncultured Mediterranean phage uvMED-CGF-C23B-MedDCM-OCT-S30-C202	12
+6666666.73810	uncultured Mediterranean phage uvMED-CGF-C23B-MedDCM-OCT-S35-C233	15
+6666666.73820	uncultured Mediterranean phage uvMED-CGF-C26-MedDCM-OCT-S37-C271	18
+6666666.73821	uncultured Mediterranean phage uvMED-CGF-C26-MedDCM-OCT-S41-C289	18
+6666666.73827	uncultured Mediterranean phage uvMED-CGF-C26B-MedDCM-OCT-S33-C167	9
+6666666.73830	uncultured Mediterranean phage uvMED-CGF-C26C-MedDCM-OCT-S40-C87	42
+6666666.73837	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S26-C93	35
+6666666.73843	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S31-C91	24
+6666666.73855	uncultured Mediterranean phage uvMED-CGF-C28B-MedDCM-OCT-S36-C223	17
+6666666.73865	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S25-C260	6
+6666666.73871	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S32-C172	9
+6666666.73872	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S33-C129	24
+6666666.73878	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S45-C223	8
+6666666.73920	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S23-C98	26
+6666666.73925	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S29-C159	15
+6666666.73929	uncultured Mediterranean phage uvMED-CGF-C22-MedDCM-OCT-S35-C292	8
+6666666.73936	uncultured Mediterranean phage uvMED-CGF-C22B-MedDCM-OCT-S29-C187	6
+6666666.73937	uncultured Mediterranean phage uvMED-CGF-C22B-MedDCM-OCT-S31-C210	6
+6666666.73946	uncultured Mediterranean phage uvMED-CGF-C32A-MedDCM-OCT-S32-C182	8
+6666666.73949	uncultured Mediterranean phage uvMED-CGF-C32A-MedDCM-OCT-S43-C92	46
+6666666.73952	uncultured Mediterranean phage uvMED-CGF-C40-MedDCM-OCT-S40-C68	52
+6666666.73972	uncultured Mediterranean phage uvMED-CGF-C27-MedDCM-OCT-S40-C101	35
+6666666.73975	uncultured Mediterranean phage uvMED-GF-C27A-MedDCM-OCT-S46-C247	11
+6666666.73977	uncultured Mediterranean phage uvMED-CGF-C30A-MedDCM-OCT-S31-C199	9
+6666666.74241	uncultured Mediterranean phage uvMED-GF-C116-MedDCM-OCT-S45-C265	14
+6666666.74300	uncultured Mediterranean phage uvMED-GF-C3-MedDCM-OCT-S45-C97	26
+6666666.74301	uncultured Mediterranean phage uvMED-GF-C3-MedDCM-OCT-S46-C100	30
+6666666.74310	uncultured Mediterranean phage uvMED-GF-C31A-MedDCM-OCT-S41-C267	14
+6666666.74319	uncultured Mediterranean phage uvMED-GF-C34-MedDCM-OCT-S37-C33	67
+6666666.74320	uncultured Mediterranean phage uvMED-GF-C34-MedDCM-OCT-S43-C23	69
+6666666.74327	uncultured Mediterranean phage uvMED-GF-C35-MedDCM-OCT-S46-C200	10
+6666666.74335	uncultured Mediterranean phage uvMED-GF-C38-MedDCM-OCT-S24-C203	14
+6666666.74341	uncultured Mediterranean phage uvMED-GF-C44-MedDCM-OCT-S31-C46	62
+6666666.74360	uncultured Mediterranean phage uvMED-GF-C4B-MedDCM-OCT-S30-C112	17
+6666666.74379	uncultured Mediterranean phage uvMED-GF-C61-MedDCM-OCT-S33-C79	32
+6666666.74380	uncultured Mediterranean phage uvMED-GF-C61-MedDCM-OCT-S46-C82	32
+6666666.74467	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S23-C152	9
+6666666.74482	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S45-C180	16
+6666666.74485	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S46-C191	16
+6666666.74498	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S24-C125	17
+6666666.74569	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S39-C68 clone	34
+6666666.74591	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S42-C76 clone	39
+6666666.74593	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S43-C51 clone	37
+6666666.74596	uncultured Mediterranean phage uvMED-GF-U-MedDCM-OCT-S43-C95 clone	39
+6666666.74614	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S24-C124	17
+6666666.74625	uncultured Mediterranean phage uvMED-CGF-C28-MedDCM-OCT-S42-C174	23
+6666666.74631	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S39-C59	58
+6666666.74635	uncultured Mediterranean phage uvMED-CGF-C24-MedDCM-OCT-S43-C174	13
+6666666.74639	uncultured Mediterranean phage uvMED-CGF-C24A-MedDCM-OCT-S27-C168	9
+6666666.74656	uncultured Mediterranean phage uvMED-GF-C27A-MedDCM-OCT-S26-C72	63
+6666666.74707	uncultured Mediterranean phage uvMED-GF-C38-MedDCM-OCT-S39-C155	21
+1005056.3	Salmonella phage iEPS5, complete genome.	73
+1235647.3	Propionibacterium phage PHL060L00, complete genome.	46
+1007869.3	Rhodococcus phage E3, complete genome.	220
+1029988.3	Erwinia phage phiEaH2, complete genome.	262
+1041526.3	Staphylococcus phage S25-3 DNA, complete genome.	206
+1041527.3	Staphylococcus phage S25-4 DNA, complete genome.	184
+1051140.4	Mycobacterium phage Euphoria, complete genome.	94
+1052121.5	Enterobacteria phage Bp7, complete genome.	263
+1054834.4	Enterobacteria phage ime09, complete genome.	268
+10713.3	Enterobacteria phage phi80, complete genome.	63
+1071506.3	Mycobacterium phage RidgeCB, complete genome.	94
+10732.3	Streptomyces phage R4, complete genome.	86
+1074044.3	Uncultured phage WW-nAnB, complete genome.	8
+1074305.4	Mycobacterium phage Dandelion, complete genome.	239
+1074308.4	Mycobacterium phage Patience, complete genome.	109
+1076630.4	Mycobacterium phage AnnaL29, complete genome.	96
+1079998.4	Synechococcus phage S-MbCM6, complete genome.	225
+1079999.4	Synechococcus phage metaG-MbCM1, complete genome.	234
+1087482.3	Salmonella phage S16, complete genome.	268
+1091038.3	Streptococcus phage 20617 complete prophage genome.	68
+1113547.3	Salmonella phage 9NA, complete genome.	84
+1114179.4	Pseudomonas phage tf complete genome.	72
+1116482.3	Pectobacterium phage phiTE, complete genome.	242
+1125653.4	Salmonella phage SPN1S, complete genome.	52
+1129147.4	Klebsiella phage KP27, complete genome.	276
+1129192.3	Bacillus phage BCP8-2, complete genome.	220
+1136534.3	Bacillus phage BCD7, complete genome.	140
+1136535.3	Burkholderia phage DC1, complete genome.	73
+1136731.3	Bacillus phage BPS13, complete genome.	268
+1141134.3	Salmonella phage SPN19, complete genome.	72
+1141135.3	Cronobacter phage vB_CsaM_GAP31, complete genome.	269
+1141136.3	Cronobacter phage vB_CsaM_GAP32, complete genome.	545
+1141137.3	Cronobacter phage vB_CsaP_GAP52, complete genome.	115
+1141138.3	Cronobacter phage vB_CsaM_GAP161, complete genome.	275
+1141139.3	Enterobacteria phage vB_EcoP_ACG-C91, complete genome.	56
+1141140.3	Enterobacteria phage vB_EcoS_ACG-M12, complete genome.	78
+1141141.3	Enterobacteria phage vB_EcoM_ACG-C40, complete genome.	282
+1147142.3	Enterobacteria phage HK578, complete genome.	60
+1147143.3	Enterobacteria phage HK140, complete genome.	71
+1147144.3	Enterobacteria phage HK225, complete genome.	69
+1147145.3	Enterobacteria phage HK446, complete genome.	60
+1147146.3	Enterobacteria phage HK630, complete genome.	69
+1147147.3	Enterobacteria phage HK633, complete genome.	67
+1147148.3	Enterobacteria phage HK629, complete genome.	69
+1147149.3	Enterobacteria phage mEp043 c-1, complete genome.	69
+1147150.3	Enterobacteria phage mEp235, complete genome.	61
+1147151.3	Enterobacteria phage mEp237, complete genome.	63
+1147152.3	Enterobacteria phage mEp460, complete genome.	59
+1147153.3	Enterobacteria phage mEpX1, complete genome.	66
+1147154.3	Enterobacteria phage mEpX2, complete genome.	67
+1147155.3	Enterobacteria phage vB_EcoS_Rogue1, complete genome.	74
+1147156.3	Enterobacterial phage mEp213, complete genome.	74
+1147157.3	Enterobacterial phage mEp234, complete genome.	61
+1147158.3	Enterobacterial phage mEp390, complete genome.	59
+1150869.3	Escherichia phage P13374, complete genome.	79
+1151014.3	Vibrio phage phi-A318, complete genome.	46
+1154995.4	Helicobacter phage 1961P, complete genome.	33
+1158680.4	Pseudomonas phage NH-4, complete genome.	94
+115992.3	Vibrio phage nt-1 genomic sequence.	379
+1161906.3	Weissella phage phiYS61, complete genome.	48
+1161930.3	Leuconostoc phage Lmd1, complete genome.	40
+1161931.3	Agrobacterium phage 7-7-1, complete genome.	127
+1162290.3	Cronobacter phage CR9, complete genome.	281
+1165702.3	Staphylococcus phage phi7401PVL DNA, complete genome.	44
+1168280.3	Cronobacter phage phiES15, complete genome.	52
+1168563.3	Stenotrophomonas phage Smp131, complete genome.	46
+1168744.3	Listeria phage vB_LmoM_AG20, complete genome.	178
+1173743.3	Listeria phage LP-030-2, complete genome.	69
+1173745.3	Listeria phage LP-026, complete genome.	114
+1173747.3	Listeria phage LP-037, complete genome.	114
+1173749.3	Salmonella phage FSL SP-031, complete genome.	59
+1173754.3	Salmonella phage FSL SP-030, complete genome.	71
+1173757.4	Salmonella phage FSL SP-088, complete genome.	70
+1173761.3	Salmonella phage FSL SP-058, complete genome.	86
+1173762.3	Salmonella phage FSL SP-076, complete genome.	82
+1173764.3	Listeria phage LP-048, complete genome.	177
+1173766.3	Listeria phage LP-125, complete genome.	189
+1173769.3	Salmonella phage FSL SP-004, complete genome.	40
+1177632.3	Salmonella phage SSU5, complete genome.	130
+1182515.3	Mannheimia phage vB_MhM_1152AP, complete genome.	52
+1188794.4	Xanthomonas phage CP1 DNA, complete genome.	47
+1188795.3	Xanthomonas citri phage CP2 DNA, complete genome.	40
+1190451.3	Campylobacter phage CP21, complete genome.	257
+1194091.3	Klebsiella phage NTUH-K2044-K1-1 DNA, complete genome.	35
+1195068.3	Staphylococcus phage StauST398-1, complete genome.	69
+1195071.3	Staphylococcus phage StauST398-3, complete genome.	69
+1195072.3	Bacillus cereus bacteriophage vB_BceM_Bc431v3, complete genome.	238
+1195085.3	Cronobacter phage CR5, complete genome.	231
+1195086.3	Staphylococcus phage SA13, complete genome.	62
+1197935.3	Enterobacteriaphage UAB_Phi87, complete genome.	147
+1198013.3	Aeromonas phage Aes508, complete genome.	230
+1198014.3	Aeromonas phage Aes012, complete genome.	243
+1204178.4	Helicobacter phage KHP40 DNA, complete genome.	32
+1204515.3	Mycobacteriophage Taj, complete genome.	110
+1204521.3	Escherichia phage ECML-117, complete genome.	94
+1204522.4	Escherichia phage ECML-134, complete genome.	270
+1204523.3	Escherichia phage ECML-4, complete genome.	198
+1204524.3	Streptomyces phage phiHau3, complete genome.	72
+1204525.3	Streptomyces phage SV1, complete genome.	55
+1204526.3	Streptomyce phage TG1, complete genome.	54
+1204528.3	Salmonella phage SKML-39, complete genome.	208
+1204529.9	Salmonella phage SSE-121, complete genome.	242
+1204531.3	Salmonella phage STML-198, complete genome.	255
+1204533.3	Bacillus phage phiAGATE, complete genome.	210
+1204534.3	Clostridium phage phiMMP02, complete genome.	76
+1204535.3	Clostridium phage phiMMP04, complete genome.	51
+1204538.3	Pseudomonas phage Phi-S1, complete genome.	47
+1204539.3	Pectobacterium phage My1, complete genome.	149
+1204540.4	Enterococcus phage EfaCPT1, complete genome.	69
+1204543.4	Staphylococcus phage SA11, complete genome.	186
+1206110.3	Lactobacillus phage AQ113, complete genome.	56
+1206300.3	Enterobacteria phage Hgal1, complete sequence.	4
+1206313.3	Enterobacteria phage C-1 INW-2012, complete sequence.	4
+1206545.3	Klebsiella phage 0507-KN2-1 DNA, complete genome.	154
+1206557.3	Yersinia phage phiR201 complete genome.	146
+1206558.3	Yersinia phage phiR1-RT complete genome.	262
+1206559.3	Yersinia phage phi80-18 complete genome.	55
+1206560.3	Yersinia phage phiD1 complete genome.	277
+1208236.4	Helicobacter phage KHP30 DNA, complete genome.	30
+1208587.3	Streptococcus phage SP-QS1 complete genome.	104
+1211417.3	Uncultured phage crAssphage, complete genome.	80
+1211640.3	Caulobacter phage CcrColossus, complete genome.	448
+1211641.3	Caulobacter phage CcrKarma, complete genome.	353
+1211642.3	Caulobacter phage CcrMagneto, complete genome.	347
+1211643.3	Caulobacter phage CcrRogue, complete genome.	350
+1211644.3	Caulobacter phage CcrSwift, complete genome.	343
+1216926.3	Escherichia phage ADB-2, complete genome.	78
+1217810.3	Pectobacterium phage PP1, complete genome.	48
+1220714.3	Rhizobium phage RHEph06, complete genome.	82
+1221835.3	Acinetobacter phage YMC/09/02/B1251_ABA_BP, complete genome.	62
+1222338.3	Enterobacteria phage GEC-3S complete genome.	277
+1223259.3	Pseudomonas phage JBD24, complete genome.	58
+1223260.3	Pseudomonas phage JBD30, complete genome.	56
+1223261.3	Pseudomonas phage JBD5, complete genome.	59
+1223262.3	Pseudomonas phage JBD88a, complete genome.	55
+1225789.3	Enterobacteria phage SfI, complete genome.	65
+1225790.3	Pseudomonas phage MPK7, complete genome.	53
+1225794.3	Lactobacillus phage ATCC 8014-B1, complete genome.	60
+1225800.3	Listeria phage P70, complete genome.	119
+1229751.3	Lactococcus phage BM13, complete genome.	55
+1229752.3	Campylobacter phage CP30A, complete genome.	162
+1229753.4	Escherichia phage phAPEC8, complete genome.	269
+1229754.3	Vibrio phage vB_VpaM_MAR, complete genome.	62
+1229755.3	Vibrio phage vB_VpaS_MAR10, complete genome.	107
+1229757.3	Escherichia phage EC6, complete genome.	136
+1229782.3	Propionibacterium phage P9.1, complete genome.	45
+1229784.3	Propionibacterium phage P14.4, complete genome.	47
+1229788.3	Propionibacterium phage P105, complete genome.	45
+1229789.3	Propionibacterium phage P100D, complete genome.	47
+1229790.3	Propionibacterium phage P100_A, complete genome.	45
+1229791.3	Propionibacterium phage P100_1, complete genome.	47
+1229792.3	Propionibacterium phage P1.1, complete genome.	45
+1229793.3	Propionibacterium phage ATCC29399B_T, complete genome.	46
+1229794.3	Propionibacterium phage ATCC29399B_C, complete genome.	46
+1231048.3	Pseudomonas phage vB_PaeM_C2-10_Ab1 complete genome.	158
+1233488.3	Vibrio phage vpms1, complete genome.	53
+1234701.3	Pseudomonas phage vB_PaeP_p2-10_Or1, complete genome.	58
+1235559.3	Providencia phage Redjac, complete genome.	41
+1235640.3	Enterobacteria phage M, complete genome.	4
+1235645.3	Propionibacterium phage PHL010M04, complete genome.	45
+1235646.3	Propionibacterium phage PHL037M02, complete genome.	45
+1235649.3	Propionibacterium phage PHL067M10, complete genome.	45
+1235650.3	Propionibacterium phage PHL071N05, complete genome.	45
+1235653.4	Propionibacterium phage PHL111M01, complete genome.	45
+1235654.3	Propionibacterium phage PHL112N00, complete genome.	46
+1235655.3	Propionibacterium phage PHL113M01, complete genome.	44
+1235656.3	Propionibacterium phage PHL114L00, complete genome.	46
+1235659.3	Staphylococcus phage vB_SauM_Remus, complete genome.	174
+1235660.3	Staphylococcus phage vB_SauM_Romulus, complete genome.	164
+1235661.3	Pseudomonas phage UFV-P2, complete genome.	75
+1235689.3	Pseudomonas phage AF, complete genome.	65
+1235824.3	Acinetobacter phage Abp1, complete genome.	54
+1236000.3	Klebsiella phage JD001, complete genome.	68
+1236573.3	Bacillus phage BMBtp2, complete genome.	53
+1237159.4	Enterobacteria phage NJ01, complete genome.	109
+1237364.3	Enterobacteria phage HX01, complete genome.	62
+1239381.3	Streptococcus phage phiNJ2, complete genome.	55
+1239382.3	Stenotrophomonas phage IME15, complete genome.	45
+1239383.3	Staphylococcus phage JD007, complete genome.	217
+1239384.3	Enterobacter phage IME11, complete genome.	91
+1244856.3	Edwardsiella phage KF-1 DNA, complete genome.	48
+1245814.4	Mycobacterium phage First, complete genome.	95
+1245890.3	Enterobacteria phage JL1, complete genome.	60
+1247.119	Oenococcus phage phi9805, complete genome.	55
+1247.120	Oenococcus phage phiS13, complete genome.	54
+1247.121	Oenococcus phage phiS11, complete genome.	59
+1262512.3	Staphylococcus phage Team1, complete genome.	217
+1262513.3	Serratia phage phiMAM1, complete genome.	198
+1262514.3	Pseudomonas phage MPK6, complete genome.	50
+1262515.3	Leuconostoc phage phiLN03, complete genome.	39
+1262516.3	Leuconostoc phage phiLN04, complete genome.	39
+1262517.3	Leuconostoc phage phiLN12, complete genome.	41
+1262518.3	Leuconostoc phage phiLN25, complete genome.	41
+1262519.3	Leuconostoc phage phiLN34, complete genome.	41
+1262520.3	Leuconostoc phage phiLN6B, complete genome.	39
+1262521.3	Leuconostoc phage phiLNTR3, complete genome.	41
+1262522.3	Leuconostoc phage P793, complete genome.	38
+1262523.3	Leuconostoc phage phiLNTR2, complete genome.	42
+1262532.3	Mycobacterium phage BTCU-1, complete genome.	73
+1262533.3	Lactococcus phage 340, complete genome.	58
+1262535.3	Lactococcus phage jm2, complete genome.	59
+1262536.3	Lactococcus phage jm3, complete genome.	52
+1262537.4	Lactococcus phage P680, complete genome.	49
+1262538.3	Lactococcus phage phi7, complete genome.	57
+1262539.3	Vibrio phage VH7D, complete genome.	327
+1264700.3	Edwardsiella phage MSW-3 DNA, complete genome.	66
+1267169.3	Streptococcus phage phiBHN167 complete genome.	49
+1273711.3	Synechococcus phage S-CBP1, complete genome.	50
+1273712.3	Staphylococcus phage JS01, complete genome.	66
+1273713.3	Acinetobacter phage AB3, complete genome.	29
+1273738.4	Escherichia phage PBECO 4, complete genome.	551
+1273739.3	Bacillus phage Andromeda, complete genome.	79
+1273740.3	Bacillus phage Curly, complete genome.	77
+1273741.3	Bacillus phage Eoghan, complete genome.	75
+1273742.3	Bacillus phage Finn, complete genome.	77
+1277672.3	Staphylococcus phage StauST398-2, complete genome.	62
+1277886.3	Bacillus phage BPS10C, complete genome.	271
+1279082.3	Pseudomonas phage PPpW-3 DNA, complete sequence.	66
+1279083.3	Pseudomonas phage PPpW-4 DNA, complete sequence.	50
+1282994.3	Burkholderia phage ST79, complete genome.	49
+1282995.3	Serratia phage Eta, complete genome.	69
+1283071.3	Vibrio phage JA-1, complete genome.	79
+1296662.3	Brevibacillus phage Davies, complete genome.	94
+1300004.3	Alteromonas phage vB_AmaP_AD45-P1, complete genome.	120
+1305708.3	Clostridium phage vB_CpeS-CP51, complete genome.	50
+1305710.3	Mycobacterium phage vB_MapS_FF47, complete genome.	73
+1307804.3	Escherichia phage Lw1, complete genome.	273
+1308863.3	Bacillus phage vB_BanS-Tsamsa, complete genome.	272
+1308896.3	Staphylococcus phage StauST398-4, complete genome.	65
+1308897.3	Staphylococcus phage StauST398-5, complete genome.	65
+1316739.3	Pseudoalteromonas phage RIO-1, complete genome.	56
+1325372.3	Edwardsiella phage PEi21, complete genome.	71
+1325731.3	Flavobacterium phage 6H, complete genome.	63
+1325953.4	Mycobacterium phage PegLeg, complete genome.	138
+1327035.4	Mycobacterium phage CASbig, complete genome.	97
+1327036.3	Mycobacterium phage WIVsmall, complete genome.	83
+1327037.3	Croceibacter phage P2559Y, complete genome.	51
+1327758.3	Streptomyces phage Lika, complete genome.	75
+1327759.3	Streptomyces phage Sujidade, complete genome.	77
+1327760.3	Streptomyces phage Zemlya, complete genome.	76
+1327762.3	Mycobacterium phage Astraea, complete genome.	232
+1327763.4	Mycobacterium phage Breezona, complete genome.	132
+1327764.4	Mycobacterium phage Dumbo, complete genome.	147
+1327765.4	Mycobacterium phage Fishburne, complete genome.	77
+1327766.4	Mycobacterium phage Newman, complete genome.	97
+1327770.4	Mycobacterium phage HINdeR, complete genome.	84
+1327771.4	Mycobacterium phage Job42, complete genome.	106
+1327772.4	Mycobacterium phage Jobu08, complete genome.	85
+1327773.4	Mycobacterium phage PattyP, complete genome.	92
+1327774.4	Mycobacterium phage Phrux, complete genome.	141
+1327775.3	Mycobacterium phage SDcharge11, complete genome.	100
+1327776.3	Mycobacterium phage Severus, complete genome.	80
+1327777.3	Mycobacterium phage SiSi, complete genome.	99
+1327934.3	Cronobacter phage CR8, complete genome.	269
+1327936.3	Mycobacterium phage Gizmo, complete genome.	241
+1327937.4	Mycobacterium phage Phaux, complete genome.	145
+1327938.3	Mycobacterium phage ArcherS7, complete genome.	237
+1327939.4	Mycobacterium phage Murphy, complete genome.	146
+1327947.4	Mycobacterium phage Chy4, complete genome.	73
+1327948.5	Mycobacterium phage Chy5, complete genome.	88
+1327950.4	Mycobacterium phage DNAIII, complete genome.	60
+1327952.3	Mycobacterium phage Leo, complete genome.	59
+1327956.3	Escherichia phage 2 JES-2013, complete genome.	220
+1327959.4	Mycobacterium phage Adler, complete genome.	125
+1327964.3	Pseudomonas phage PAK_P5, complete genome.	164
+1327965.3	Pseudomonas phage CHA_P1, complete genome.	166
+1327966.3	Pseudomonas phage PAK_P4, complete genome.	174
+1335230.3	Pseudomonas phage PaBG, complete genome.	308
+1337877.3	Paenibacillus phage phiIBB_Pl23, complete genome.	68
+1340534.3	Salmonella phage Jersey, complete genome.	69
+1340708.4	Mycobacterium phage Bobi, complete genome.	107
+1340713.3	Mycobacterium phage Wanda, complete genome.	240
+1340810.3	Synechococcus phage S-MbCM7, complete genome.	221
+1340812.3	Synechococcus phage S-MbCM100, complete genome.	210
+1340818.3	Mycobacterium phage LittleCherry, complete genome.	87
+1340819.4	Mycobacterium phage Catdawg, complete genome.	128
+1340820.4	Mycobacterium phage Jabbawokkie, complete genome.	106
+1340821.3	Mycobacteriophage Velveteen, complete genome.	100
+1340822.3	Mycobacteriophage Daenerys, complete genome.	102
+1340825.3	Mycobacterium phage Trouble, complete genome.	94
+1340826.3	Mycobacterium phage Whirlwind, complete genome.	128
+1340827.3	Mycobacterium phage Sarfire, complete genome.	99
+1340828.3	Mycobacterium phage Reprobate, complete genome.	97
+1340829.4	Mycobacterium phage Muddy, complete genome.	71
+1340830.4	Mycobacterium phage KayaCho, complete genome.	95
+1340831.3	Mycobacterium phage Dylan, complete genome.	121
+1340833.4	Mycobacterium phage Contagion, complete genome.	140
+1340836.3	Mycobacterium phage Crossroads, complete genome.	133
+1341101.3	Vibrio phage VPUSM 8, complete genome.	43
+1343494.3	Stenotrophomonas phage phiSMA7 proviral complete genome.	10
+1347760.3	Staphylococcus phage SA12, complete genome.	58
+1348912.3	Pseudomonas phage PAK_P2, complete genome.	176
+1351740.3	Yersinia phage PST, complete genome.	271
+1352227.3	Ralstonia phage RSS30 DNA, complete genome.	3
+1352230.3	Phage phi OH2 DNA, complete genome.	60
+1354496.3	Ralstonia phage RSS20 DNA.	9
+1354507.3	Mycobacterium phage Adawi, complete genome.	98
+1354508.3	Mycobacterium phage Bane1, complete genome.	94
+1354509.3	Mycobacterium phage Bane2, complete genome.	94
+1354510.3	Mycobacterium phage Fredward, complete genome.	103
+1354512.3	Mycobacterium phage PhrostyMug, complete genome.	98
+1354513.3	Mycobacterium phage SargentShorty9, complete genome.	101
+1354514.3	Mycobacterium phage Quink, complete genome.	151
+1357423.3	Sinorhizobium phage phiM12, complete genome.	377
+1357669.4	Mycobacterium phage DrDrey, complete genome.	144
+1357713.3	Bacillus phage phiCM3, complete genome.	56
+1357714.3	Caulobacter phage Cr30, complete genome.	286
+1357732.3	Anabaena phage A-4L, complete genome.	38
+1357825.3	Enterobacteria phage fiAA91-ss, complete genome.	40
+1382932.3	Bacillus phage Troll, complete genome.	289
+1383054.3	Mycobacteriophage Wheeler, complete genome.	96
+1383055.3	Myobacteriophage Phelemich, complete genome.	95
+1383056.4	Myobacteriophage Papyrus, complete genome.	100
+1383057.3	Myobacteriophage Goku, complete genome.	143
+1383059.4	Myobacteriophage Adzzy, complete genome.	96
+1385385.3	Streptococcus phage TP-778L complete genome.	52
+1385658.3	Marine gokushovirus isolate GOM, complete genome.	6
+1391179.3	Mycobacterium phage Bruin, complete genome.	141
+1391180.3	Mycobacterium phage Nala, complete genome.	147
+1391181.3	Mycobacterium phage PhatBacter, complete genome.	148
+1391188.3	Bacillus phage CP-51, complete genome.	221
+1391190.3	Pseudomonas phage MP48, complete genome.	50
+1391223.3	Escherichia phage vB_EcoP_PhAPEC7, complete genome.	83
+1391224.3	Escherichia phage vB_EcoM_PhAPEC2, complete genome.	254
+1391428.3	Enterobacteria phage 4MG, complete genome.	271
+1391429.3	Mycobacterium phage Artemis2UCLA, complete genome.	102
+1391430.3	Mycobacterium phage CloudWang3, complete genome.	103
+1391431.3	Mycobacterium phage Conspiracy, complete genome.	86
+1391432.3	Mycobacterium phage Graduation, complete genome.	97
+1391433.3	Mycobacterium phage Zaka, complete genome.	101
+1391659.3	Edwardsiella phage eiAU-183, complete genome.	54
+1395983.3	Escherichia phage vB_EcoP_PhAPEC5, complete genome.	83
+1399915.3	Pectobacterium phage PM1, complete genome.	63
+1399941.3	Lactobacillus phage phiJB, complete genome.	46
+1399942.3	Lactobacillus phage phiLdb, complete genome.	59
+1399949.3	Staphylococcus phage YMC/09/04/R1988, complete genome.	62
+1401297.3	Burkholderia phage JG068, complete genome.	49
+1401669.3	Erwinia phage PhiEaH1, complete genome.	241
+1402875.3	Ralstonia phage RSB3 DNA, complete genome.	50
+1403390.3	Staphylococcus phage phiRS7, complete genome.	62
+1406780.3	Acinetobacter phage Presley, complete genome.	95
+1406781.3	Bacillus phage BigBertha, complete genome.	291
+1406782.3	Bacillus phage Blastoid, complete genome.	79
+1406783.3	Bacillus phage CampHawk, complete genome.	231
+1406784.3	Bacillus phage Glittering, complete genome.	78
+1406785.3	Bacillus phage Grass, complete genome.	252
+1406786.3	Bacillus phage Page, complete genome.	50
+1406788.3	Bacillus phage Riggi, complete genome.	79
+1406789.3	Bacillus phage Pony, complete genome.	48
+1406790.3	Bacillus phage Slash, complete genome.	111
+1406791.3	Bacillus phage Spock, complete genome.	283
+1406792.3	Bacillus phage Staley, complete genome.	113
+1406793.3	Clavibacter phage CN1A, complete genome.	78
+1406795.3	Salmonella phage Maynard, complete genome.	200
+1406974.3	Pseudomonas phage TL complete genome.	65
+1407493.3	Shigella phage SfIV, complete genome.	54
+1410331.3	Cronobacter phage Dev2 complete genome.	45
+1411095.3	Clostridium phage CDMH1 complete genome.	84
+1412875.3	Lactococcus phage phiL47, complete genome.	189
+1414736.3	Lactobacillus phage J-1, complete genome.	63
+1414737.3	Rhizobium phage vB_RleS_L338C, complete genome.	181
+1414738.3	Shigella phage pSb-1, complete genome.	103
+1414739.3	Vibrio phage SHOU24, complete genome.	96
+1414742.3	Arthrobacter phage vB_ArS-ArV2, complete genome.	68
+1414747.3	Mycobacterium phage Validus, complete genome.	105
+1415145.6	Phage Paz, complete genome.	51
+1415146.3	Phage Prado, complete genome.	52
+1416009.3	Achromobacter phage JWAlpha, complete genome.	91
+1416011.3	Klebsiella phage F19, complete genome.	51
+1416012.3	Enterococcus phage IME_EF3, complete genome.	69
+1416028.3	Escherichia phage bV_EcoS_AHP42, complete genome.	76
+1416030.3	Escherichia phage bV_EcoS_AHS24, complete genome.	81
+1416031.3	Escherichia phage bV_EcoS_AKS96, complete genome.	74
+1417599.3	Ralstonia phage RSK1 DNA, complete genome.	54
+1429759.3	Mycobacterium phage EagleEye, complete genome.	95
+1429767.3	Erwinia phage Ea9-2, complete genome.	94
+1429768.3	Erwinia phage Ea35-70, complete genome.	318
+1429791.3	Mycobacterium phage BellusTerra, complete genome.	89
+1429793.3	Mycobacterium phage Donovan, complete genome.	78
+1429903.3	Mycobacterium phage Bernardo, complete genome.	100
+1429904.3	Mycobacterium phage HanShotFirst, complete genome.	91
+1429905.3	Mycobacterium phage JAMaL, complete genome.	98
+1429912.3	Mycobacterium phage Jovo, complete genome.	84
+1430411.3	Mycobacterium phage HufflyPuff, complete genome.	146
+1430444.3	Escherichia phage vB_EcoM_JS09, complete genome.	273
+1432658.3	Enterococcus phage IME-EF4, complete genome.	60
+1434319.3	Staphylococcus phage vB_SepS_SEP9, complete genome.	129
+1434323.3	Escherichia phage HY01, complete genome.	255
+1436889.4	Escherichia phage KBNP1711, complete genome.	126
+1437839.3	Mycobacterium phage Echild, complete genome.	100
+1439894.3	Klebsiella phage K64-1 DNA, complete genome.	64
+1445714.3	Mycobacterium phage Nyxis, complete genome.	87
+1445715.3	Mycobacterium phage Obama12, complete genome.	89
+1445726.3	Mycobacterium phage MichelleMyBell, complete genome.	70
+1445727.3	Mycobacterium phage Oaker, complete genome.	92
+1445729.3	Mycobacterium phage 32HC, complete genome.	86
+1445858.3	Enterococcus phage IME-EFm1, complete genome.	70
+1445859.3	Shewanella phage Spp001, complete genome.	67
+1445860.3	Salmonella phage STP4-a, complete genome.	259
+1446489.3	Escherichia phage vB_EcoS_FFH1, complete genome.	156
+1446490.3	Escherichia phage vB_EcoM_FFH2, complete genome.	218
+1446492.3	Salmonella phage vB_SalM_SJ3, complete genome.	210
+1448273.3	Streptococcus phage DCC1738, complete sequence.	56
+1448276.3	Streptococcus phage IC1, complete sequence.	49
+1449437.4	Pseudomonas phage vB_PaeP_Tr60_Ab31.	69
+1449896.3	Uncultured phage WW-nAnB strain 2, complete genome.	8
+1450142.3	Staphylococcus phage phiSA012 DNA, complete genome.	207
+1453336.3	Pseudomonas phage SPM-1, complete genome.	92
+1453367.3	Staphylococcus phage GRCS, complete genome.	21
+1455074.3	Enterobacter phage PG7, complete genome.	294
+1455075.3	Citrobacter phage CR44b complete genome.	57
+1455076.4	Citrobacter phage CR8 complete genome.	57
+1458669.3	Acinetobacter phage IME_AB3, complete genome.	57
+1458670.3	Microbacterium phage vB_MoxS-ISF9, complete genome.	120
+1458697.3	Rhizobium phage vB_RglS_P106B, complete genome.	95
+1458711.3	Mycobacterium phage Hawkeye, complete genome.	104
+1458714.3	Mycobacterium phage Seabiscuit, complete genome.	94
+1458716.3	Vibrio phage CHOED, complete genome.	91
+1458717.3	Mycobacterium phage 40AC, complete genome.	90
+1458724.3	Mycobacterium phage Alsfro, complete genome.	98
+1458725.3	Mycobacterium phage Soto, complete genome.	98
+1458726.3	Mycobacterium phage 20ES, complete genome.	96
+1458831.3	Mycobacterium phage Jolie2, complete genome.	62
+1458841.3	Mycobacterium phage CRB1, complete genome.	94
+1458842.3	Geobacillus phage GBK2, complete genome.	62
+1458843.3	Pseudomonas phage phiPsa374, complete genome.	173
+1458846.3	Mycobacterium phage RhynO, complete genome.	73
+1458848.3	Enterobacteria phage Bp4, complete genome.	98
+1458849.3	Salmonella phage vB_SalM_SJ2, complete genome.	197
+1458851.4	Enterococcus phage VD13, complete genome.	88
+1458852.3	Listeria phage LP-030-3, complete genome.	73
+1458855.3	Listeria phage LP-083-2, complete genome.	189
+1458856.3	Listeria phage LP-101, complete genome.	70
+1458857.3	Listeria phage LP-114, complete genome.	116
+1458859.3	Shewanella sp. phage 1/4, complete genome.	235
+1458860.3	Shewanella sp. phage 1/40, complete genome.	236
+1458861.3	Shewanella sp. phage 1/41, complete genome.	69
+1458862.3	Shewanella sp. phage 1/44, complete genome.	75
+1458863.3	Shewanella sp. phage 3/49, complete genome.	70
+1460070.3	Ralstonia phage 1 NP-2014, complete sequence.	16
+1461743.3	Vibrio phage PVA1, complete genome.	21
+1462608.3	Pseudomonas phage KPP25 DNA, complete sequence.	88
+1463809.3	Mycobacterium phage 39HC, complete genome.	100
+1463811.3	Mycobacterium phage Hosp, complete genome.	97
+1463812.3	Mycobacterium phage Jolie1, complete genome.	98
+1465613.3	Salmonella phage vB_SenS-Ent3 complete genome.	60
+1465618.3	Salmonella phage vB_SenS-Ent2 complete genome.	56
+1468169.3	Mycobacterium phage Lamina13, complete genome.	96
+1468411.4	Enterobacteria phage 9g, complete genome.	71
+1471542.3	Mycobacterium phage MosMoris, complete genome.	111
+1472912.3	Nitrincola phage 1M3-16, complete genome.	144
+1476390.3	Pseudomonas phage vB_PaeS_SCH_Ab26, complete genome.	52
+1476391.3	Pseudomonas phage vB_PaeP_C2-10_Ab09, complete genome.	83
+1476886.3	Lactococcus phage P078, complete genome.	78
+1476887.3	Lactococcus phage P092, complete genome.	76
+1476888.3	Lactococcus phage P118, complete genome.	80
+1476889.3	Lactococcus phage P162, complete genome.	82
+1477404.4	Dinoroseobacter phage DFL12phi1, complete genome.	86
+1477406.3	Dickeya phage RC-2014, complete genome.	196
+1481112.3	Serratia phage PS2, complete genome.	275
+1481186.3	Acinetobacter phage vB_AbaM_Acibel004, complete genome.	156
+1481187.3	Acinetobacter phage vB_AbaP_Acibel007, complete genome.	53
+1481224.3	Pseudomonas phage JD024, complete genome.	58
+1486403.3	Mycobacterium phage Manad, complete genome.	101
+1486413.3	Listeria phage LMTA-148, complete genome.	177
+1486421.3	Listeria phage LMSP-25, complete genome.	187
+1486422.3	Listeria phage List-36, complete genome.	174
+1486423.3	Lactoccocus phage WP-2, complete genome.	24
+1486424.3	Mycobacterium phage Bernal13, complete genome.	60
+1486425.3	Mycobacterium phage Kampy, complete genome.	88
+1486426.3	Mycobacterium phage Phantastic, complete genome.	91
+1486427.3	Mycobacterium phage ZoeJ, complete genome.	92
+1486428.3	Enterococcus phage EFC-1, complete genome.	59
+1486469.3	Mycobacterium phage Damien, complete genome.	93
+1486472.4	Mycobacterium phage Gaia, complete genome.	179
+1486473.3	Mycobacterium phage OkiRoe, complete genome.	96
+1486657.3	Bacillus phage CAM003, complete genome.	287
+1486658.3	Bacillus phage Evoli, complete genome.	294
+1486659.3	Bacillus phage Hakuna, complete genome.	294
+1486660.3	Bacillus phage Hoody T, complete genome.	270
+1486661.3	Bacillus phage Megatron, complete genome.	290
+1486662.3	Bacillus phage Riley, complete genome.	290
+1493507.3	Synechococcus phage ACG-2014a isolate Syn7803C33, complete genome.	208
+1493508.3	Synechococcus phage ACG-2014b isolate Syn7803C100, complete	217
+1493509.3	Synechococcus phage ACG-2014d isolate Syn7803C102, complete	218
+1493510.3	Synechococcus phage ACG-2014e isolate Syn7803C2, complete genome.	213
+1493511.3	Synechococcus phage ACG-2014f isolate Syn7803C90, complete genome.	292
+1493512.3	Synechococcus phage ACG-2014g isolate Syn7803US105, complete	216
+1493513.3	Synechococcus phage ACG-2014i isolate Syn7803US120, complete	212
+1493514.3	Synechococcus phage ACG-2014j isolate Syn7803US103, complete	230
+1495285.3	Escherichia phage e11/2, complete genome.	279
+1495286.3	Escherichia phage e4/1c, complete genome.	72
+1498168.3	Enterococcus phage ECP3, complete genome.	220
+1498172.5	Escherichia phage ECBP5, complete genome.	62
+1498188.3	Propionibacterium phage Pacnes 2012-15, complete genome.	45
+1498204.3	Mycobacterium phage Pinto, complete genome.	87
+1498212.3	Bacillus phage JBP901, complete genome.	201
+1498220.3	Staphylococcus phage phiSa119, complete genome.	68
+1498227.3	Shigella phage POCJ13, complete genome.	79
+1498228.4	Rhizobium phage vB_RleM_PPF1, complete genome.	94
+1500386.5	Staphylococcus phage 6ec, complete genome.	142
+1500713.3	Vibrio phage X29, complete genome.	67
+1500733.3	Lactobacillus phage Ld17, complete genome.	50
+1500734.3	Lactobacillus phage Ld25A, complete genome.	51
+1500735.3	Lactobacillus phage Ld3, complete genome.	49
+1500756.3	Pseudomonas phage phiPSA2, complete genome.	47
+1500757.3	Pseudomonas phage phiPSA1, complete genome.	52
+1500798.3	Propionibacterium phage PHL009M11, complete genome.	45
+1500799.3	Propionibacterium phage PHL025M00, complete genome.	43
+1500800.3	Propionibacterium phage PHL030N00, complete genome.	45
+1500801.3	Propionibacterium phage PHL041M10, complete genome.	45
+1500802.3	Propionibacterium phage PHL055N00, complete genome.	45
+1500803.3	Propionibacterium phage PHL064M01, complete genome.	46
+1500805.3	Propionibacterium phage PHL067M01, complete genome.	46
+1500807.3	Propionibacterium phage PHL070N00, complete genome.	44
+1500808.3	Propionibacterium phage PHL082M00, complete genome.	47
+1500812.3	Propionibacterium phage PHL085N00, complete genome.	44
+1500813.3	Propionibacterium phage PHL092M00, complete genome.	45
+1500815.3	Propionibacterium phage PHL114N00, complete genome.	45
+1500816.3	Propionibacterium phage PHL116M00, complete genome.	46
+1500818.3	Propionibacterium phage PHL117M00, complete genome.	45
+1500820.3	Propionibacterium phage PHL132N00, complete genome.	42
+1500821.3	Propionibacterium phage PHL141N00, complete genome.	45
+1500822.3	Propionibacterium phage PHL150M00, complete genome.	45
+1500823.3	Propionibacterium phage PHL151M00, complete genome.	46
+1500825.3	Propionibacterium phage PHL152M00, complete genome.	45
+1500826.3	Propionibacterium phage PHL163M00, complete genome.	46
+1500827.3	Propionibacterium phage PHL171M01, complete genome.	45
+1500828.3	Propionibacterium phage PHL179M00, complete genome.	45
+1500829.3	Propionibacterium phage PHL194M00, complete genome.	45
+1500831.3	Propionibacterium phage PHL301M00, complete genome.	45
+1500832.3	Propionibacterium phage PHL308M00, complete genome.	45
+1503929.3	Aurantimonas phage AmM-1 DNA, complete sequence.	67
+1505225.3	Acinetobacter phage YMC-13-01-C62, complete genome.	84
+1505227.3	Aeromonas phage pAh6-C, complete genome.	86
+1505528.3	Ralstonia phage RS603 DNA, complete genome.	13
+1510440.3	Bacillus phage Waukesha92, complete genome.	72
+1519788.3	Phage vB_EcoP_SU10, complete genome.	125
+1519999.3	Staphylococcus phage phiBU01, complete genome.	46
+1524881.3	Enterobacteria phage Sf101, complete genome.	66
+1524910.3	Staphylococcus phage MCE-2014, complete genome.	204
+1526408.3	Staphylococcus phage P108, complete genome.	226
+1526550.3	Sulfitobacter phage NYA-2014a, complete genome.	71
+1527463.3	Mycobacterium phage Cerasum, complete genome.	102
+1527469.3	Bacillus phage Bobb, complete genome.	247
+1527493.3	Mycobacterium phage Sparky, complete genome.	91
+1527506.3	Escherichia phage CICC 80001, complete genome.	49
+1527511.3	Mycobacterium phage Hades, complete genome.	102
+1527512.3	Mycobacterium phage Squirty, complete genome.	102
+1527513.3	Mycobacterium phage Minerva, complete genome.	238
+1527514.3	Enterobacteria phage EK99P-1, complete genome.	62
+1527515.3	Idiomarinaceae phage Phi1M2-2, complete genome.	65
+1527519.3	Escherichia phage Av-05, complete genome.	209
+1527524.6	Citrobacter phage Miller, complete genome.	277
+1527525.3	Pseudomonas phage vB_PaeP_PPA-ABTNL, complete genome.	54
+1527580.3	Mycobacterium phage Inventum, complete genome.	102
+1527770.3	Rhizobium phage vB_RleM_P10VF, complete genome.	257
+1527771.3	Mesorhizobium phagevB_MloP_Lo5R7ANS, complete genome.	64
+1529058.3	Vibrio phage ICP2_2013_A_Haiti, complete genome.	57
+1530085.3	Ralstonia phage RSY1 DNA, complete genome.	49
+1530400.3	Pseudomonas phage Pa2, complete genome.	91
+1536592.3	Idiomarinaceae phage 1N2-2, complete genome.	56
+1536597.3	Enterobacteria phage J8-65, complete genome.	47
+1536598.3	Mycobacterium phage BuzzLyseyear, complete genome.	110
+1536603.3	Mycobacteriophage Estave1, complete genome.	112
+1536604.3	Leuconostoc phage Ln-8, complete genome.	45
+1536605.3	Leuconostoc phage Ln-9, complete genome.	48
+1536611.3	Yersinia phage vB_YenP_AP5, complete genome.	45
+1537091.3	Edwardsiella phage GF-2 DNA, complete sequence.	82
+1538804.3	Vibrio phage VpKK5, complete genome.	82
+1540095.3	Citrobacter phage Moon, complete genome.	298
+1540096.3	Citrobacter phage Stevie, complete genome.	90
+1540097.3	Escherichia phage Pollock, complete genome.	85
+1540823.3	Salmonella phage LSPA1, complete genome.	58
+1541821.3	Listeria phage WIL-1, complete genome.	38
+1541825.3	Shigella phage Shf125875, complete genome.	267
+1541883.3	Escherichia phage vB_EcoM-ep3, complete genome.	51
+1541887.3	Salmonella phage Chi, complete genome.	75
+1542498.3	Lelliottia phage phD2B, complete genome.	49
+1544364.3	Microviridae IME-16, complete sequence.	7
+1548901.3	Pseudomonas phage vB_PaeM_PAO1_Ab03, complete genome.	156
+1548902.3	Pseudomonas phage vB_PaeP_PAO1_Ab05, complete genome.	54
+1548905.3	Pseudomonas phage vB_PaeS_PAO1_Ab18, complete genome.	76
+1548906.3	Pseudomonas phage vB_PaeP_C2-10_Ab22, complete genome.	71
+1548907.3	Pseudomonas phage vB_PaeM_PAO1_Ab27, complete genome.	93
+1548918.3	Pseudomonas phage vB_PaeS_PAO1_Ab30, complete genome.	59
+1551641.3	Shigella phage pSs-1, complete genome.	266
+1552735.3	Lactobacillus phage Ldl1, complete genome.	79
+1555202.3	Escherichia phage 121Q, complete genome.	611
+1555208.3	Ruegeria phage DSS3-P1, complete genome.	82
+1555238.3	Escherichia phage vB_EcoM-VpaE1, complete genome.	132
+1558467.3	Vibrio phage J2, complete genome.	48
+1558469.3	Vibrio phage QH, complete genome.	48
+1560282.3	Proteus phage PM 75, complete genome.	25
+1560283.3	Proteus phage PM 85, complete genome.	23
+1560313.3	Lactococcus phage WRP3, complete genome.	178
+1560342.3	Acinetobacter phage YMC13/03/R2096, complete genome.	162
+1561065.5	Paracoccus phage vB_PmaS_IMEP1, complete genome.	52
+1562076.3	Pseudomonas phage Pf-10, complete genome.	46
+1563661.3	Delftia phage RG-2014, complete genome.	89
+1564096.3	Erwinia phage phiEa2809, complete genome.	145
+1566990.3	Streptococcus phage SpSL1, complete genome.	50
+1566993.3	Arthrobacter phage vB_ArtM-ArV1, complete genome.	99
+1566995.3	Pseudomonas phage YH6, complete genome.	90
+1567004.3	Siphoviridae phage YD-2008.s, complete genome.	62
+1567006.3	Enterobacteria phage DT57C, complete genome.	133
+1567022.3	Enterobacteria phage SfMu, complete genome.	55
+1567025.3	Salmonella phage HB-2014, complete genome.	126
+1567466.3	Mycobacterium phage Alvin, complete genome.	86
+1567471.3	Mycobacterium phage Keshu, complete genome.	101
+1567472.3	Mycobacterium phage Malithi, complete genome.	79
+1567473.3	Mycobacterium phage Milly, complete genome.	94
+1567475.3	Mycobacterium phage Sbash, complete genome.	89
+1567486.3	Enterobacteria phage P88, complete genome.	53
+1572702.3	Shigella phage pSf-2, complete genome.	83
+1604355.3	Escherichia phage ECBP2, complete genome.	120
+1604356.3	Escherichia phage ECBP1, complete genome.	82
+1609634.3	Eel River basin pequenovirus isolate c22476, complete genome.	9
+207656.3	Bacillus phage phiNIT1 DNA, complete genome.	219
+221915.9	Staphylococcus phage K, complete genome.	233
+31533.3	Enterobacteria phage RB3, complete genome.	273
+39103.3	Lactobacillus phage PL-1, complete genome.	59
+424947.3	Salmonella phage SETP7, complete genome.	67
+424949.3	Salmonella phage SETP13, complete genome.	69
+432198.3	Enterobacteria phage HK106, complete genome.	65
+432200.3	Enterobacteria phage HK542, complete genome.	57
+432201.3	Enterobacteria phage HK544, complete genome.	63
+434346.3	Cyanophage PP, complete genome.	41
+454798.3	Salmonella phage Det7, complete genome.	210
+483266.3	Haemophilus phage SuMu, complete genome.	55
+547228.3	Bacillus phage PM1 DNA, complete genome.	86
+57477.3	Bacillus phage Bastille, complete genome.	273
+584892.3	Bacillus phage Bcp1, complete genome.	229
+634168.4	Halorubrum pleomorphic virus 1, complete genome.	9
+66284.3	Shigella phage SfII, complete genome.	58
+663237.3	Bacillus phage Wip1, complete genome.	27
+69609.3	Enterobacteria phage RB27, complete genome.	271
+73422.3	Streptococcus phage TP-J34 complete genome.	60
+741942.3	Lactococcus phage 1358, complete sequence.	43
+754038.3	Synechococcus phage S-CAM8 strain S-CAM8 06008BI06, complete	204
+754043.3	Sulfitobacter phage pCB2047-C, complete genome.	73
+754045.3	Sulfitobacter phage pCB2047-A, complete genome.	72
+754046.3	Sulfitobacter phage phiCB2047-B genomic sequence.	75
+754059.3	Synechococcus phage S-CBP4, complete genome.	46
+756276.3	Synechococcus phage S-CBP3, complete genome.	53
+756277.3	Synechococcus phage S-CBP2, complete genome.	53
+760530.4	Staphylococcus phage GH15, complete genome.	214
+763998.3	Pseudomonas phage KPP12 DNA, complete genome.	88
+869662.3	Synechococcus phage S-RIM2 R1_1999, complete genome.	210
+885867.3	Prochlorococcus phage P-SSP10 genomic sequence.	49
+908819.3	Flavobacterium phage FCL-2, complete genome.	74
+941058.3	Bacillus phage SP10, complete genome.	236
+984175.3	Cronobacter phage ENT39118, complete genome.	38
+984186.3	Cronobacter phage ENT47670, complete genome.	46
