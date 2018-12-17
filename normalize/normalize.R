@@ -1,4 +1,4 @@
-rm(list = setdiff(ls(), lsf.str()))
+
 library(pheatmap)
 library(data.table)
 library(tibble)
